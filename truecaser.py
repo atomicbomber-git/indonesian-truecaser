@@ -1,15 +1,27 @@
 import argparse
 from nltk import sent_tokenize
+import re
 
 def process(text):
     
-    sentences = [list(sentence) for sentence in sent_tokenize(text)]
-    
-    for i, sentence in enumerate(sentences):
-        sentence[0] = sentence[0].upper()
-        sentences[i] = "".join(sentences[i])
-    
-    return " ".join(sentences)
+    sentences = [sentence for sentence in sent_tokenize(text)]
+
+
+    result_sentences = []
+
+    for sentence in sentences:
+        processed = capitalize_quotation_beginning(sentence)
+        processed = processed[0].upper() + processed[1:]
+        result_sentences.append(processed)
+
+    return " ".join(result_sentences)
+
+def capitalize_quotation_beginning(text):
+    for phrase in re.findall('"([^"]*)"', text):
+        processed_phrase = phrase.strip()
+        processed_phrase = processed_phrase[0].upper() + processed_phrase[1:]
+        text = text.replace('{}'.format(phrase), processed_phrase)
+    return text
 
 def file_to_text(file):
     return "".join([line for line in file])
@@ -27,6 +39,7 @@ if __name__ == "__main__":
     file = args.file[0]
 
     text = file_to_text(file)
-    result = process(text)
 
+
+    result = process(text)
     print(result)
