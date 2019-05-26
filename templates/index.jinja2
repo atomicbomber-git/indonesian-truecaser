@@ -4,18 +4,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title> Halaman Utama </title>
+    <title> Kapitalisasi Teks Bahasa Indonesia </title>
 
     <link rel="stylesheet" href="/static/app.css">
 </head>
 <body>
 
-    <div class="container">
-        <h1> Halaman Utama </h1>
+    <div class="container mt-5">
+        <h1> Kapitalisasi Teks Bahasa Indonesia </h1>
 
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, quam beatae natus doloribus earum ratione vel odio suscipit itaque amet iusto vitae totam ducimus maxime obcaecati adipisci modi veritatis saepe.
-        </p>
+        <form method="POST" action="/">
+            <div class="form-group">
+                <label for="input_text"> Teks Input: </label>
+                <textarea
+                    class="form-control"
+                    name="input_text" placeholder="Teks input" id="input_text" cols="30" rows="10">{% if input_text %}{{ input_text }}{% endif %}</textarea>
+            </div>
+
+            <div class="d-flex justify-content-end">
+                <button class="btn btn-primary">
+                    Proses Teks
+                </button>
+            </div>
+        </form>
+
+        {% if output_text %}
+
+        <div class="mt-5 alert alert-info">
+            {{ output_text }}
+        </div>
+        
+        {% endif %}
+
+        
     </div>
 </body>
 </html>
