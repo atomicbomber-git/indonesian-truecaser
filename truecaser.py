@@ -2,11 +2,9 @@ import argparse
 from nltk import sent_tokenize
 import re
 
+
 def process(text):
-    
     sentences = [sentence for sentence in sent_tokenize(text)]
-
-
     result_sentences = []
 
     for sentence in sentences:
@@ -16,6 +14,7 @@ def process(text):
 
     return " ".join(result_sentences)
 
+
 def capitalize_quotation_beginning(text):
     for phrase in re.findall('"([^"]*)"', text):
         processed_phrase = phrase.strip()
@@ -23,8 +22,10 @@ def capitalize_quotation_beginning(text):
         text = text.replace('{}'.format(phrase), processed_phrase)
     return text
 
+
 def file_to_text(file):
     return "".join([line for line in file])
+
 
 if __name__ == "__main__":
 
@@ -33,13 +34,13 @@ if __name__ == "__main__":
      dengan penggunaan huruf kapital yang 
      benar sesuai dengan aturan PUBI.
     ''')
-    parser.add_argument('file', metavar='file', nargs=1, type=argparse.FileType('r'), help='file teks input')
-    
+    parser.add_argument('file', metavar='file', nargs=1,
+                        type=argparse.FileType('r'), help='file teks input')
+
     args = parser.parse_args()
     file = args.file[0]
 
     text = file_to_text(file)
-
 
     result = process(text)
     print(result)
