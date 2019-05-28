@@ -9,7 +9,7 @@ def process(text):
 
     for sentence in sentences:
         processed = capitalize_quotation_beginning(sentence)
-        processed = processed[0].upper() + processed[1:]
+        processed = processed[0].upper() + processed[1:].lower()
         result_sentences.append(processed)
 
     return " ".join(result_sentences)
@@ -18,7 +18,7 @@ def process(text):
 def capitalize_quotation_beginning(text):
     for phrase in re.findall('"([^"]*)"', text):
         processed_phrase = phrase.strip()
-        processed_phrase = processed_phrase[0].upper() + processed_phrase[1:]
+        processed_phrase = processed_phrase[0].upper() + processed_phrase[1:].lower()
         text = text.replace('{}'.format(phrase), processed_phrase)
     return text
 
