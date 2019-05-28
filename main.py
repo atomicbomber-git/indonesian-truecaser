@@ -1,4 +1,7 @@
+#!
+
 from flask import Flask, jsonify, request, render_template
+import argparse
 import waitress
 import truecaser
 
@@ -21,4 +24,23 @@ def handle():
     text = request.form.get_json()
     return jsonify(text)
 
-waitress.serve(app, host="0.0.0.0", port=8081)
+# Default host and default port
+host = "0.0.0.0"
+port = 8081
+
+# Parse command line arguments
+argument_parser = argparse.ArgumentParser()
+argument_parser.add_argument(
+    "--host",
+    nargs='?',
+    help="Host on which the server will run. Example: 192.168.7.1",
+    default=host
+)
+argument_parser.add_argument("--port",
+    nargs='?',
+    help="Port on which the server will run. Example: 8083",
+    default=port
+)
+
+arguments = argument_parser.parse_args()
+waitress.serve(app, host=arguments.host, port=arguments.port)
