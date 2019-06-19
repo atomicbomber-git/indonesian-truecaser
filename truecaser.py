@@ -2,16 +2,23 @@ import argparse
 from nltk import sent_tokenize
 import re
 
-
+# Memroses teks input
 def process(text):
+    # Memisahkan teks input menjadi kalimat
     sentences = [sentence for sentence in sent_tokenize(text)]
     result_sentences = []
 
+    # Memroses kalimat satu per satu
     for sentence in sentences:
+        # Proses teks yang terdapat didalam tanda petik
         processed = capitalize_quotation_beginning(sentence)
+
+        # Huruf pertama pada kalimat diubah menjadi huruf besar,
+        # huruf selanjutnya diubah menjadi huruf kecil
         processed = processed[0].upper() + processed[1:].lower()
         result_sentences.append(processed)
 
+    # Gabungkan kembali teks
     return " ".join(result_sentences)
 
 
