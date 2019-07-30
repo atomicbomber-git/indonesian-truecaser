@@ -40,11 +40,9 @@ def capitalize_named_entities(text):
     return detokenizer.detokenize(result)
 
 def capitalize_quotation_beginning(text):
-    print(text)
-
     for phrase in re.findall('"([^"]*)"', text):
         processed_phrase = phrase.strip()
-        processed_phrase = processed_phrase[0].upper() + processed_phrase[1:].lower()
+        processed_phrase = processed_phrase[0].upper() + processed_phrase[1:]
         text = text.replace('{}'.format(phrase), processed_phrase)
 
     return text
