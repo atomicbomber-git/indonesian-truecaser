@@ -5,8 +5,6 @@ from tagger import tag
 from sacremoses import MosesDetokenizer
 import json
 
-entity_capitalizations = json.loads(open("./entity_capitalizations.json").read())
-
 # Memroses teks input
 def process(text):
     # Memisahkan teks input menjadi kalimat
@@ -28,6 +26,8 @@ def process(text):
     return " ".join(result_sentences)
 
 def capitalize_named_entities(text):
+    entity_capitalizations = json.loads(open("./entity_capitalizations.json").read())
+
     tagged_text = tag(text)
     result = []
     for token in tagged_text:
