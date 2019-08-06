@@ -4,6 +4,7 @@ import re
 from tagger import tag
 from sacremoses import MosesDetokenizer
 import json
+import os
 
 # Memroses teks input
 def process(text):
@@ -26,7 +27,8 @@ def process(text):
     return " ".join(result_sentences)
 
 def capitalize_named_entities(text):
-    entity_capitalizations = json.loads(open("./entity_capitalizations.json").read())
+    current_dir_path = os.path.dirname(os.path.realpath(__file__))
+    entity_capitalizations = json.loads(open(os.path.join(current_dir_path, "entity_capitalizations.json")).read())
 
     tagged_text = tag(text)
     result = []
