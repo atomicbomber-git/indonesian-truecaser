@@ -1,4 +1,5 @@
 attrs==19.1.0
+autopep8==1.4.4
 blis==0.2.4
 certifi==2019.3.9
 chardet==3.0.4
@@ -14,11 +15,15 @@ MarkupSafe==1.1.1
 murmurhash==1.0.2
 nltk==3.4.1
 numpy==1.16.3
+pkg-resources==0.0.0
 plac==0.9.6
 preshed==2.0.1
+pycodestyle==2.5.0
 pyrsistent==0.15.2
+python-dotenv==0.10.3
 requests==2.22.0
 sacremoses==0.0.24
+sentry-sdk==0.10.2
 six==1.12.0
 srsly==0.0.5
 thinc==7.0.4

@@ -4,7 +4,18 @@ from flask import Flask, jsonify, request, render_template
 import argparse
 import waitress
 import truecaser
+import os
+import dotenv
+import sentry_sdk
 
+dotenv.load_dotenv()
+
+# Load Sentry
+sentry_dsn =  os.getenv("SENTRY_DSN")
+if (sentry_dsn):
+    sentry_sdk.init(sentry_dsn)
+
+# The web app`
 app = Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
