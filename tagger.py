@@ -2,11 +2,16 @@ from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
 from sacremoses import MosesTokenizer
 import argparse
+import os
+
+current_dir_path = os.path.dirname(os.path.realpath(__file__))
+ner_model_path = os.path.join(current_dir_path, "ner-model.ser.gz")
+stanford_ner_jar_path = os.path.join(current_dir_path, "resources", "stanford-ner.jar")
 
 # Initialize tagger
 tagger = StanfordNERTagger(
-    "./ner-model.ser.gz",
-    "./resources/stanford-ner.jar",
+    ner_model_path,
+    stanford_ner_jar_path,
     encoding='utf-8'
 )
 
