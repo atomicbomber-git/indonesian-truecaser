@@ -18,15 +18,17 @@ def process(text):
         processed = capitalize_named_entities(sentence)
         processed = capitalize_quotation_beginning(processed)
 
+        # 05: Mengkapitalisasikan setiap huruf pada awal kalimat
         # Huruf pertama pada kalimat diubah menjadi huruf besar,
         # huruf selanjutnya diubah menjadi huruf kecil
         processed = processed[0].upper() + processed[1:]
         result_sentences.append(processed)
 
-    # Gabungkan kembali teks
+    # 07: Menampilan teks yang perlu diproses
     return " ".join(result_sentences)
 
 def capitalize_named_entities(text):
+    # 04: Mengubah penulisan entitas bernama dalam teks sesuai dengan kapitalisasi yang benar
     current_dir_path = os.path.dirname(os.path.realpath(__file__))
     entity_capitalizations = json.loads(open(os.path.join(current_dir_path, "entity_capitalizations.json")).read())
 
@@ -42,6 +44,7 @@ def capitalize_named_entities(text):
     return detokenizer.detokenize(result)
 
 def capitalize_quotation_beginning(text):
+    # 06: Mengkapitalisasikan setiap huruf pada awal kalimat dalam tanda kutip
     for phrase in re.findall('"([^"]*)"', text):
         processed_phrase = phrase.strip()
         processed_phrase = processed_phrase[0].upper() + processed_phrase[1:]

@@ -15,9 +15,12 @@ tagger = StanfordNERTagger(
     encoding='utf-8'
 )
 
+# 01: Memasukkan teks input
 def tag(text):
+    # 02: Tokenisasi teks input
     tokenizer = MosesTokenizer(lang="id")
     tokens = tokenizer.tokenize(text)
+    # 03 Tagging entitas bernama
     return tagger.tag(tokens)
 
 if __name__ == "__main__":
