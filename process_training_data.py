@@ -2,6 +2,7 @@
 
 import nltk
 import sys
+import json
 from html.parser import HTMLParser
 from nltk.tokenize import word_tokenize
 
@@ -25,11 +26,15 @@ class CustomHTMLParser(HTMLParser):
         tokens = word_tokenize(lowercased)
 
         if (self.tag != None):
+
+            conversion_table[data.lower()] = {
+                "text": data,
+                "type": self.tag,
+            }
+
             for i, token in enumerate(tokens):
                 if self.tag in ["ORGANIZATION", "PERSON"]:
-                    conversion_table[token] = data
-
-                prefix = "I"
+                    prefix = "I"
                 if i == 0:
                     prefix = "B"
 
@@ -54,5 +59,4 @@ with open(filename) as file:
     for line in file:
         parser.feed(line)
 
-for key, value in conversion_table.items():
-    print("{} {}".format(key, value), file=conversion_table_file)
+json.dump(conversion_table, conversion_table_file, indent=True)
