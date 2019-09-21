@@ -19,7 +19,6 @@ class CustomHTMLParser(HTMLParser):
 
     def handle_endtag(self, tag):
         self.tag = None
-        # print(tag.upper())
 
     def handle_data(self, data):
         lowercased = data.lower()
