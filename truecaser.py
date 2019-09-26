@@ -14,8 +14,9 @@ def process(text):
 
     # Memroses kalimat satu per satu
     for sentence in sentences:
-        # Proses teks yang terdapat didalam tanda petik
         processed = capitalize_named_entities(sentence)
+
+        # Proses teks yang terdapat didalam tanda kutip
         processed = capitalize_quotation_beginning(processed)
 
         # 05: Mengkapitalisasikan setiap huruf pada awal kalimat
@@ -55,22 +56,3 @@ def capitalize_quotation_beginning(text):
 
 def file_to_text(file):
     return "".join([line for line in file])
-
-
-if __name__ == "__main__":
-
-    parser = argparse.ArgumentParser(description='''
-     Menerima input berupa file teks dan menghasilkan output berupa teks serupa, 
-     dengan penggunaan huruf kapital yang 
-     benar sesuai dengan aturan PUBI.
-    ''')
-    parser.add_argument('file', metavar='file', nargs=1,
-                        type=argparse.FileType('r'), help='file teks input')
-
-    args = parser.parse_args()
-    file = args.file[0]
-
-    text = file_to_text(file)
-
-    result = process(text)
-    print(result)

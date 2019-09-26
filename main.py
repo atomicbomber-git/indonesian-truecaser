@@ -30,11 +30,6 @@ def index():
 
     return render_template("index.jinja2", input_text=input_text, output_text=output_text)
 
-@app.route("/handle", methods=["POST"])
-def handle():
-    text = request.form.get_json()
-    return jsonify(text)
-
 # Default host and default port
 host = "0.0.0.0"
 port = 8081

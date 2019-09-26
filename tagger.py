@@ -22,14 +22,3 @@ def tag(text):
     tokens = tokenizer.tokenize(text)
     # 03 Tagging entitas bernama
     return tagger.tag(tokens)
-
-if __name__ == "__main__":
-    # Parse command line arguments
-    argument_parser = argparse.ArgumentParser()
-    argument_parser.add_argument(
-        "text",
-        help="Teks yang hendak diproses dengan tagger NER",
-    )
-    arguments = argument_parser.parse_args()
-
-    print(tag(arguments.text))
