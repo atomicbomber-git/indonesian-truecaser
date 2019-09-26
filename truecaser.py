@@ -59,6 +59,7 @@ def capitalize_named_entities(text):
         if (i == (len(tagged_text) - 1)):
             tagged_entities.append(container)
 
+    print(tagged_text, end="\n\n")
     print(tagged_entities)
 
     for entity in tagged_entities:
