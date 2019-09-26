@@ -37,7 +37,7 @@ def capitalize_named_entities(text):
     result = []
     for token in tagged_text:
         if (token[0].lower() in entity_capitalizations):
-            result.append(entity_capitalizations[token[0].lower()])
+            result.append(entity_capitalizations[token[0].lower()]["text"])
         else:
             result.append(token[0])
 

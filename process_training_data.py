@@ -2,11 +2,19 @@
 
 import nltk
 import sys
+import json
 from html.parser import HTMLParser
 from nltk.tokenize import word_tokenize
 
+tags = ["ORGANIZATION", "PERSON"]
+conversion_table_filename = "entity_capitalizations.json"
+raw_training_filename = "data_train.txt"
+training_filename = "training.tsv"
+separator = "\t"
+
 conversion_table = {}
-conversion_table_file = open("conversion_table.tsv", "w")
+conversion_table_file = open(conversion_table_filename, "w")
+training_file = open(training_filename, "w")
 
 class CustomHTMLParser(HTMLParser):
     def __init__(self, convert_charrefs=True):
@@ -18,41 +26,40 @@ class CustomHTMLParser(HTMLParser):
 
     def handle_endtag(self, tag):
         self.tag = None
-        # print(tag.upper())
 
     def handle_data(self, data):
         lowercased = data.lower()
         tokens = word_tokenize(lowercased)
 
         if (self.tag != None):
-            for i, token in enumerate(tokens):
-                if self.tag in ["ORGANIZATION", "PERSON"]:
-                    conversion_table[token] = data
 
-                prefix = "I"
+            conversion_table[data.lower()] = {
+                "text": data,
+                "type": self.tag,
+            }
+
+            for i, token in enumerate(tokens):
+                if self.tag in tags:
+                    prefix = "I"
                 if i == 0:
                     prefix = "B"
 
-                print("{} {}-{}".format(token, prefix, self.tag.upper()))
+                print("{}{}{}-{}".format(token, separator, prefix, self.tag.upper()), file=training_file)
         else:
             for token in tokens:
                 if not token.isalpha():
                     continue
-                print(token, end=" O\n")
+                print("{}{}O".format(token, separator), file=training_file)
 
-# Download NLTK data, which is required for nltk.word_tokenize and some other functions
 nltk.download("punkt", quiet=True)
 
-if len(sys.argv) < 2:
-    print("Program ini memerlukan minimal 1 argumen yang berisi nama file yang hendak diproses.")
-    exit(1)
+def run():
+    parser = CustomHTMLParser()
+    with open(raw_training_filename) as file:
+        for line in file:
+            parser.feed(line)
 
-filename = sys.argv[1]
+    json.dump(conversion_table, conversion_table_file, indent=True)
 
-parser = CustomHTMLParser()
-with open(filename) as file:
-    for line in file:
-        parser.feed(line)
-
-for key, value in conversion_table.items():
-    print("{} {}".format(key, value), file=conversion_table_file)
+    conversion_table_file.close()
+    training_file.close()
