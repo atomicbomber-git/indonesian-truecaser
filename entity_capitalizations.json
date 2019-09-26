@@ -1,9 +1,7314 @@
 {
-    "joko": "Joko",
-    "widodo": "Widodo",
-    "abri": "ABRI",
-    "sma": "SMA",
-    "sudjito": "Sudjito",
-    "jakarta": "Jakarta",
-    "bandung": "BANDUNG"
+ "universitas gadjah mada": {
+  "text": "Universitas Gadjah Mada",
+  "type": "ORGANIZATION"
+ },
+ "arie sudjito": {
+  "text": "Arie Sudjito",
+  "type": "PERSON"
+ },
+ "partai golkar": {
+  "text": "Partai Golkar",
+  "type": "ORGANIZATION"
+ },
+ "aburizal bakrie": {
+  "text": "Aburizal Bakrie",
+  "type": "PERSON"
+ },
+ "aburizal": {
+  "text": "Aburizal",
+  "type": "PERSON"
+ },
+ "golkar": {
+  "text": "Golkar",
+  "type": "ORGANIZATION"
+ },
+ "arie": {
+  "text": "Arie",
+  "type": "PERSON"
+ },
+ "selasa (2/12/2014)": {
+  "text": "Selasa (2/12/2014)",
+  "type": "TIME"
+ },
+ "presidium penyelamat partai golkar": {
+  "text": "Presidium Penyelamat Partai Golkar",
+  "type": "ORGANIZATION"
+ },
+ "ms hidayat": {
+  "text": "MS Hidayat",
+  "type": "PERSON"
+ },
+ "airlangga hartarto": {
+  "text": "Airlangga Hartarto",
+  "type": "PERSON"
+ },
+ "hidayat": {
+  "text": "Hidayat",
+  "type": "PERSON"
+ },
+ "airlangga": {
+  "text": "Airlangga",
+  "type": "PERSON"
+ },
+ "bali": {
+  "text": "Bali",
+  "type": "LOCATION"
+ },
+ "partai persatuan pembangunan": {
+  "text": "Partai Persatuan Pembangunan",
+  "type": "ORGANIZATION"
+ },
+ "dpr": {
+  "text": "DPR",
+  "type": "ORGANIZATION"
+ },
+ "fadli zon": {
+  "text": "Fadli Zon",
+  "type": "PERSON"
+ },
+ "joko widodo": {
+  "text": "Joko Widodo",
+  "type": "PERSON"
+ },
+ "fadli": {
+  "text": "Fadli",
+  "type": "PERSON"
+ },
+ "fadil zon": {
+  "text": "Fadil Zon",
+  "type": "PERSON"
+ },
+ "gedung dpr, senayan, jakarta": {
+  "text": "Gedung DPR, Senayan, Jakarta",
+  "type": "LOCATION"
+ },
+ "rabu (11/3/2015)": {
+  "text": "Rabu (11/3/2015)",
+  "type": "TIME"
+ },
+ "perancis": {
+  "text": "Perancis",
+  "type": "LOCATION"
+ },
+ "serge atlaoui": {
+  "text": "Serge Atlaoui",
+  "type": "PERSON"
+ },
+ "pengadilan negeri tangerang": {
+  "text": "Pengadilan Negeri Tangerang",
+  "type": "ORGANIZATION"
+ },
+ "filipina": {
+  "text": "Filipina",
+  "type": "LOCATION"
+ },
+ "mary jane fiesta veloso": {
+  "text": "Mary Jane Fiesta Veloso",
+  "type": "PERSON"
+ },
+ "partai gerindra": {
+  "text": "Partai Gerindra",
+  "type": "ORGANIZATION"
+ },
+ "indonesia": {
+  "text": "Indonesia",
+  "type": "LOCATION"
+ },
+ "kantor wilayah kementerian hukum dan hak asasi manusia": {
+  "text": "Kantor Wilayah Kementerian Hukum dan Hak Asasi Manusia",
+  "type": "ORGANIZATION"
+ },
+ "pulau nusakambangan, cilacap": {
+  "text": "Pulau Nusakambangan, Cilacap",
+  "type": "LOCATION"
+ },
+ "100 persen": {
+  "text": "100 persen",
+  "type": "QUANTITY"
+ },
+ "10 nama": {
+  "text": "10 nama",
+  "type": "QUANTITY"
+ },
+ "andrew chan": {
+  "text": "Andrew Chan",
+  "type": "PERSON"
+ },
+ "australia": {
+  "text": "Australia",
+  "type": "LOCATION"
+ },
+ "myuran sukumaran": {
+  "text": "Myuran Sukumaran",
+  "type": "PERSON"
+ },
+ "raheem agbaje salami": {
+  "text": "Raheem Agbaje Salami",
+  "type": "PERSON"
+ },
+ "nigeria": {
+  "text": "Nigeria",
+  "type": "LOCATION"
+ },
+ "zainal abidin": {
+  "text": "Zainal Abidin",
+  "type": "PERSON"
+ },
+ "serge areski atlaoui": {
+  "text": "Serge Areski Atlaoui",
+  "type": "PERSON"
+ },
+ "rodrigo gularte": {
+  "text": "Rodrigo Gularte",
+  "type": "PERSON"
+ },
+ "brasil": {
+  "text": "Brasil",
+  "type": "LOCATION"
+ },
+ "silvester obiekwe nwaolise": {
+  "text": "Silvester Obiekwe Nwaolise",
+  "type": "PERSON"
+ },
+ "mustofa ": {
+  "text": "Mustofa ",
+  "type": "PERSON"
+ },
+ "martin anderson": {
+  "text": "Martin Anderson",
+  "type": "PERSON"
+ },
+ "belo": {
+  "text": "Belo",
+  "type": "PERSON"
+ },
+ "ghana": {
+  "text": "Ghana",
+  "type": "LOCATION"
+ },
+ "okwudili oyatanze": {
+  "text": "Okwudili Oyatanze",
+  "type": "PERSON"
+ },
+ "irianto ms syaifuddin-tatang farhanul hakim (irianto-tatang)": {
+  "text": "Irianto MS Syaifuddin-Tatang Farhanul Hakim (Irianto-Tatang)",
+  "type": "PERSON"
+ },
+ "jawa barat": {
+  "text": "Jawa Barat",
+  "type": "LOCATION"
+ },
+ "nurul arifin": {
+  "text": "Nurul Arifin",
+  "type": "PERSON"
+ },
+ "jakarta": {
+  "text": "Jakarta",
+  "type": "LOCATION"
+ },
+ "senin (25/2/2013)": {
+  "text": "Senin (25/2/2013)",
+  "type": "TIME"
+ },
+ "penelitian dan pengembangan (litbang) kompas": {
+  "text": "Penelitian dan Pengembangan (Litbang) Kompas",
+  "type": "ORGANIZATION"
+ },
+ "irianto-tatang": {
+  "text": "Irianto-Tatang",
+  "type": "ORGANIZATION"
+ },
+ "12,35 persen": {
+  "text": "12,35 persen",
+  "type": "QUANTITY"
+ },
+ "ahmad heryawan-deddy mizwar (heryawan-deddy)": {
+  "text": "Ahmad Heryawan-Deddy Mizwar (Heryawan-Deddy)",
+  "type": "PERSON"
+ },
+ "31,45 persen": {
+  "text": "31,45 persen",
+  "type": "QUANTITY"
+ },
+ "rieke diah pitaloka-teten masduki (rieke-teten)": {
+  "text": "Rieke Diah Pitaloka-Teten Masduki (Rieke-Teten)",
+  "type": "PERSON"
+ },
+ "29,03 persen": {
+  "text": "29,03 persen",
+  "type": "QUANTITY"
+ },
+ "dede yusuf macan efendi-lex laksamana": {
+  "text": "Dede Yusuf Macan Efendi-Lex Laksamana",
+  "type": "PERSON"
+ },
+ "28,85 persen": {
+  "text": "28,85 persen",
+  "type": "QUANTITY"
+ },
+ "dikdik m arief mansur-cecep nana suryana toyib (dikdik-toyib)": {
+  "text": "Dikdik M Arief Mansur-Cecep Nana Suryana Toyib (Dikdik-Toyib)",
+  "type": "PERSON"
+ },
+ "1,72 persen": {
+  "text": "1,72 persen",
+  "type": "QUANTITY"
+ },
+ "nurul": {
+  "text": "Nurul",
+  "type": "PERSON"
+ },
+ "jabar": {
+  "text": "Jabar",
+  "type": "LOCATION"
+ },
+ "menkokesra agung laksono": {
+  "text": "Menkokesra Agung Laksono",
+  "type": "PERSON"
+ },
+ "agung": {
+  "text": "Agung",
+  "type": "PERSON"
+ },
+ "kompleks istana negara, jakarta": {
+  "text": "Kompleks Istana Negara, Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa (29/1/2013)": {
+  "text": "Selasa (29/1/2013)",
+  "type": "TIME"
+ },
+ "lingkaran survei indoensia (lsi)": {
+  "text": "Lingkaran Survei Indoensia (LSI)",
+  "type": "ORGANIZATION"
+ },
+ "lsi": {
+  "text": "LSI",
+  "type": "ORGANIZATION"
+ },
+ "ardian sofa": {
+  "text": "Ardian Sofa",
+  "type": "PERSON"
+ },
+ "kantor lingkaran survei indonesia": {
+  "text": "Kantor Lingkaran Survei Indonesia",
+  "type": "LOCATION"
+ },
+ "jl pramuka, jakarta timur": {
+  "text": "Jl Pramuka, Jakarta Timur",
+  "type": "LOCATION"
+ },
+ "86,35 persen": {
+  "text": "86,35 persen",
+  "type": "QUANTITY"
+ },
+ "10,79 persen": {
+  "text": "10,79 persen",
+  "type": "QUANTITY"
+ },
+ "2,86 persen": {
+  "text": "2,86 persen",
+  "type": "QUANTITY"
+ },
+ "22-25 januari 2013": {
+  "text": "22-25 Januari 2013",
+  "type": "TIME"
+ },
+ "1200 responden": {
+  "text": "1200 responden",
+  "type": "QUANTITY"
+ },
+ "2,9 persen": {
+  "text": "2,9 persen",
+  "type": "QUANTITY"
+ },
+ "pdi perjuangan": {
+  "text": "PDI Perjuangan",
+  "type": "ORGANIZATION"
+ },
+ "guruh soekarnoputra": {
+  "text": "Guruh Soekarnoputra",
+  "type": "PERSON"
+ },
+ "suhardi": {
+  "text": "Suhardi",
+  "type": "PERSON"
+ },
+ "rumah sakit pusat pertamina, jakarta pusat": {
+  "text": "Rumah Sakit Pusat Pertamina, Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ "guruh": {
+  "text": "Guruh",
+  "type": "PERSON"
+ },
+ "pak suhardi": {
+  "text": "Pak Suhardi",
+  "type": "PERSON"
+ },
+ "rspp, jakarta": {
+  "text": "RSPP, Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa, 26 agustus 2014": {
+  "text": "Selasa, 26 Agustus 2014",
+  "type": "TIME"
+ },
+ "fakultas kehutanan universitas gadjah mada": {
+  "text": "Fakultas Kehutanan Universitas Gadjah Mada",
+  "type": "ORGANIZATION"
+ },
+ "dekan fakultas kehutanan ugm": {
+  "text": "Dekan Fakultas Kehutanan UGM",
+  "type": "ORGANIZATION"
+ },
+ "andi widjajanto": {
+  "text": "Andi Widjajanto",
+  "type": "PERSON"
+ },
+ "partai nasdem": {
+  "text": "partai NasDem",
+  "type": "PERSON"
+ },
+ "h. m. prasetyo": {
+  "text": "H. M. Prasetyo",
+  "type": "PERSON"
+ },
+ "prasetyo": {
+  "text": "Prasetyo",
+  "type": "PERSON"
+ },
+ "andi": {
+  "text": "Andi",
+  "type": "PERSON"
+ },
+ "tempo": {
+  "text": "Tempo",
+  "type": "ORGANIZATION"
+ },
+ "kamis, 20 november 2014": {
+  "text": "Kamis, 20 November 2014",
+  "type": "TIME"
+ },
+ "basrief arief": {
+  "text": "Basrief Arief",
+  "type": "PERSON"
+ },
+ "jokowi": {
+  "text": "Jokowi",
+  "type": "PERSON"
+ },
+ "14.00": {
+  "text": "14.00",
+  "type": "TIME"
+ },
+ "istana negara": {
+  "text": "Istana Negara",
+  "type": "LOCATION"
+ },
+ "2014-2019": {
+  "text": "2014-2019",
+  "type": "TIME"
+ },
+ "jawa tengah ii": {
+  "text": "Jawa Tengah II",
+  "type": "LOCATION"
+ },
+ "dewan perwakilan rakyat": {
+  "text": "Dewan Perwakilan Rakyat",
+  "type": "ORGANIZATION"
+ },
+ "2005-2006": {
+  "text": "2005-2006",
+  "type": "TIME"
+ },
+ "surya paloh": {
+  "text": "Surya Paloh",
+  "type": "PERSON"
+ },
+ "indonesia corruption watch": {
+  "text": "Indonesia Corruption Watch",
+  "type": "ORGANIZATION"
+ },
+ "kepala pusat pelaporan dan analisis transaksi keuangan": {
+  "text": "Kepala Pusat Pelaporan dan Analisis Transaksi Keuangan",
+  "type": "ORGANIZATION"
+ },
+ "muhammad yusuf": {
+  "text": "Muhammad Yusuf",
+  "type": "PERSON"
+ },
+ "kejaksaan": {
+  "text": "Kejaksaan",
+  "type": "ORGANIZATION"
+ },
+ "widyo pramono": {
+  "text": "Widyo Pramono",
+  "type": "PERSON"
+ },
+ "andhi nirwanto": {
+  "text": "Andhi Nirwanto",
+  "type": "PERSON"
+ },
+ "partai keadilan sejahtera": {
+  "text": "Partai Keadilan Sejahtera",
+  "type": "ORGANIZATION"
+ },
+ "anis matta": {
+  "text": "Anis Matta",
+  "type": "PERSON"
+ },
+ "pks": {
+  "text": "PKS",
+  "type": "ORGANIZATION"
+ },
+ "anis": {
+  "text": "Anis",
+  "type": "PERSON"
+ },
+ "samarinda, kalimantan timur": {
+  "text": "Samarinda, Kalimantan Timur",
+  "type": "LOCATION"
+ },
+ "selasa (29/10/2013)": {
+  "text": "Selasa (29/10/2013)",
+  "type": "TIME"
+ },
+ "20 persen": {
+  "text": "20 persen",
+  "type": "QUANTITY"
+ },
+ "pan": {
+  "text": "PAN",
+  "type": "ORGANIZATION"
+ },
+ "hanura": {
+  "text": "Hanura",
+  "type": "ORGANIZATION"
+ },
+ "aburizal \"ical\" bakrie": {
+  "text": "Aburizal \"Ical\" Bakrie",
+  "type": "PERSON"
+ },
+ "hatta rajasa": {
+  "text": "Hatta Rajasa",
+  "type": "PERSON"
+ },
+ "wiranto": {
+  "text": "Wiranto",
+  "type": "PERSON"
+ },
+ "prabowo subianto-hatta rajasa": {
+  "text": "Prabowo Subianto-Hatta Rajasa",
+  "type": "PERSON"
+ },
+ "firman wijaya": {
+  "text": "Firman Wijaya",
+  "type": "PERSON"
+ },
+ "komisi pemilihan umum": {
+  "text": "Komisi Pemilihan Umum",
+  "type": "ORGANIZATION"
+ },
+ "pengadilan negeri jakarta pusat": {
+  "text": "Pengadilan Negeri Jakarta Pusat",
+  "type": "ORGANIZATION"
+ },
+ "firman": {
+  "text": "Firman",
+  "type": "PERSON"
+ },
+ "kpu": {
+  "text": "KPU",
+  "type": "ORGANIZATION"
+ },
+ "prabowo-hatta": {
+  "text": "Prabowo-Hatta",
+  "type": "PERSON"
+ },
+ "mahkamah konstitusi dan dewan kehormatan penyelenggara pemilu": {
+  "text": "Mahkamah Konstitusi dan Dewan Kehormatan Penyelenggara Pemilu",
+  "type": "ORGANIZATION"
+ },
+ "9 juli 2014": {
+  "text": "9 Juli 2014",
+  "type": "TIME"
+ },
+ "sabtu, 16 agustus 2014": {
+  "text": "Sabtu, 16 Agustus 2014",
+  "type": "TIME"
+ },
+ "rp 100 ribu": {
+  "text": "Rp 100 ribu",
+  "type": "QUANTITY"
+ },
+ "pn jakarta pusat": {
+  "text": "PN Jakarta Pusat",
+  "type": "ORGANIZATION"
+ },
+ "mahkamah konstitusi": {
+  "text": "Mahkamah Konstitusi",
+  "type": "ORGANIZATION"
+ },
+ "dewan kehormatan penyelenggara pemilu": {
+  "text": "Dewan Kehormatan Penyelenggara Pemilu",
+  "type": "ORGANIZATION"
+ },
+ "pn jakpus": {
+  "text": "PN Jakpus",
+  "type": "ORGANIZATION"
+ },
+ "14 agustus 2014": {
+  "text": "14 Agustus 2014",
+  "type": "TIME"
+ },
+ "rp 120 juta": {
+  "text": "Rp 120 juta",
+  "type": "QUANTITY"
+ },
+ "joko widodo-jusuf kalla": {
+  "text": "Joko Widodo-Jusuf Kalla",
+  "type": "PERSON"
+ },
+ " kpu dki jakarta": {
+  "text": " KPU DKI Jakarta",
+  "type": "ORGANIZATION"
+ },
+ "partai demokrat": {
+  "text": "Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "ruhut sitompul": {
+  "text": "Ruhut Sitompul",
+  "type": "PERSON"
+ },
+ "ruhut": {
+  "text": "Ruhut",
+  "type": "PERSON"
+ },
+ "tribunnews": {
+  "text": "Tribunnews",
+  "type": "ORGANIZATION"
+ },
+ "minggu (19/5/2013)": {
+  "text": "Minggu (19/5/2013)",
+  "type": "TIME"
+ },
+ "tahun 2014": {
+  "text": "tahun 2014",
+  "type": "TIME"
+ },
+ "pdip": {
+  "text": "PDIP",
+  "type": "ORGANIZATION"
+ },
+ "kh abdurrahman wahid (gus dur)": {
+  "text": "KH Abdurrahman Wahid (Gus Dur)",
+  "type": "PERSON"
+ },
+ "2009": {
+  "text": "2009",
+  "type": "TIME"
+ },
+ "gus dur": {
+  "text": "Gus Dur",
+  "type": "PERSON"
+ },
+ "selasa (7/7)": {
+  "text": "Selasa (7/7)",
+  "type": "TIME"
+ },
+ "komisi pemilihan umum (kpu)": {
+  "text": "Komisi Pemilihan Umum (KPU)",
+  "type": "ORGANIZATION"
+ },
+ "tempat pemungutan suara (tps)": {
+  "text": "tempat pemungutan suara (TPS)",
+  "type": "LOCATION"
+ },
+ "pkb": {
+  "text": "PKB",
+  "type": "ORGANIZATION"
+ },
+ "tps": {
+  "text": "TPS",
+  "type": "LOCATION"
+ },
+ "muhaimin iskandar": {
+  "text": "Muhaimin Iskandar",
+  "type": "PERSON"
+ },
+ "pengadilan": {
+  "text": "pengadilan",
+  "type": "LOCATION"
+ },
+ "ketua umum partai golkar aburizal bakrie": {
+  "text": "Ketua Umum Partai Golkar Aburizal Bakrie",
+  "type": "PERSON"
+ },
+ "ketua umum partai nasdem surya paloh": {
+  "text": "Ketua Umum Partai NasDem Surya Paloh",
+  "type": "PERSON"
+ },
+ "wasekjen golkar tantowi yahya": {
+  "text": "Wasekjen Golkar Tantowi Yahya",
+  "type": "PERSON"
+ },
+ "tantowi": {
+  "text": "Tantowi",
+  "type": "PERSON"
+ },
+ "gedung dpr, jakarta": {
+  "text": "Gedung DPR, Jakarta",
+  "type": "LOCATION"
+ },
+ "kamis (11/7/2013)": {
+  "text": "Kamis (11/7/2013)",
+  "type": "TIME"
+ },
+ "ical": {
+  "text": "Ical",
+  "type": "PERSON"
+ },
+ "suryo palih": {
+  "text": "Suryo Palih",
+  "type": "PERSON"
+ },
+ "anggota komisi i dpr": {
+  "text": "Anggota Komisi I DPR",
+  "type": "PERSON"
+ },
+ "partai golongan karya": {
+  "text": "Partai Golongan Karya",
+  "type": "ORGANIZATION"
+ },
+ "dewan pembina partai demokrat": {
+  "text": "Dewan Pembina Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "ahmad mubarok": {
+  "text": "Ahmad Mubarok",
+  "type": "PERSON"
+ },
+ "partai beringin": {
+  "text": "Partai Beringin",
+  "type": "ORGANIZATION"
+ },
+ "senin 2 april 2012": {
+  "text": "Senin 2 April 2012",
+  "type": "TIME"
+ },
+ "15 persen": {
+  "text": "15 persen",
+  "type": "QUANTITY"
+ },
+ "fraksi partai demokrat": {
+  "text": "Fraksi Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "10 persen": {
+  "text": "10 persen",
+  "type": "QUANTITY"
+ },
+ "mubarok": {
+  "text": "Mubarok",
+  "type": "PERSON"
+ },
+ "demokrat": {
+  "text": "Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "presiden sby": {
+  "text": "Presiden SBY",
+  "type": "PERSON"
+ },
+ "universitas negeri jakarta (unj)": {
+  "text": "Universitas Negeri Jakarta (UNJ)",
+  "type": "ORGANIZATION"
+ },
+ "ubedillah badrun": {
+  "text": "Ubedillah Badrun",
+  "type": "PERSON"
+ },
+ "ppp": {
+  "text": "PPP",
+  "type": "ORGANIZATION"
+ },
+ "ubedillah": {
+  "text": "Ubedillah",
+  "type": "PERSON"
+ },
+ "rabu (29/10/2014)": {
+  "text": "Rabu (29/10/2014)",
+  "type": "TIME"
+ },
+ "yasonna h laoly": {
+  "text": "Yasonna H Laoly",
+  "type": "PERSON"
+ },
+ "yasonna": {
+  "text": "Yasonna",
+  "type": "PERSON"
+ },
+ "kemayoran jakarta pusat": {
+  "text": "Kemayoran Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ "selasa (28/10) malam": {
+  "text": "Selasa (28/10) malam",
+  "type": "TIME"
+ },
+ "romahurmuziy": {
+  "text": "Romahurmuziy",
+  "type": "PERSON"
+ },
+ "didik mukriyanto": {
+  "text": "Didik Mukriyanto",
+  "type": "PERSON"
+ },
+ "dpr ri": {
+  "text": "DPR RI",
+  "type": "ORGANIZATION"
+ },
+ "didik": {
+  "text": "Didik",
+  "type": "PERSON"
+ },
+ "gedung dpr ri, jakarta": {
+  "text": "Gedung DPR RI, Jakarta",
+  "type": "LOCATION"
+ },
+ "rabu (29/11)": {
+  "text": "Rabu (29/11)",
+  "type": "TIME"
+ },
+ "partai demokrasi indonesia perjuangan (pdip)": {
+  "text": "Partai Demokrasi Indonesia Perjuangan (PDIP)",
+  "type": "ORGANIZATION"
+ },
+ "ketua umum gerindra prabowo subianto": {
+  "text": "Ketua Umum Gerindra Prabowo Subianto",
+  "type": "PERSON"
+ },
+ "istana bogor": {
+  "text": "Istana Bogor",
+  "type": "LOCATION"
+ },
+ "wakil sekretaris jenderal pdip ahmad basarah": {
+  "text": "Wakil Sekretaris Jenderal PDIP Ahmad Basarah",
+  "type": "PERSON"
+ },
+ "kamis (29/1/2015)": {
+  "text": "Kamis (29/1/2015)",
+  "type": "TIME"
+ },
+ "basarah": {
+  "text": "Basarah",
+  "type": "PERSON"
+ },
+ "gerindra": {
+  "text": "Gerindra",
+  "type": "ORGANIZATION"
+ },
+ "budi gunawan": {
+  "text": "Budi Gunawan",
+  "type": "PERSON"
+ },
+ "komisi iii dpr ri": {
+  "text": "Komisi III DPR RI",
+  "type": "ORGANIZATION"
+ },
+ "kmp": {
+  "text": "KMP",
+  "type": "ORGANIZATION"
+ },
+ "prabowo": {
+  "text": "Prabowo",
+  "type": "PERSON"
+ },
+ "dewan pimpinan daerah partai demokrat": {
+  "text": "Dewan Pimpinan Daerah Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "maret": {
+  "text": "Maret",
+  "type": "TIME"
+ },
+ "dpd partai demokrat bali": {
+  "text": "DPD Partai Demokrat Bali",
+  "type": "ORGANIZATION"
+ },
+ "jero wacik": {
+  "text": "Jero Wacik",
+  "type": "PERSON"
+ },
+ "marzuki alie": {
+  "text": "Marzuki Alie",
+  "type": "PERSON"
+ },
+ "toto riyanto": {
+  "text": "Toto Riyanto",
+  "type": "PERSON"
+ },
+ "syarief hasan": {
+  "text": "Syarief Hasan",
+  "type": "PERSON"
+ },
+ "hadi utomo": {
+  "text": "Hadi Utomo",
+  "type": "PERSON"
+ },
+ "i made mudharta": {
+  "text": "I Made Mudharta",
+  "type": "PERSON"
+ },
+ "made": {
+  "text": "Made",
+  "type": "PERSON"
+ },
+ "dpd": {
+  "text": "DPD",
+  "type": "ORGANIZATION"
+ },
+ "dewan pimpinan pusat partai demokrat": {
+  "text": "Dewan Pimpinan Pusat Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "denpasar": {
+  "text": "Denpasar",
+  "type": "LOCATION"
+ },
+ "ganjar pranowo": {
+  "text": "Ganjar Pranowo",
+  "type": "PERSON"
+ },
+ "bpk": {
+  "text": "BPK",
+  "type": "ORGANIZATION"
+ },
+ "bank century": {
+  "text": "Bank Century",
+  "type": "ORGANIZATION"
+ },
+ "ganjar": {
+  "text": "Ganjar",
+  "type": "PERSON"
+ },
+ "sabtu (19/12) malam": {
+  "text": "Sabtu (19/12) malam",
+  "type": "TIME"
+ },
+ "akbar tandjung": {
+  "text": "Akbar Tandjung",
+  "type": "PERSON"
+ },
+ "akbar": {
+  "text": "Akbar",
+  "type": "PERSON"
+ },
+ "hotel js luwansa, jakarta": {
+  "text": "Hotel JS Luwansa, Jakarta",
+  "type": "LOCATION"
+ },
+ "jumat (22/11/2013)": {
+  "text": "Jumat (22/11/2013)",
+  "type": "TIME"
+ },
+ "hary tanoesoedibyo": {
+  "text": "Hary Tanoesoedibyo",
+  "type": "PERSON"
+ },
+ "dewan pimpinan pusat partai nasional demokrat": {
+  "text": "Dewan Pimpinan Pusat Partai Nasional Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "dpd partai nasdem kabupaten sumenep": {
+  "text": "DPD Partai NasDem Kabupaten Sumenep",
+  "type": "ORGANIZATION"
+ },
+ "jawa timur": {
+  "text": "Jawa Timur",
+  "type": "LOCATION"
+ },
+ "sufyan absi": {
+  "text": "Sufyan Absi",
+  "type": "PERSON"
+ },
+ "senin 21 januari 2013": {
+  "text": "Senin 21 Januari 2013",
+  "type": "TIME"
+ },
+ "harry tanoe": {
+  "text": "Harry Tanoe",
+  "type": "PERSON"
+ },
+ "nasdem": {
+  "text": "NasDem",
+  "type": "ORGANIZATION"
+ },
+ "dpd nasdem": {
+  "text": "DPD NasDem",
+  "type": "ORGANIZATION"
+ },
+ "sufyan": {
+  "text": "Sufyan",
+  "type": "PERSON"
+ },
+ "dpp partai nasdem": {
+  "text": "DPP Partai NasDem",
+  "type": "ORGANIZATION"
+ },
+ "kabupaten sumenep": {
+  "text": "Kabupaten Sumenep",
+  "type": "LOCATION"
+ },
+ "fraksi pdi perjuangan": {
+  "text": "Fraksi PDI Perjuangan",
+  "type": "ORGANIZATION"
+ },
+ "yogyakarta": {
+  "text": "Yogyakarta",
+  "type": "LOCATION"
+ },
+ "f-pdip": {
+  "text": "F-PDIP",
+  "type": "ORGANIZATION"
+ },
+ "fraksi pdip": {
+  "text": "Fraksi PDIP",
+  "type": "ORGANIZATION"
+ },
+ "tjahjo kumolo": {
+  "text": "Tjahjo Kumolo",
+  "type": "PERSON"
+ },
+ "tribunnews.com": {
+  "text": "Tribunnews.com",
+  "type": "ORGANIZATION"
+ },
+ "sabtu (4/12/2010)": {
+  "text": "Sabtu (4/12/2010)",
+  "type": "TIME"
+ },
+ "tjahjo": {
+  "text": "Tjahjo",
+  "type": "PERSON"
+ },
+ "sultan hamengku buwono x": {
+  "text": "Sultan Hamengku Buwono X",
+  "type": "PERSON"
+ },
+ " partai demokrat": {
+  "text": " Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ " ruhut ": {
+  "text": " Ruhut ",
+  "type": "PERSON"
+ },
+ "senin, 23 juni 2014": {
+  "text": "Senin, 23 Juni 2014",
+  "type": "TIME"
+ },
+ "dki jakarta": {
+  "text": "DKI Jakarta",
+  "type": "LOCATION"
+ },
+ "ruhut ": {
+  "text": "Ruhut ",
+  "type": "PERSON"
+ },
+ " jokowi ": {
+  "text": " Jokowi ",
+  "type": "PERSON"
+ },
+ " jokowi": {
+  "text": " Jokowi",
+  "type": "PERSON"
+ },
+ " ruhut": {
+  "text": " Ruhut",
+  "type": "PERSON"
+ },
+ "sulawesi utara": {
+  "text": "Sulawesi Utara",
+  "type": "LOCATION"
+ },
+ "sulawesi selatan": {
+  "text": "Sulawesi Selatan",
+  "type": "LOCATION"
+ },
+ "medan": {
+  "text": "Medan",
+  "type": "LOCATION"
+ },
+ "pekanbaru": {
+  "text": "Pekanbaru",
+  "type": "LOCATION"
+ },
+ " partai persatuan pembangunan (ppp)": {
+  "text": " Partai Persatuan Pembangunan (PPP)",
+  "type": "ORGANIZATION"
+ },
+ " surabaya": {
+  "text": " Surabaya",
+  "type": "LOCATION"
+ },
+ "jalan taman surapati": {
+  "text": "Jalan Taman Surapati",
+  "type": "LOCATION"
+ },
+ "menteng": {
+  "text": "Menteng",
+  "type": "LOCATION"
+ },
+ "jakarta pusat": {
+  "text": "Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ " sabtu (18/10/2014)": {
+  "text": " Sabtu (18/10/2014)",
+  "type": "TIME"
+ },
+ "suharso monoarfa": {
+  "text": "Suharso Monoarfa",
+  "type": "PERSON"
+ },
+ "dewan pimpinan pusat ppp": {
+  "text": "Dewan Pimpinan Pusat PPP",
+  "type": "ORGANIZATION"
+ },
+ "surabaya": {
+  "text": "Surabaya",
+  "type": "LOCATION"
+ },
+ "jumat": {
+  "text": "Jumat",
+  "type": "TIME"
+ },
+ "angel lelga": {
+  "text": "Angel Lelga",
+  "type": "PERSON"
+ },
+ "rhoma irama": {
+  "text": "Rhoma Irama",
+  "type": "PERSON"
+ },
+ "jawa tengah": {
+  "text": "Jawa Tengah",
+  "type": "LOCATION"
+ },
+ "badan pemenangan pemilu ppp": {
+  "text": "Badan Pemenangan Pemilu PPP",
+  "type": "ORGANIZATION"
+ },
+ "fernita darwis": {
+  "text": "Fernita Darwis",
+  "type": "PERSON"
+ },
+ "kabupaten boyolali": {
+  "text": "Kabupaten Boyolali",
+  "type": "LOCATION"
+ },
+ "kabupaten klaten": {
+  "text": "Kabupaten Klaten",
+  "type": "LOCATION"
+ },
+ "kabupaten sukoharjo": {
+  "text": "Kabupaten Sukoharjo",
+  "type": "LOCATION"
+ },
+ "kota surakarta": {
+  "text": "Kota Surakarta",
+  "type": "LOCATION"
+ },
+ "fernita": {
+  "text": "Fernita",
+  "type": "PERSON"
+ },
+ "kantor komisi pemilihan umum (kpu)": {
+  "text": "Kantor Komisi Pemilihan Umum (KPU)",
+  "type": "LOCATION"
+ },
+ "rabu (22/5/2013)": {
+  "text": "Rabu (22/5/2013)",
+  "type": "TIME"
+ },
+ "mat solar": {
+  "text": "Mat Solar",
+  "type": "PERSON"
+ },
+ "syarif kasim": {
+  "text": "Syarif Kasim",
+  "type": "PERSON"
+ },
+ "rahman yakub": {
+  "text": "Rahman Yakub",
+  "type": "PERSON"
+ },
+ "ratih sanggarwati": {
+  "text": "Ratih Sanggarwati",
+  "type": "PERSON"
+ },
+ "okky asokawati": {
+  "text": "Okky Asokawati",
+  "type": "PERSON"
+ },
+ "suryadharma ali": {
+  "text": "Suryadharma Ali",
+  "type": "PERSON"
+ },
+ "angel": {
+  "text": "Angel",
+  "type": "PERSON"
+ },
+ "soesilo bambang yudhoyono": {
+  "text": "Soesilo Bambang Yudhoyono",
+  "type": "PERSON"
+ },
+ "selasa (1/3)": {
+  "text": "Selasa (1/3)",
+  "type": "TIME"
+ },
+ "yudhoyono": {
+  "text": "Yudhoyono",
+  "type": "PERSON"
+ },
+ "11": {
+  "text": "11",
+  "type": "QUANTITY"
+ },
+ "2009-2014": {
+  "text": "2009-2014",
+  "type": "TIME"
+ },
+ "11 butir": {
+  "text": "11 butir",
+  "type": "QUANTITY"
+ },
+ "fraksi pkb": {
+  "text": "Fraksi PKB",
+  "type": "ORGANIZATION"
+ },
+ "marwan jafar": {
+  "text": "Marwan Jafar",
+  "type": "PERSON"
+ },
+ "marwan": {
+  "text": "Marwan",
+  "type": "PERSON"
+ },
+ "gedung dpr": {
+  "text": "gedung DPR",
+  "type": "LOCATION"
+ },
+ "selasa (1/10/2013)": {
+  "text": "Selasa (1/10/2013)",
+  "type": "TIME"
+ },
+ "2014": {
+  "text": "2014",
+  "type": "TIME"
+ },
+ "agung laksono": {
+  "text": "Agung Laksono",
+  "type": "PERSON"
+ },
+ "pdi-p": {
+  "text": "PDI-P",
+  "type": "ORGANIZATION"
+ },
+ "senin (11/5)": {
+  "text": "Senin (11/5)",
+  "type": "TIME"
+ },
+ "mahfud md. ": {
+  "text": "Mahfud Md. ",
+  "type": "PERSON"
+ },
+ "partai kebangkitan bangsa (pkb)": {
+  "text": "Partai Kebangkitan Bangsa (PKB)",
+  "type": "ORGANIZATION"
+ },
+ "muhamin iskandar": {
+  "text": "Muhamin Iskandar",
+  "type": "PERSON"
+ },
+ "wisma haji kota madiun": {
+  "text": "Wisma Haji Kota Madiun",
+  "type": "LOCATION"
+ },
+ "senin, 3 februari 2014": {
+  "text": "Senin, 3 Februari 2014",
+  "type": "TIME"
+ },
+ "jusuf kalla": {
+  "text": "Jusuf Kalla",
+  "type": "PERSON"
+ },
+ "mahfud": {
+  "text": "Mahfud",
+  "type": "PERSON"
+ },
+ "pendapa pemerintah kabupaten madiun": {
+  "text": "pendapa Pemerintah Kabupaten Madiun",
+  "type": "LOCATION"
+ },
+ "bupati muhtarom": {
+  "text": "Bupati Muhtarom",
+  "type": "PERSON"
+ },
+ "kampus institut agama islam sunan giri, ponorogo": {
+  "text": "kampus Institut Agama Islam Sunan Giri, Ponorogo",
+  "type": "LOCATION"
+ },
+ "dpd ri": {
+  "text": "DPD RI",
+  "type": "ORGANIZATION"
+ },
+ "djan faridz": {
+  "text": "Djan Faridz",
+  "type": "PERSON"
+ },
+ "rp 20 juta": {
+  "text": "Rp 20 juta",
+  "type": "QUANTITY"
+ },
+ "dki": {
+  "text": "DKI",
+  "type": "LOCATION"
+ },
+ "kantor presiden jakarta": {
+  "text": "kantor Presiden Jakarta",
+  "type": "LOCATION"
+ },
+ "senin (17/10/2011)": {
+  "text": "Senin (17/10/2011)",
+  "type": "TIME"
+ },
+ "djan farid": {
+  "text": "Djan Farid",
+  "type": "PERSON"
+ },
+ "sudi silalahi": {
+  "text": "Sudi Silalahi",
+  "type": "PERSON"
+ },
+ "tb hasanuddin": {
+  "text": "TB Hasanuddin",
+  "type": "PERSON"
+ },
+ "polri": {
+  "text": "Polri",
+  "type": "ORGANIZATION"
+ },
+ "badrodin haiti": {
+  "text": "Badrodin Haiti",
+  "type": "PERSON"
+ },
+ "hasanuddin": {
+  "text": "Hasanuddin",
+  "type": "PERSON"
+ },
+ "jumat (20/2/2015)": {
+  "text": "Jumat (20/2/2015)",
+  "type": "TIME"
+ },
+ "megawati soekarnoputri": {
+  "text": "Megawati Soekarnoputri",
+  "type": "PERSON"
+ },
+ "budi": {
+  "text": "Budi",
+  "type": "PERSON"
+ },
+ "kpk": {
+  "text": "KPK",
+  "type": "ORGANIZATION"
+ },
+ "pengadilan negeri jakarta selatan": {
+  "text": "Pengadilan Negeri Jakarta Selatan",
+  "type": "LOCATION"
+ },
+ "ahmad basarah": {
+  "text": "Ahmad Basarah",
+  "type": "PERSON"
+ },
+ "pdi-perjuangan": {
+  "text": "PDI-Perjuangan",
+  "type": "ORGANIZATION"
+ },
+ "rabu (18/2/2015)": {
+  "text": "Rabu (18/2/2015)",
+  "type": "TIME"
+ },
+ "partai amanat nasional (pan)": {
+  "text": "Partai Amanat Nasional (PAN)",
+  "type": "ORGANIZATION"
+ },
+ "zulkifli hasan": {
+  "text": "Zulkifli Hasan",
+  "type": "PERSON"
+ },
+ "se-sulawesi selatan": {
+  "text": "se-Sulawesi Selatan",
+  "type": "LOCATION"
+ },
+ "pak zulkifli": {
+  "text": "Pak Zulkifli",
+  "type": "PERSON"
+ },
+ "ashabul kahfi": {
+  "text": "Ashabul Kahfi",
+  "type": "PERSON"
+ },
+ "rumah makan sariwangi": {
+  "text": "Rumah Makan Sariwangi",
+  "type": "LOCATION"
+ },
+ "makassar": {
+  "text": "Makassar",
+  "type": "LOCATION"
+ },
+ "selasa, 30 desember 2014": {
+  "text": "Selasa, 30 Desember 2014",
+  "type": "TIME"
+ },
+ "zulkifli": {
+  "text": "Zulkifli",
+  "type": "PERSON"
+ },
+ "fraksi pan dpr": {
+  "text": "Fraksi PAN DPR",
+  "type": "ORGANIZATION"
+ },
+ "andi taufan tiro": {
+  "text": "Andi Taufan Tiro",
+  "type": "PERSON"
+ },
+ "indira chunda thita": {
+  "text": "Indira Chunda Thita",
+  "type": "PERSON"
+ },
+ "yandri susanto": {
+  "text": "Yandri Susanto",
+  "type": "PERSON"
+ },
+ "anas urbaningrum": {
+  "text": "Anas Urbaningrum",
+  "type": "PERSON"
+ },
+ "adnan buyung nasution": {
+  "text": "Adnan Buyung Nasution",
+  "type": "PERSON"
+ },
+ "adnan": {
+  "text": "Adnan",
+  "type": "PERSON"
+ },
+ "majelis hakim pengadilan tindak pidana korupsi": {
+  "text": "Majelis Hakim Pengadilan Tindak Pidana Korupsi",
+  "type": "ORGANIZATION"
+ },
+ "jakarta ": {
+  "text": "Jakarta ",
+  "type": "LOCATION"
+ },
+ "haswandi ": {
+  "text": "Haswandi ",
+  "type": "PERSON"
+ },
+ "adnan ": {
+  "text": "Adnan ",
+  "type": "PERSON"
+ },
+ " pengadilan tipikor": {
+  "text": " Pengadilan Tipikor",
+  "type": "LOCATION"
+ },
+ "kamis (14/8/2014)": {
+  "text": "Kamis (14/8/2014)",
+  "type": "TIME"
+ },
+ "neneng sri wahyuni": {
+  "text": "Neneng Sri Wahyuni",
+  "type": "PERSON"
+ },
+ "yulianis": {
+  "text": "Yulianis",
+  "type": "PERSON"
+ },
+ "oktarina putri": {
+  "text": "Oktarina Putri",
+  "type": "PERSON"
+ },
+ "neneng": {
+  "text": "Neneng",
+  "type": "PERSON"
+ },
+ "yulianis ": {
+  "text": "Yulianis ",
+  "type": "PERSON"
+ },
+ "oktarina": {
+  "text": "Oktarina",
+  "type": "PERSON"
+ },
+ "haswandi": {
+  "text": "Haswandi",
+  "type": "PERSON"
+ },
+ "pks ": {
+  "text": "PKS ",
+  "type": "ORGANIZATION"
+ },
+ "sutan bhatoegana": {
+  "text": "Sutan Bhatoegana",
+  "type": "PERSON"
+ },
+ "sabtu (15/10/2011)": {
+  "text": "Sabtu (15/10/2011)",
+  "type": "TIME"
+ },
+ "sutan": {
+  "text": "Sutan",
+  "type": "PERSON"
+ },
+ "susilo bambang yudhoyono": {
+  "text": "Susilo Bambang Yudhoyono",
+  "type": "PERSON"
+ },
+ "sutan ": {
+  "text": "Sutan ",
+  "type": "PERSON"
+ },
+ "demokrat ": {
+  "text": "Demokrat ",
+  "type": "ORGANIZATION"
+ },
+ "wakil ketua fraksi partai demokrat": {
+  "text": "Wakil Ketua Fraksi Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "partai persatuan pembangunan (ppp)": {
+  "text": "Partai Persatuan Pembangunan (PPP)",
+  "type": "ORGANIZATION"
+ },
+ "dpp ppp": {
+  "text": "DPP PPP",
+  "type": "ORGANIZATION"
+ },
+ "hotel preanger, kota bandung, jawa barat": {
+  "text": "Hotel Preanger, Kota Bandung, Jawa Barat",
+  "type": "LOCATION"
+ },
+ "jumat (7/2/2014)": {
+  "text": "Jumat (7/2/2014)",
+  "type": "TIME"
+ },
+ "mahkamah konstitusi (mk)": {
+  "text": "Mahkamah Konstitusi (MK)",
+  "type": "ORGANIZATION"
+ },
+ "mahfud md": {
+  "text": "Mahfud MD",
+  "type": "PERSON"
+ },
+ "(9/2)": {
+  "text": "(9/2)",
+  "type": "TIME"
+ },
+ "sabuga kota bandung": {
+  "text": "Sabuga kota Bandung",
+  "type": "LOCATION"
+ },
+ "marwan ja'far": {
+  "text": "Marwan Ja'far",
+  "type": "PERSON"
+ },
+ "partai kedaulatan bangsa (pkb) indonesia": {
+  "text": "Partai Kedaulatan Bangsa (PKB) Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "selasa (3/5/2011)": {
+  "text": "Selasa (3/5/2011)",
+  "type": "TIME"
+ },
+ "yenny wahid": {
+  "text": "Yenny Wahid",
+  "type": "PERSON"
+ },
+ "pkb indonesia": {
+  "text": "PKB Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "kementerian hukum dan ham": {
+  "text": "Kementerian Hukum dan HAM",
+  "type": "ORGANIZATION"
+ },
+ "syafrin romas": {
+  "text": "Syafrin Romas",
+  "type": "PERSON"
+ },
+ "imron hamid": {
+  "text": "Imron Hamid",
+  "type": "PERSON"
+ },
+ "eva sundari": {
+  "text": "Eva Sundari",
+  "type": "PERSON"
+ },
+ "118 undang-undang": {
+  "text": "118 Undang-undang",
+  "type": "QUANTITY"
+ },
+ "jl.  wahid hasyim, jakarta": {
+  "text": "Jl.  Wahid Hasyim, Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa (15/3)": {
+  "text": "Selasa (15/3)",
+  "type": "TIME"
+ },
+ "serikat petani indonesia": {
+  "text": "Serikat Petani Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "23 beleid": {
+  "text": "23 beleid",
+  "type": "QUANTITY"
+ },
+ "eva": {
+  "text": "Eva",
+  "type": "PERSON"
+ },
+ "12 petani": {
+  "text": "12 petani",
+  "type": "QUANTITY"
+ },
+ "kediri, jawa timur": {
+  "text": "Kediri, Jawa Timur",
+  "type": "LOCATION"
+ },
+ "70 persen energi": {
+  "text": "70 persen energi",
+  "type": "QUANTITY"
+ },
+ "2,5 persen": {
+  "text": "2,5 persen",
+  "type": "QUANTITY"
+ },
+ "dua menterinya": {
+  "text": "dua menterinya",
+  "type": "QUANTITY"
+ },
+ "suharso manoarfa": {
+  "text": "Suharso Manoarfa",
+  "type": "PERSON"
+ },
+ "irgan chairul mahfidz": {
+  "text": "Irgan Chairul Mahfidz",
+  "type": "PERSON"
+ },
+ "irgan": {
+  "text": "Irgan",
+  "type": "PERSON"
+ },
+ "jumat (21/10/2010)": {
+  "text": "Jumat (21/10/2010)",
+  "type": "TIME"
+ },
+ "vena melinda": {
+  "text": "Vena Melinda",
+  "type": "PERSON"
+ },
+ "lingkungan dpr": {
+  "text": "lingkungan DPR",
+  "type": "LOCATION"
+ },
+ "vena": {
+  "text": "Vena",
+  "type": "PERSON"
+ },
+ "gedung nusantara ii komplek dpr": {
+  "text": "Gedung Nusantara II komplek DPR",
+  "type": "LOCATION"
+ },
+ "jakarta, selasa (6/3/2012)": {
+  "text": "Jakarta, Selasa (6/3/2012)",
+  "type": "TIME"
+ },
+ " vena": {
+  "text": " Vena",
+  "type": "PERSON"
+ },
+ "susilo bambang yudhoyono (sby)": {
+  "text": "Susilo Bambang Yudhoyono (SBY)",
+  "type": "PERSON"
+ },
+ "oktober 2009": {
+  "text": "Oktober 2009",
+  "type": "TIME"
+ },
+ "idrus marham": {
+  "text": "Idrus Marham",
+  "type": "PERSON"
+ },
+ "senin (10/1/2011)": {
+  "text": "Senin (10/1/2011)",
+  "type": "TIME"
+ },
+ "idrus": {
+  "text": "Idrus",
+  "type": "PERSON"
+ },
+ "badan kehormatan dewan perwakilan rakyat": {
+  "text": "Badan Kehormatan Dewan Perwakilan Rakyat",
+  "type": "ORGANIZATION"
+ },
+ "presiden susilo bambang yudhoyono": {
+  "text": "Presiden Susilo Bambang Yudhoyono",
+  "type": "PERSON"
+ },
+ "dahlan iskan": {
+  "text": "Dahlan Iskan",
+  "type": "PERSON"
+ },
+ "badan kehormatan": {
+  "text": "Badan Kehormatan",
+  "type": "ORGANIZATION"
+ },
+ "dahlan": {
+  "text": "Dahlan",
+  "type": "PERSON"
+ },
+ "muhammad prakosa": {
+  "text": "Muhammad Prakosa",
+  "type": "PERSON"
+ },
+ "kompleks dpr, senayan": {
+  "text": "kompleks DPR, Senayan",
+  "type": "LOCATION"
+ },
+ "kamis, 6 desember 2012": {
+  "text": "Kamis, 6 Desember 2012",
+  "type": "TIME"
+ },
+ "bk": {
+  "text": "BK",
+  "type": "ORGANIZATION"
+ },
+ "sby": {
+  "text": "SBY",
+  "type": "PERSON"
+ },
+ "empat anggota": {
+  "text": "empat anggota",
+  "type": "QUANTITY"
+ },
+ "prakosa": {
+  "text": "Prakosa",
+  "type": "PERSON"
+ },
+ "tiga nama": {
+  "text": "tiga nama",
+  "type": "QUANTITY"
+ },
+ "andi timo pangerang": {
+  "text": "Andi Timo Pangerang",
+  "type": "PERSON"
+ },
+ "muhammad hatta": {
+  "text": "Muhammad Hatta",
+  "type": "PERSON"
+ },
+ "m ichlas el qudsi": {
+  "text": "M Ichlas El Qudsi",
+  "type": "PERSON"
+ },
+ "didi irawadi syamsuddin": {
+  "text": "Didi Irawadi Syamsuddin",
+  "type": "PERSON"
+ },
+ "didi": {
+  "text": "Didi",
+  "type": "PERSON"
+ },
+ "restoran gado-gado boplo, jakarta": {
+  "text": "restoran Gado-gado Boplo, Jakarta",
+  "type": "LOCATION"
+ },
+ "sabtu, 6 desember 2014": {
+  "text": "Sabtu, 6 Desember 2014",
+  "type": "TIME"
+ },
+ "prabowo subianto": {
+  "text": "Prabowo Subianto",
+  "type": "PERSON"
+ },
+ "irawadi": {
+  "text": "Irawadi",
+  "type": "PERSON"
+ },
+ "joko widodo (jokowi)": {
+  "text": "Joko Widodo (Jokowi)",
+  "type": "PERSON"
+ },
+ "cak imin": {
+  "text": "Cak Imin",
+  "type": "PERSON"
+ },
+ "hotel grand sahid jaya, sudirman, jakarta pusat": {
+  "text": "Hotel Grand Sahid Jaya, Sudirman, Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ "senin (8/9/2014)": {
+  "text": "Senin (8/9/2014)",
+  "type": "TIME"
+ },
+ "jokowi ": {
+  "text": "Jokowi ",
+  "type": "PERSON"
+ },
+ "siswono yudo husodo": {
+  "text": "Siswono Yudo Husodo",
+  "type": "PERSON"
+ },
+ "siswono": {
+  "text": "Siswono",
+  "type": "PERSON"
+ },
+ "gedung dpr ri, senayan, jakarta": {
+  "text": "Gedung DPR RI, Senayan, Jakarta",
+  "type": "LOCATION"
+ },
+ "rabu (20/8/2014)": {
+  "text": "Rabu (20/8/2014)",
+  "type": "TIME"
+ },
+ "31": {
+  "text": "31",
+  "type": "QUANTITY"
+ },
+ "partai gerakan indonesia raya": {
+  "text": "Partai Gerakan Indonesia Raya",
+  "type": "ORGANIZATION"
+ },
+ "partai amanat nasional": {
+  "text": "Partai Amanat Nasional",
+  "type": "ORGANIZATION"
+ },
+ "usuf kalla": {
+  "text": "usuf Kalla",
+  "type": "PERSON"
+ },
+ "22 juli 2014": {
+  "text": "22 Juli 2014",
+  "type": "TIME"
+ },
+ "mk": {
+  "text": "MK",
+  "type": "ORGANIZATION"
+ },
+ "kamis, (21/8/2014)": {
+  "text": "Kamis, (21/8/2014)",
+  "type": "TIME"
+ },
+ "ppatk": {
+  "text": "PPATK",
+  "type": "ORGANIZATION"
+ },
+ "pramono anung": {
+  "text": "Pramono Anung",
+  "type": "PERSON"
+ },
+ "selasa 20 september 2011": {
+  "text": "Selasa 20 September 2011",
+  "type": "TIME"
+ },
+ "pramono": {
+  "text": "Pramono",
+  "type": "PERSON"
+ },
+ "kamis": {
+  "text": "Kamis",
+  "type": "TIME"
+ },
+ "21 transaksi": {
+  "text": "21 transaksi",
+  "type": "QUANTITY"
+ },
+ "badan anggaran dpr": {
+  "text": "Badan Anggaran DPR",
+  "type": "ORGANIZATION"
+ },
+ "senayan": {
+  "text": "Senayan",
+  "type": "LOCATION"
+ },
+ "ketua dpr": {
+  "text": "Ketua DPR",
+  "type": "ORGANIZATION"
+ },
+ "badan anggaran": {
+  "text": "Badan Anggaran",
+  "type": "ORGANIZATION"
+ },
+ "fraksi partai amanat nasional": {
+  "text": "Fraksi Partai Amanat Nasional",
+  "type": "ORGANIZATION"
+ },
+ "wa ode nurhayati": {
+  "text": "Wa Ode Nurhayati",
+  "type": "PERSON"
+ },
+ "wa ode": {
+  "text": "Wa Ode",
+  "type": "PERSON"
+ },
+ "pimpinan dpr": {
+  "text": "pimpinan DPR",
+  "type": "ORGANIZATION"
+ },
+ "partai golkar ": {
+  "text": "Partai Golkar ",
+  "type": "ORGANIZATION"
+ },
+ "sekretariat gabungan": {
+  "text": "Sekretariat Gabungan",
+  "type": "ORGANIZATION"
+ },
+ "sekertaris tim bidang politik dpp partai golkar": {
+  "text": "Sekertaris tim Bidang Politik DPP Partai Golkar",
+  "type": "ORGANIZATION"
+ },
+ "agun gunanjar sudarsa": {
+  "text": "Agun Gunanjar Sudarsa",
+  "type": "PERSON"
+ },
+ "kamis (16/06/2011)": {
+  "text": "Kamis (16/06/2011)",
+  "type": "TIME"
+ },
+ "agun": {
+  "text": "Agun",
+  "type": "PERSON"
+ },
+ "ida fauziah": {
+  "text": "Ida Fauziah",
+  "type": "PERSON"
+ },
+ "2.5 sampai 5 persen": {
+  "text": "2.5 sampai 5 persen",
+  "type": "QUANTITY"
+ },
+ "senin (20/6/2011)": {
+  "text": "Senin (20/6/2011)",
+  "type": "TIME"
+ },
+ "komisi pemberantasan korupsi": {
+  "text": "Komisi Pemberantasan Korupsi",
+  "type": "ORGANIZATION"
+ },
+ "komisi iii dpr": {
+  "text": "Komisi III DPR",
+  "type": "ORGANIZATION"
+ },
+ "bambang widjojanto": {
+  "text": "Bambang Widjojanto",
+  "type": "PERSON"
+ },
+ "saan mustopa": {
+  "text": "Saan Mustopa",
+  "type": "PERSON"
+ },
+ "kompleks parlemen, senayan, jakarta": {
+  "text": "Kompleks Parlemen, Senayan, Jakarta",
+  "type": "LOCATION"
+ },
+ "jumat (2/12/2011)": {
+  "text": "Jumat (2/12/2011)",
+  "type": "TIME"
+ },
+ "sekretaris fraksi partai demokrat": {
+  "text": "Sekretaris Fraksi Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "bambang": {
+  "text": "Bambang",
+  "type": "PERSON"
+ },
+ "saan": {
+  "text": "Saan",
+  "type": "PERSON"
+ },
+ "ketua umum partai demokrat": {
+  "text": "Ketua Umum Partai Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "anas": {
+  "text": "Anas",
+  "type": "PERSON"
+ },
+ "rabu (18/8)": {
+  "text": "Rabu (18/8)",
+  "type": "TIME"
+ },
+ "istana negara jakarta": {
+  "text": "Istana Negara Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa (18/10/2011)": {
+  "text": "Selasa (18/10/2011)",
+  "type": "TIME"
+ },
+ "ny ani yudhoyono": {
+  "text": "Ny Ani Yudhoyono",
+  "type": "PERSON"
+ },
+ "halim perdanakusumah jakarta": {
+  "text": "Halim Perdanakusumah Jakarta",
+  "type": "LOCATION"
+ },
+ "sultan hb x": {
+  "text": "Sultan HB X",
+  "type": "PERSON"
+ },
+ "yogya": {
+  "text": "Yogya",
+  "type": "LOCATION"
+ },
+ "sultan hamengkubuwono x": {
+  "text": "Sultan Hamengkubuwono X",
+  "type": "PERSON"
+ },
+ "staf khusus presiden bidang komunikasi politik": {
+  "text": "Staf Khusus Presiden bidang Komunikasi Politik",
+  "type": "ORGANIZATION"
+ },
+ "daniel sparingga": {
+  "text": "Daniel Sparingga",
+  "type": "PERSON"
+ },
+ "boediono": {
+  "text": "Boediono",
+  "type": "LOCATION"
+ },
+ "istana jogja": {
+  "text": "Istana Jogja",
+  "type": "LOCATION"
+ },
+ "komisi nasional hak asasi manusia ": {
+  "text": "Komisi Nasional Hak Asasi Manusia ",
+  "type": "ORGANIZATION"
+ },
+ "rini soemarno": {
+  "text": "Rini Soemarno",
+  "type": "PERSON"
+ },
+ "komisioner komnas ham": {
+  "text": "Komisioner Komnas HAM",
+  "type": "ORGANIZATION"
+ },
+ "siti noor laila": {
+  "text": "Siti Noor Laila",
+  "type": "PERSON"
+ },
+ "kamis, 28 agustus 2014": {
+  "text": "Kamis, 28 Agustus 2014",
+  "type": "TIME"
+ },
+ "noor laila": {
+  "text": "Noor Laila",
+  "type": "PERSON"
+ },
+ "komnas ham": {
+  "text": "Komnas HAM",
+  "type": "ORGANIZATION"
+ },
+ "kejaksaan agung": {
+  "text": "Kejaksaan Agung",
+  "type": "ORGANIZATION"
+ },
+ "jakarta convention center": {
+  "text": "Jakarta Convention Center",
+  "type": "LOCATION"
+ },
+ "jumat (12/3/2010)": {
+  "text": "Jumat (12/3/2010)",
+  "type": "TIME"
+ },
+ "ny herawati boediono": {
+  "text": "Ny Herawati Boediono",
+  "type": "PERSON"
+ },
+ "senin (26/1/2015)": {
+  "text": "Senin (26/1/2015)",
+  "type": "TIME"
+ },
+ "effendi simbolon": {
+  "text": "Effendi Simbolon",
+  "type": "PERSON"
+ },
+ "effendi": {
+  "text": "Effendi",
+  "type": "PERSON"
+ },
+ "sudirman said": {
+  "text": "Sudirman Said",
+  "type": "PERSON"
+ },
+ "rini (soemarno)": {
+  "text": "Rini (Soemarno)",
+  "type": "PERSON"
+ },
+ "sofyan djalil": {
+  "text": "Sofyan Djalil",
+  "type": "PERSON"
+ },
+ "rini": {
+  "text": "Rini",
+  "type": "PERSON"
+ },
+ "megawati": {
+  "text": "Megawati",
+  "type": "PERSON"
+ },
+ "achsanul qosasi": {
+  "text": "Achsanul Qosasi",
+  "type": "PERSON"
+ },
+ "dewan pimpinan daerah demokrat": {
+  "text": "Dewan Pimpinan Daerah Demokrat",
+  "type": "ORGANIZATION"
+ },
+ "achsanul": {
+  "text": "Achsanul",
+  "type": "PERSON"
+ },
+ "senin, 25 maret 2013": {
+  "text": "Senin, 25 Maret 2013",
+  "type": "TIME"
+ },
+ "bu ani": {
+  "text": "Bu Ani",
+  "type": "PERSON"
+ },
+ "ani yudhoyono": {
+  "text": "Ani Yudhoyono",
+  "type": "PERSON"
+ },
+ "ani": {
+  "text": "Ani",
+  "type": "PERSON"
+ },
+ "dr.  lely arriane napitupulu": {
+  "text": "Dr.  Lely Arriane Napitupulu",
+  "type": "PERSON"
+ },
+ "lely": {
+  "text": "Lely",
+  "type": "PERSON"
+ },
+ "warung daun, cikini, jakarta pusat": {
+  "text": "Warung Daun, Cikini, Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ "sabtu (4/5/2013)": {
+  "text": "Sabtu (4/5/2013)",
+  "type": "TIME"
+ },
+ "susno duadji": {
+  "text": "Susno Duadji",
+  "type": "PERSON"
+ },
+ "susno": {
+  "text": "Susno",
+  "type": "PERSON"
+ },
+ "rp 28 miliar": {
+  "text": "Rp 28 miliar",
+  "type": "QUANTITY"
+ },
+ "sjahril djohan": {
+  "text": "Sjahril Djohan",
+  "type": "PERSON"
+ },
+ "kamis (2/9/2010)": {
+  "text": "Kamis (2/9/2010)",
+  "type": "TIME"
+ },
+ "rp 500 juta": {
+  "text": "Rp 500 juta",
+  "type": "QUANTITY"
+ },
+ "pt salma arowana lestari": {
+  "text": "PT Salma Arowana Lestari",
+  "type": "ORGANIZATION"
+ },
+ "sjahril": {
+  "text": "Sjahril",
+  "type": "PERSON"
+ },
+ "haposan hutagalung": {
+  "text": "Haposan Hutagalung",
+  "type": "PERSON"
+ },
+ "haposan": {
+  "text": "Haposan",
+  "type": "PERSON"
+ },
+ "rp 3,5 miliar": {
+  "text": "Rp 3,5 miliar",
+  "type": "QUANTITY"
+ },
+ "ho": {
+  "text": "Ho",
+  "type": "PERSON"
+ },
+ "partai demokrasi indonesia perjuangan": {
+  "text": "Partai Demokrasi Indonesia Perjuangan",
+  "type": "ORGANIZATION"
+ },
+ "ahmad heryawan": {
+  "text": "Ahmad Heryawan",
+  "type": "PERSON"
+ },
+ "yusuf effendi": {
+  "text": "Yusuf Effendi",
+  "type": "PERSON"
+ },
+ "dede yusuf": {
+  "text": "Dede Yusuf",
+  "type": "PERSON"
+ },
+ "ahad, 11 november 2012": {
+  "text": "Ahad, 11 November 2012",
+  "type": "TIME"
+ },
+ "tb": {
+  "text": "TB",
+  "type": "PERSON"
+ },
+ "14 kasus korupsi": {
+  "text": "14 kasus korupsi",
+  "type": "QUANTITY"
+ },
+ "rieke diah pitaloka": {
+  "text": "Rieke Diah Pitaloka",
+  "type": "PERSON"
+ },
+ "teten masduki": {
+  "text": "Teten Masduki",
+  "type": "PERSON"
+ },
+ "lex laksamana": {
+  "text": "Lex Laksamana",
+  "type": "PERSON"
+ },
+ "deddy mizwar": {
+  "text": "Deddy Mizwar",
+  "type": "PERSON"
+ },
+ "irianto ms syarifuddin": {
+  "text": "Irianto MS Syarifuddin",
+  "type": "PERSON"
+ },
+ "tatang farhanul hakim": {
+  "text": "Tatang Farhanul Hakim",
+  "type": "PERSON"
+ },
+ "ahmad doli kurnia": {
+  "text": "Ahmad Doli Kurnia",
+  "type": "PERSON"
+ },
+ "ahmad": {
+  "text": "Ahmad",
+  "type": "PERSON"
+ },
+ "galeri cipta, cikini, jakarta": {
+  "text": "Galeri Cipta, Cikini, Jakarta",
+  "type": "LOCATION"
+ },
+ "rabu (13/8/2014)": {
+  "text": "Rabu (13/8/2014)",
+  "type": "TIME"
+ },
+ "partai keadilan sejahtera (pks)": {
+  "text": "Partai Keadilan Sejahtera (PKS)",
+  "type": "ORGANIZATION"
+ },
+ "nasir djamil": {
+  "text": "Nasir Djamil",
+  "type": "PERSON"
+ },
+ "selasa (7/10/2014)": {
+  "text": "Selasa (7/10/2014)",
+  "type": "TIME"
+ },
+ "nasir": {
+  "text": "Nasir",
+  "type": "PERSON"
+ },
+ "aboebakar al habsy": {
+  "text": "Aboebakar Al Habsy",
+  "type": "PERSON"
+ },
+ "hajrul azwar": {
+  "text": "Hajrul Azwar",
+  "type": "PERSON"
+ },
+ "hajrul": {
+  "text": "Hajrul",
+  "type": "PERSON"
+ },
+ "komplek dpr, jakarta": {
+  "text": "komplek DPR, Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa, 4 februari 201. ": {
+  "text": "Selasa, 4 Februari 201. ",
+  "type": "TIME"
+ },
+ "sutiyoso": {
+  "text": "Sutiyoso",
+  "type": "PERSON"
+ },
+ "cirebon": {
+  "text": "Cirebon",
+  "type": "LOCATION"
+ },
+ "kamis (10/7)": {
+  "text": "Kamis (10/7)",
+  "type": "TIME"
+ },
+ "10 partai": {
+  "text": "10 partai",
+  "type": "QUANTITY"
+ },
+ "partai demokrasi kebangsaan": {
+  "text": "Partai Demokrasi Kebangsaan",
+  "type": "ORGANIZATION"
+ },
+ "partai demokrasi pembaruan": {
+  "text": "Partai Demokrasi Pembaruan",
+  "type": "ORGANIZATION"
+ },
+ "partai keadilan dan persatuan indonesia": {
+  "text": "Partai Keadilan dan Persatuan Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "pni marhaen": {
+  "text": "PNI Marhaen",
+  "type": "ORGANIZATION"
+ },
+ "partai damai sejahtera": {
+  "text": "Partai Damai Sejahtera",
+  "type": "ORGANIZATION"
+ },
+ "partai patriot": {
+  "text": "Partai Patriot",
+  "type": "ORGANIZATION"
+ },
+ "partai pelopor": {
+  "text": "Partai Pelopor",
+  "type": "ORGANIZATION"
+ },
+ "partai indonesia sejahtera": {
+  "text": "Partai Indonesia Sejahtera",
+  "type": "ORGANIZATION"
+ },
+ "partai pemuda indonesia": {
+  "text": "Partai Pemuda Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "partai pengusaha dan pekerja": {
+  "text": "Partai Pengusaha dan Pekerja",
+  "type": "ORGANIZATION"
+ },
+ "boni hargens": {
+  "text": "Boni Hargens",
+  "type": "PERSON"
+ },
+ "m nazaruddin": {
+  "text": "M Nazaruddin",
+  "type": "PERSON"
+ },
+ "boni": {
+  "text": "Boni",
+  "type": "PERSON"
+ },
+ "rumah perubahan 2.0, jakarta": {
+  "text": "Rumah Perubahan 2.0, Jakarta",
+  "type": "LOCATION"
+ },
+ "selasa (20/9/2011)": {
+  "text": "Selasa (20/9/2011)",
+  "type": "TIME"
+ },
+ "partai demokrat (pd)": {
+  "text": "Partai Demokrat (PD)",
+  "type": "ORGANIZATION"
+ },
+ "nazaruddin": {
+  "text": "Nazaruddin",
+  "type": "PERSON"
+ },
+ "kamis, 30 mei 2013": {
+  "text": "Kamis, 30 Mei 2013",
+  "type": "TIME"
+ },
+ "porong, sidoarjo, jawa timur": {
+  "text": "Porong, Sidoarjo, Jawa Timur",
+  "type": "LOCATION"
+ },
+ "lokasi luapan lumpur lapindo": {
+  "text": "lokasi luapan lumpur Lapindo",
+  "type": "LOCATION"
+ },
+ "kamis (29/5/2014)": {
+  "text": "Kamis (29/5/2014)",
+  "type": "TIME"
+ },
+ "15.50 wib": {
+  "text": "15.50 WIB",
+  "type": "TIME"
+ },
+ "israel": {
+  "text": "Israel",
+  "type": "LOCATION"
+ },
+ "benjamin netanyahu": {
+  "text": "Benjamin Netanyahu",
+  "type": "PERSON"
+ },
+ "palestina": {
+  "text": "Palestina",
+  "type": "LOCATION"
+ },
+ "minggu ( 24/8 )": {
+  "text": "Minggu ( 24/8 )",
+  "type": "TIME"
+ },
+ "17 orang terluka": {
+  "text": "17 orang terluka",
+  "type": "QUANTITY"
+ },
+ "hamas": {
+  "text": "Hamas",
+  "type": "ORGANIZATION"
+ },
+ "gaza": {
+  "text": "Gaza",
+  "type": "LOCATION"
+ },
+ "netanyahu": {
+  "text": "Netanyahu",
+  "type": "PERSON"
+ },
+ "ribuan rumah": {
+  "text": "Ribuan rumah",
+  "type": "QUANTITY"
+ },
+ "500.000 orang": {
+  "text": "500.000 orang",
+  "type": "QUANTITY"
+ },
+ "1,8 juta warga": {
+  "text": "1,8 juta warga",
+  "type": "QUANTITY"
+ },
+ "2.108 orang": {
+  "text": "2.108 orang",
+  "type": "QUANTITY"
+ },
+ "400 orang": {
+  "text": "400 orang",
+  "type": "QUANTITY"
+ },
+ "jalur gaza": {
+  "text": "Jalur Gaza",
+  "type": "LOCATION"
+ },
+ "8 juli": {
+  "text": "8 Juli",
+  "type": "TIME"
+ },
+ "64 tentara": {
+  "text": "64 tentara",
+  "type": "QUANTITY"
+ },
+ "empat warga sipil": {
+  "text": "empat warga sipil",
+  "type": "QUANTITY"
+ },
+ "46 orang": {
+  "text": "46 orang",
+  "type": "QUANTITY"
+ },
+ "djoko suyanto": {
+  "text": "Djoko Suyanto",
+  "type": "PERSON"
+ },
+ "jumat ( 22/8 )": {
+  "text": "Jumat ( 22/8 )",
+  "type": "TIME"
+ },
+ "djoko": {
+  "text": "Djoko",
+  "type": "PERSON"
+ },
+ "medan merdeka barat": {
+  "text": "Medan Merdeka Barat",
+  "type": "LOCATION"
+ },
+ "sutarman": {
+  "text": "Sutarman",
+  "type": "PERSON"
+ },
+ "mesir": {
+  "text": "Mesir",
+  "type": "LOCATION"
+ },
+ "beersheba": {
+  "text": "Beersheba",
+  "type": "LOCATION"
+ },
+ "dua orang": {
+  "text": "dua orang",
+  "type": "QUANTITY"
+ },
+ "dua roket": {
+  "text": "dua roket",
+  "type": "QUANTITY"
+ },
+ "libanon": {
+  "text": "Libanon",
+  "type": "LOCATION"
+ },
+ "israel utara": {
+  "text": "Israel utara",
+  "type": "LOCATION"
+ },
+ "17 orang cedera": {
+  "text": "17 orang cedera",
+  "type": "QUANTITY"
+ },
+ "gedung gaza": {
+  "text": "gedung Gaza",
+  "type": "LOCATION"
+ },
+ "44 kepala keluarga": {
+  "text": "44 kepala keluarga",
+  "type": "QUANTITY"
+ },
+ "kota rafah": {
+  "text": "kota Rafah",
+  "type": "LOCATION"
+ },
+ "gaza selatan": {
+  "text": "Gaza selatan",
+  "type": "LOCATION"
+ },
+ "tiga orang": {
+  "text": "tiga orang",
+  "type": "QUANTITY"
+ },
+ "lima warga": {
+  "text": "Lima warga",
+  "type": "QUANTITY"
+ },
+ "dua anak-anak tewas": {
+  "text": "dua anak-anak tewas",
+  "type": "QUANTITY"
+ },
+ "gaza tengah": {
+  "text": "Gaza tengah",
+  "type": "LOCATION"
+ },
+ "tujuh warga": {
+  "text": "Tujuh warga",
+  "type": "QUANTITY"
+ },
+ "20 target": {
+  "text": "20 target",
+  "type": "QUANTITY"
+ },
+ "seluruh gaza": {
+  "text": "seluruh Gaza",
+  "type": "LOCATION"
+ },
+ "sabtu": {
+  "text": "Sabtu",
+  "type": "TIME"
+ },
+ "tel aviv": {
+  "text": "Tel Aviv",
+  "type": "LOCATION"
+ },
+ "570 roket": {
+  "text": "570 roket",
+  "type": "QUANTITY"
+ },
+ "selasa": {
+  "text": "Selasa",
+  "type": "TIME"
+ },
+ "mahmud abbas": {
+  "text": "Mahmud Abbas",
+  "type": "PERSON"
+ },
+ "kairo": {
+  "text": "Kairo",
+  "type": "LOCATION"
+ },
+ "abdel fattah al-sisi": {
+  "text": "Abdel Fattah al-Sisi",
+  "type": "PERSON"
+ },
+ "wilayah gaza": {
+  "text": "wilayah Gaza",
+  "type": "LOCATION"
+ },
+ "1,8 juta jiwa": {
+  "text": "1,8 juta jiwa",
+  "type": "QUANTITY"
+ },
+ "abbas": {
+  "text": "Abbas",
+  "type": "PERSON"
+ },
+ "6 agustus 2014": {
+  "text": "6 Agustus 2014",
+  "type": "TIME"
+ },
+ "sri rahayu": {
+  "text": "Sri Rahayu",
+  "type": "PERSON"
+ },
+ "widodo": {
+  "text": "Widodo",
+  "type": "PERSON"
+ },
+ "bandung": {
+  "text": "Bandung",
+  "type": "LOCATION"
+ },
+ "indo\ufffdnesia": {
+  "text": "Indo\ufffdnesia",
+  "type": "LOCATION"
+ },
+ "2008": {
+  "text": "2008",
+  "type": "TIME"
+ },
+ "awal 2014": {
+  "text": "awal 2014",
+  "type": "TIME"
+ },
+ "september 2014": {
+  "text": "September 2014",
+  "type": "TIME"
+ },
+ "sri": {
+  "text": "Sri",
+  "type": "PERSON"
+ },
+ "tiga aduan per hari": {
+  "text": "tiga aduan per hari",
+  "type": "QUANTITY"
+ },
+ "komunitas ekonomi asean ( aec )": {
+  "text": "Komunitas Ekonomi ASEAN ( AEC )",
+  "type": "ORGANIZATION"
+ },
+ "2015": {
+  "text": "2015",
+  "type": "TIME"
+ },
+ "jepang": {
+  "text": "Jepang",
+  "type": "LOCATION"
+ },
+ "tritarayati": {
+  "text": "Tritarayati",
+  "type": "PERSON"
+ },
+ "aec": {
+  "text": "AEC",
+  "type": "ORGANIZATION"
+ },
+ "qatar": {
+  "text": "Qatar",
+  "type": "LOCATION"
+ },
+ "rp40-50 juta perbulan": {
+  "text": "Rp40-50 juta perbulan",
+  "type": "QUANTITY"
+ },
+ "satu letusan kecil": {
+  "text": "Satu letusan kecil",
+  "type": "QUANTITY"
+ },
+ "gletser dyungjujokull islandia": {
+  "text": "gletser Dyungjujokull Islandia",
+  "type": "LOCATION"
+ },
+ "islandia": {
+  "text": "Islandia",
+  "type": "LOCATION"
+ },
+ "atlantik utara": {
+  "text": "Atlantik Utara",
+  "type": "LOCATION"
+ },
+ "gletser dyinghuhokull": {
+  "text": "gletser Dyinghuhokull",
+  "type": "LOCATION"
+ },
+ "eyjafjallajokull": {
+  "text": "Eyjafjallajokull",
+  "type": "LOCATION"
+ },
+ "2010": {
+  "text": "2010",
+  "type": "TIME"
+ },
+ "eropa": {
+  "text": "Eropa",
+  "type": "LOCATION"
+ },
+ "enam hari": {
+  "text": "enam hari",
+  "type": "QUANTITY"
+ },
+ "brussels eurocontrol": {
+  "text": "Brussels Eurocontrol",
+  "type": "LOCATION"
+ },
+ "volcanic ash advisory centre": {
+  "text": "Volcanic Ash Advisory Centre",
+  "type": "ORGANIZATION"
+ },
+ "london": {
+  "text": "London",
+  "type": "LOCATION"
+ },
+ "eurocontrol": {
+  "text": "Eurocontrol",
+  "type": "PERSON"
+ },
+ "otoritas jasa keuangan ( ojk )": {
+  "text": "Otoritas Jasa Keuangan ( OJK )",
+  "type": "ORGANIZATION"
+ },
+ "sri rahayu widodo": {
+  "text": "Sri Rahayu Widodo",
+  "type": "PERSON"
+ },
+ "ojk": {
+  "text": "OJK",
+  "type": "ORGANIZATION"
+ },
+ "2013": {
+  "text": "2013",
+  "type": "TIME"
+ },
+ "21,8 persen": {
+  "text": "21,8 persen",
+  "type": "QUANTITY"
+ },
+ "asia tenggara": {
+  "text": "Asia Tenggara",
+  "type": "LOCATION"
+ },
+ "singapura": {
+  "text": "Singapura",
+  "type": "LOCATION"
+ },
+ "90 persen": {
+  "text": "90 persen",
+  "type": "QUANTITY"
+ },
+ "malaysia": {
+  "text": "Malaysia",
+  "type": "LOCATION"
+ },
+ "( 60-70 persen )": {
+  "text": "( 60-70 persen )",
+  "type": "QUANTITY"
+ },
+ "( 30 persen )": {
+  "text": "( 30 persen )",
+  "type": "QUANTITY"
+ },
+ "mutiara sibarani": {
+  "text": "Mutiara Sibarani",
+  "type": "PERSON"
+ },
+ "rachlan nasidik": {
+  "text": "Rachlan Nasidik",
+  "type": "PERSON"
+ },
+ "rachlan": {
+  "text": "Rachlan",
+  "type": "PERSON"
+ },
+ "susilo bambang yushoyono": {
+  "text": "Susilo Bambang Yushoyono",
+  "type": "PERSON"
+ },
+ "syarif hasan": {
+  "text": "Syarif Hasan",
+  "type": "PERSON"
+ },
+ "boyke novrison": {
+  "text": "Boyke Novrison",
+  "type": "PERSON"
+ },
+ "manokwari": {
+  "text": "Manokwari",
+  "type": "LOCATION"
+ },
+ "papua barat": {
+  "text": "Papua Barat",
+  "type": "LOCATION"
+ },
+ "jumat pagi": {
+  "text": "Jumat pagi",
+  "type": "TIME"
+ },
+ "pd": {
+  "text": "PD",
+  "type": "ORGANIZATION"
+ },
+ "15 agustus lalu": {
+  "text": "15 Agustus lalu",
+  "type": "TIME"
+ },
+ "libya": {
+  "text": "Libya",
+  "type": "LOCATION"
+ },
+ "tripoli": {
+  "text": "Tripoli",
+  "type": "LOCATION"
+ },
+ "misrata": {
+  "text": "Misrata",
+  "type": "LOCATION"
+ },
+ "moammar khadafi": {
+  "text": "Moammar Khadafi",
+  "type": "PERSON"
+ },
+ "2011": {
+  "text": "2011",
+  "type": "TIME"
+ },
+ "khalifa haftar": {
+  "text": "Khalifa Haftar",
+  "type": "PERSON"
+ },
+ "minggu": {
+  "text": "Minggu",
+  "type": "TIME"
+ },
+ "zintan": {
+  "text": "Zintan",
+  "type": "LOCATION"
+ },
+ "libya barat": {
+  "text": "Libya Barat",
+  "type": "LOCATION"
+ },
+ "khadafi": {
+  "text": "Khadafi",
+  "type": "PERSON"
+ },
+ "25 juni": {
+  "text": "25 Juni",
+  "type": "TIME"
+ },
+ "himpunan mahasiswa islam ( hmi )": {
+  "text": "Himpunan Mahasiswa Islam ( HMI )",
+  "type": "ORGANIZATION"
+ },
+ "salim segaf al jufri": {
+  "text": "Salim Segaf Al Jufri",
+  "type": "PERSON"
+ },
+ "pb hmi": {
+  "text": "PB HMI",
+  "type": "ORGANIZATION"
+ },
+ "kantor kementerian sosial ( kemensos )": {
+  "text": "Kantor Kementerian Sosial ( Kemensos )",
+  "type": "LOCATION"
+ },
+ "salemba": {
+  "text": "Salemba",
+  "type": "LOCATION"
+ },
+ "2,3 juta rumah tidak layak huni": {
+  "text": "2,3 juta rumah tidak layak huni",
+  "type": "QUANTITY"
+ },
+ "( 1,8 juta penyandang cacat terlantar )": {
+  "text": "( 1,8 juta penyandang cacat terlantar )",
+  "type": "QUANTITY"
+ },
+ "sembilan juta penduduk lanjut usia": {
+  "text": "sembilan juta penduduk lanjut usia",
+  "type": "QUANTITY"
+ },
+ "dua juta di antaranya lansia": {
+  "text": "dua juta di antaranya lansia",
+  "type": "QUANTITY"
+ },
+ "42 titik konflik sosial": {
+  "text": "42 titik konflik sosial",
+  "type": "QUANTITY"
+ },
+ "hmi": {
+  "text": "HMI",
+  "type": "ORGANIZATION"
+ },
+ "iran": {
+  "text": "Iran",
+  "type": "LOCATION"
+ },
+ "hassan rouhani": {
+  "text": "Hassan Rouhani",
+  "type": "PERSON"
+ },
+ "100 kilometer ( 62 mil )": {
+  "text": "100 kilometer ( 62 mil )",
+  "type": "QUANTITY"
+ },
+ "dua pesawat tak berawak": {
+  "text": "dua pesawat tak berawak",
+  "type": "QUANTITY"
+ },
+ "rouhani": {
+  "text": "Rouhani",
+  "type": "PERSON"
+ },
+ "amerika serikat": {
+  "text": "Amerika Serikat",
+  "type": "LOCATION"
+ },
+ "teluk arab": {
+  "text": "Teluk Arab",
+  "type": "LOCATION"
+ },
+ "teheran": {
+  "text": "Teheran",
+  "type": "LOCATION"
+ },
+ "mahmoud ahmadinejad": {
+  "text": "Mahmoud Ahmadinejad",
+  "type": "PERSON"
+ },
+ "1992": {
+  "text": "1992",
+  "type": "TIME"
+ },
+ "2.000 kilometer ( 1.250 mil )": {
+  "text": "2.000 kilometer ( 1.250 mil )",
+  "type": "QUANTITY"
+ },
+ "as": {
+  "text": "AS",
+  "type": "LOCATION"
+ },
+ "timur tengah": {
+  "text": "Timur Tengah",
+  "type": "LOCATION"
+ },
+ "rusia": {
+  "text": "Rusia",
+  "type": "LOCATION"
+ },
+ "finlandia": {
+  "text": "Finlandia",
+  "type": "LOCATION"
+ },
+ "teluk finlandia": {
+  "text": "Teluk Finlandia",
+  "type": "LOCATION"
+ },
+ "sabtu sore": {
+  "text": "Sabtu sore",
+  "type": "TIME"
+ },
+ "23 agustus": {
+  "text": "23 Agustus",
+  "type": "TIME"
+ },
+ "st petersburg": {
+  "text": "St Petersburg",
+  "type": "LOCATION"
+ },
+ "kilingrad": {
+  "text": "Kilingrad",
+  "type": "LOCATION"
+ },
+ "polandia": {
+  "text": "Polandia",
+  "type": "LOCATION"
+ },
+ "lithuania": {
+  "text": "Lithuania",
+  "type": "LOCATION"
+ },
+ "interfax": {
+  "text": "Interfax",
+  "type": "ORGANIZATION"
+ },
+ "1.300 km": {
+  "text": "1.300 km",
+  "type": "QUANTITY"
+ },
+ "moskow": {
+  "text": "Moskow",
+  "type": "LOCATION"
+ },
+ "pusat pasar kota medan": {
+  "text": "Pusat Pasar Kota Medan",
+  "type": "LOCATION"
+ },
+ "tampubolon": {
+  "text": "Tampubolon",
+  "type": "PERSON"
+ },
+ "rp 25 ribu per kilogram": {
+  "text": "Rp 25 ribu per kilogram",
+  "type": "QUANTITY"
+ },
+ "rp 18 ribu": {
+  "text": "Rp 18 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 22 ribu/kg": {
+  "text": "Rp 22 ribu/kg",
+  "type": "QUANTITY"
+ },
+ "rp 13 ribu/kg": {
+  "text": "Rp 13 ribu/kg",
+  "type": "QUANTITY"
+ },
+ "rp 15 ribu": {
+  "text": "Rp 15 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 18 ribu/kg": {
+  "text": "Rp 18 ribu/kg",
+  "type": "QUANTITY"
+ },
+ "rp 22 ribu": {
+  "text": "Rp 22 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 25 ribu/kg": {
+  "text": "Rp 25 ribu/kg",
+  "type": "QUANTITY"
+ },
+ "rp 30 ribu": {
+  "text": "Rp 30 ribu",
+  "type": "QUANTITY"
+ },
+ "ucok harahap": {
+  "text": "Ucok Harahap",
+  "type": "PERSON"
+ },
+ "aceh": {
+  "text": "Aceh",
+  "type": "LOCATION"
+ },
+ "riau": {
+  "text": "Riau",
+  "type": "LOCATION"
+ },
+ "jambi": {
+  "text": "Jambi",
+  "type": "LOCATION"
+ },
+ "batam": {
+  "text": "Batam",
+  "type": "LOCATION"
+ },
+ "rp 18-20ribu": {
+  "text": "Rp 18-20ribu",
+  "type": "QUANTITY"
+ },
+ "rp 35 ribu": {
+  "text": "Rp 35 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 32-33 ribu": {
+  "text": "Rp 32-33 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 3-4 ribu": {
+  "text": "Rp 3-4 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 4-5 ribu": {
+  "text": "Rp 4-5 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 10-11 ribu": {
+  "text": "Rp 10-11 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 8 ribu": {
+  "text": "Rp 8 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 12 ribu": {
+  "text": "Rp 12 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 10 ribu": {
+  "text": "Rp 10 ribu",
+  "type": "QUANTITY"
+ },
+ "rp 4-6 ribu": {
+  "text": "Rp 4-6 ribu",
+  "type": "QUANTITY"
+ },
+ "pasar sentral kota medan": {
+  "text": "Pasar Sentral Kota Medan",
+  "type": "LOCATION"
+ },
+ "jalan bintang": {
+  "text": "Jalan Bintang",
+  "type": "LOCATION"
+ },
+ "jalan bulan": {
+  "text": "Jalan Bulan",
+  "type": "LOCATION"
+ },
+ "jalan veteran": {
+  "text": "Jalan Veteran",
+  "type": "LOCATION"
+ },
+ "afghanistan": {
+  "text": "Afghanistan",
+  "type": "LOCATION"
+ },
+ "kabul": {
+  "text": "Kabul",
+  "type": "LOCATION"
+ },
+ "laila": {
+  "text": "Laila",
+  "type": "PERSON"
+ },
+ "taliban": {
+  "text": "Taliban",
+  "type": "ORGANIZATION"
+ },
+ "sierra leone": {
+  "text": "Sierra Leone",
+  "type": "LOCATION"
+ },
+ "dua tahun": {
+  "text": "dua tahun",
+  "type": "QUANTITY"
+ },
+ "1960": {
+  "text": "1960",
+  "type": "TIME"
+ },
+ "frank kargbo": {
+  "text": "Frank Kargbo",
+  "type": "PERSON"
+ },
+ "reuters": {
+  "text": "Reuters",
+  "type": "ORGANIZATION"
+ },
+ "afrika barat": {
+  "text": "Afrika barat",
+  "type": "LOCATION"
+ },
+ "1.427 kematian": {
+  "text": "1.427 kematian",
+  "type": "QUANTITY"
+ },
+ "2,615 penderita": {
+  "text": "2,615 penderita",
+  "type": "QUANTITY"
+ },
+ "organisasi kesehatan dunian ( who )": {
+  "text": "Organisasi Kesehatan Dunian ( WHO )",
+  "type": "ORGANIZATION"
+ },
+ "who": {
+  "text": "WHO",
+  "type": "ORGANIZATION"
+ },
+ "142 kasus baru": {
+  "text": "142 kasus baru",
+  "type": "QUANTITY"
+ },
+ "77 kematian lebih": {
+  "text": "77 kematian lebih",
+  "type": "QUANTITY"
+ },
+ "guinea": {
+  "text": "Guinea",
+  "type": "LOCATION"
+ },
+ "liberia": {
+  "text": "Liberia",
+  "type": "LOCATION"
+ },
+ "jenewa": {
+  "text": "Jenewa",
+  "type": "LOCATION"
+ },
+ "amir syamsuddin": {
+  "text": "Amir Syamsuddin",
+  "type": "PERSON"
+ },
+ "amir": {
+  "text": "Amir",
+  "type": "PERSON"
+ },
+ "20 oktober": {
+  "text": "20 Oktober",
+  "type": "TIME"
+ },
+ "jakarta selatan": {
+  "text": "Jakarta Selatan",
+  "type": "LOCATION"
+ },
+ "desember 2014": {
+  "text": "Desember 2014",
+  "type": "TIME"
+ },
+ "busyro muqoddas": {
+  "text": "Busyro Muqoddas",
+  "type": "PERSON"
+ },
+ "10 desember 2014": {
+  "text": "10 Desember 2014",
+  "type": "TIME"
+ },
+ "maju daryono pakpahan": {
+  "text": "Maju Daryono Pakpahan",
+  "type": "PERSON"
+ },
+ "sh": {
+  "text": "SH",
+  "type": "PERSON"
+ },
+ "denny iryadhi": {
+  "text": "Denny Iryadhi",
+  "type": "PERSON"
+ },
+ "jerman": {
+  "text": "Jerman",
+  "type": "LOCATION"
+ },
+ "27 tahun": {
+  "text": "27 tahun",
+  "type": "QUANTITY"
+ },
+ "suriah": {
+  "text": "Suriah",
+  "type": "LOCATION"
+ },
+ "negara islam ( ni )": {
+  "text": "Negara Islam ( NI )",
+  "type": "ORGANIZATION"
+ },
+ "welt am sonntag": {
+  "text": "Welt am Sonntag",
+  "type": "ORGANIZATION"
+ },
+ "afp": {
+  "text": "AFP",
+  "type": "ORGANIZATION"
+ },
+ "brandenburg": {
+  "text": "Brandenburg",
+  "type": "LOCATION"
+ },
+ "jerman timur": {
+  "text": "Jerman Timur",
+  "type": "LOCATION"
+ },
+ "juni 2013": {
+  "text": "Juni 2013",
+  "type": "TIME"
+ },
+ "satu rekaman video": {
+  "text": "satu rekaman video",
+  "type": "QUANTITY"
+ },
+ "bka": {
+  "text": "BKA",
+  "type": "ORGANIZATION"
+ },
+ "bnd": {
+  "text": "BND",
+  "type": "ORGANIZATION"
+ },
+ "saur marlina manurung": {
+  "text": "Saur Marlina Manurung",
+  "type": "PERSON"
+ },
+ "( 42 )": {
+  "text": "( 42 )",
+  "type": "QUANTITY"
+ },
+ "butet manurung": {
+  "text": "Butet Manurung",
+  "type": "PERSON"
+ },
+ "butet": {
+  "text": "Butet",
+  "type": "PERSON"
+ },
+ "sokola rimba": {
+  "text": "Sokola Rimba",
+  "type": "ORGANIZATION"
+ },
+ "31 agustus": {
+  "text": "31 Agustus",
+  "type": "TIME"
+ },
+ "main theater cultural center of the philippines": {
+  "text": "main theater cultural center of the Philippines",
+  "type": "LOCATION"
+ },
+ "china": {
+  "text": "China",
+  "type": "LOCATION"
+ },
+ "hu shuli": {
+  "text": "Hu Shuli",
+  "type": "PERSON"
+ },
+ "omara khan masoudi": {
+  "text": "Omara Khan Masoudi",
+  "type": "PERSON"
+ },
+ "90-an": {
+  "text": "90-an",
+  "type": "TIME"
+ },
+ "pilipina": {
+  "text": "Pilipina",
+  "type": "LOCATION"
+ },
+ "ramon magsaysay": {
+  "text": "Ramon Magsaysay",
+  "type": "PERSON"
+ },
+ "puerto rico": {
+  "text": "Puerto Rico",
+  "type": "LOCATION"
+ },
+ "republik dominika": {
+  "text": "Republik Dominika",
+  "type": "LOCATION"
+ },
+ "minggu ( 24/8 ) pagi": {
+  "text": "Minggu ( 24/8 ) pagi",
+  "type": "TIME"
+ },
+ "bahamas": {
+  "text": "Bahamas",
+  "type": "LOCATION"
+ },
+ "pusat topan as": {
+  "text": "Pusat Topan AS",
+  "type": "ORGANIZATION"
+ },
+ "kepulauan turks": {
+  "text": "kepulauan Turks",
+  "type": "LOCATION"
+ },
+ "cairos": {
+  "text": "Cairos",
+  "type": "LOCATION"
+ },
+ "minggu pagi": {
+  "text": "Minggu pagi",
+  "type": "TIME"
+ },
+ "55 kilometer per jam": {
+  "text": "55 kilometer per jam",
+  "type": "QUANTITY"
+ },
+ "160 kilometer utara baratlaut": {
+  "text": "160 kilometer utara baratlaut",
+  "type": "QUANTITY"
+ },
+ "mayaguana": {
+  "text": "Mayaguana",
+  "type": "LOCATION"
+ },
+ "15 kilometer per jam": {
+  "text": "15 kilometer per jam",
+  "type": "QUANTITY"
+ },
+ "turks": {
+  "text": "Turks",
+  "type": "LOCATION"
+ },
+ "20 sentimeter": {
+  "text": "20 sentimeter",
+  "type": "QUANTITY"
+ },
+ "barranquitas": {
+  "text": "Barranquitas",
+  "type": "LOCATION"
+ },
+ "25 keluarga": {
+  "text": "25 keluarga",
+  "type": "QUANTITY"
+ },
+ "joko widodo-jusuf kalla ( jokowi-jk )": {
+  "text": "Joko Widodo-Jusuf Kalla ( Jokowi-JK )",
+  "type": "PERSON"
+ },
+ "2014 hingga 2019": {
+  "text": "2014 hingga 2019",
+  "type": "TIME"
+ },
+ "rp6.500 triliun": {
+  "text": "Rp6.500 triliun",
+  "type": "QUANTITY"
+ },
+ "jokowi-jk akbar faizal": {
+  "text": "Jokowi-JK Akbar Faizal",
+  "type": "PERSON"
+ },
+ "25 persen": {
+  "text": "25 persen",
+  "type": "QUANTITY"
+ },
+ "rp1.638 triliun": {
+  "text": "Rp1.638 triliun",
+  "type": "QUANTITY"
+ },
+ "75 persen": {
+  "text": "75 persen",
+  "type": "QUANTITY"
+ },
+ "lima persen": {
+  "text": "lima persen",
+  "type": "QUANTITY"
+ },
+ "empat hingga lima persen": {
+  "text": "empat hingga lima persen",
+  "type": "QUANTITY"
+ },
+ "tiongkok": {
+  "text": "Tiongkok",
+  "type": "LOCATION"
+ },
+ "9-11 persen": {
+  "text": "9-11 persen",
+  "type": "QUANTITY"
+ },
+ "2005": {
+  "text": "2005",
+  "type": "TIME"
+ },
+ "satu persen": {
+  "text": "satu persen",
+  "type": "QUANTITY"
+ },
+ "0,17 persen": {
+  "text": "0,17 persen",
+  "type": "QUANTITY"
+ },
+ "india": {
+  "text": "India",
+  "type": "LOCATION"
+ },
+ "0,28 persen": {
+  "text": "0,28 persen",
+  "type": "QUANTITY"
+ },
+ "0,33 persen": {
+  "text": "0,33 persen",
+  "type": "QUANTITY"
+ },
+ "jokowi-jk": {
+  "text": "Jokowi-JK",
+  "type": "PERSON"
+ },
+ "sembilan agenda perubahan": {
+  "text": "sembilan agenda perubahan",
+  "type": "QUANTITY"
+ },
+ "asia": {
+  "text": "Asia",
+  "type": "LOCATION"
+ },
+ "35.000 mega watt": {
+  "text": "35.000 Mega Watt",
+  "type": "QUANTITY"
+ },
+ "2.000 kilometer": {
+  "text": "2.000 Kilometer",
+  "type": "QUANTITY"
+ },
+ "10 pelabuhan dan bandara": {
+  "text": "10 pelabuhan dan bandara",
+  "type": "QUANTITY"
+ },
+ "10 kawasan industri baru": {
+  "text": "10 kawasan industri baru",
+  "type": "QUANTITY"
+ },
+ "5.000 pasar tradisional": {
+  "text": "5.000 pasar tradisional",
+  "type": "QUANTITY"
+ },
+ "dataran tinggi golan": {
+  "text": "Dataran Tinggi Golan",
+  "type": "LOCATION"
+ },
+ "lima roket": {
+  "text": "lima roket",
+  "type": "QUANTITY"
+ },
+ "satu pernyataan": {
+  "text": "satu pernyataan",
+  "type": "QUANTITY"
+ },
+ "sekitar pukul 01.30": {
+  "text": "sekitar pukul 01.30",
+  "type": "TIME"
+ },
+ "( 04.30 wib ) minggu": {
+  "text": "( 04.30 WIB ) Minggu",
+  "type": "TIME"
+ },
+ "gerakan islam hamas": {
+  "text": "gerakan Islam Hamas",
+  "type": "ORGANIZATION"
+ },
+ "sekitar gaza": {
+  "text": "sekitar Gaza",
+  "type": "LOCATION"
+ },
+ "juni": {
+  "text": "juni",
+  "type": "TIME"
+ },
+ "bashar al-assad": {
+  "text": "Bashar al-Assad",
+  "type": "PERSON"
+ },
+ "sabtu malam": {
+  "text": "Sabtu malam",
+  "type": "TIME"
+ },
+ "sharif cicip sutardjo": {
+  "text": "Sharif Cicip Sutardjo",
+  "type": "PERSON"
+ },
+ "raja ampat": {
+  "text": "Raja Ampat",
+  "type": "LOCATION"
+ },
+ "1,1 juta hektare": {
+  "text": "1,1 juta hektare",
+  "type": "QUANTITY"
+ },
+ "sharif": {
+  "text": "Sharif",
+  "type": "PERSON"
+ },
+ "organisation for economic co-operation and development ( oecd )": {
+  "text": "Organisation for Economic Co-operation and Development ( OECD )",
+  "type": "ORGANIZATION"
+ },
+ "oecd": {
+  "text": "OECD",
+  "type": "ORGANIZATION"
+ },
+ "3 atau maksimum 5 variabel": {
+  "text": "3 atau maksimum 5 variabel",
+  "type": "QUANTITY"
+ },
+ "meliadi sembiring": {
+  "text": "Meliadi Sembiring",
+  "type": "PERSON"
+ },
+ "meliadi": {
+  "text": "Meliadi",
+  "type": "PERSON"
+ },
+ "13 emas": {
+  "text": "13 emas",
+  "type": "QUANTITY"
+ },
+ "11 perak": {
+  "text": "11 perak",
+  "type": "QUANTITY"
+ },
+ "enam perunggu": {
+  "text": "enam perunggu",
+  "type": "QUANTITY"
+ },
+ "sriwijaya promotion center palembang": {
+  "text": "Sriwijaya Promotion Center Palembang",
+  "type": "LOCATION"
+ },
+ "sumatera selatan": {
+  "text": "Sumatera Selatan",
+  "type": "LOCATION"
+ },
+ "minggu dini hari": {
+  "text": "Minggu dini hari",
+  "type": "TIME"
+ },
+ "34 propinsi": {
+  "text": "34 propinsi",
+  "type": "QUANTITY"
+ },
+ "musliar kasim": {
+  "text": "Musliar Kasim",
+  "type": "PERSON"
+ },
+ "mustaghfirin": {
+  "text": "Mustaghfirin",
+  "type": "PERSON"
+ },
+ "musliar": {
+  "text": "Musliar",
+  "type": "PERSON"
+ },
+ "bacharuddin jusuf habibie": {
+  "text": "Bacharuddin Jusuf Habibie",
+  "type": "PERSON"
+ },
+ "akademi ilmu pengetahuan indonesia": {
+  "text": "Akademi Ilmu Pengetahuan Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "( aipi )": {
+  "text": "( AIPI )",
+  "type": "ORGANIZATION"
+ },
+ "biro oktroi roosseno": {
+  "text": "Biro Oktroi Roosseno",
+  "type": "ORGANIZATION"
+ },
+ "bambang hidayat": {
+  "text": "Bambang Hidayat",
+  "type": "PERSON"
+ },
+ "mardjono siswosuwarno": {
+  "text": "Mardjono Siswosuwarno",
+  "type": "PERSON"
+ },
+ "magnis suseno": {
+  "text": "Magnis Suseno",
+  "type": "PERSON"
+ },
+ "satrio soemantri brodjonegoro": {
+  "text": "Satrio Soemantri Brodjonegoro",
+  "type": "PERSON"
+ },
+ "toeti heraty": {
+  "text": "Toeti Heraty",
+  "type": "PERSON"
+ },
+ "roosseno soerjohadikoesoema": {
+  "text": "Roosseno Soerjohadikoesoema",
+  "type": "PERSON"
+ },
+ "roosseno": {
+  "text": "Roosseno",
+  "type": "PERSON"
+ },
+ "ali sastroamidjojo": {
+  "text": "Ali Sastroamidjojo",
+  "type": "PERSON"
+ },
+ "2012": {
+  "text": "2012",
+  "type": "QUANTITY"
+ },
+ "toety": {
+  "text": "Toety",
+  "type": "PERSON"
+ },
+ "habibie": {
+  "text": "Habibie",
+  "type": "PERSON"
+ },
+ "akademi ilmu pengetahuan indonesia ( aipi )": {
+  "text": "Akademi Ilmu Pengetahuan Indonesia ( AIPI )",
+  "type": "ORGANIZATION"
+ },
+ "sangkot marzuki": {
+  "text": "Sangkot Marzuki",
+  "type": "PERSON"
+ },
+ "abkhazia": {
+  "text": "Abkhazia",
+  "type": "LOCATION"
+ },
+ "alexander ankvab": {
+  "text": "Alexander Ankvab",
+  "type": "PERSON"
+ },
+ "23 negara": {
+  "text": "23 negara",
+  "type": "QUANTITY"
+ },
+ "tiga tps": {
+  "text": "Tiga TPS",
+  "type": "QUANTITY"
+ },
+ "cherkessk": {
+  "text": "Cherkessk",
+  "type": "LOCATION"
+ },
+ "istanbul": {
+  "text": "Istanbul",
+  "type": "LOCATION"
+ },
+ "turki": {
+  "text": "Turki",
+  "type": "LOCATION"
+ },
+ "raul khajimba": {
+  "text": "Raul Khajimba",
+  "type": "PERSON"
+ },
+ "56 tahun": {
+  "text": "56 tahun",
+  "type": "QUANTITY"
+ },
+ "ankav": {
+  "text": "Ankav",
+  "type": "PERSON"
+ },
+ "akhir mei": {
+  "text": "akhir Mei",
+  "type": "TIME"
+ },
+ "sergey bagapsh": {
+  "text": "Sergey Bagapsh",
+  "type": "PERSON"
+ },
+ "khajimba": {
+  "text": "Khajimba",
+  "type": "PERSON"
+ },
+ "ankvab": {
+  "text": "Ankvab",
+  "type": "PERSON"
+ },
+ "abkhaz": {
+  "text": "Abkhaz",
+  "type": "PERSON"
+ },
+ "vitaly gabnia": {
+  "text": "Vitaly Gabnia",
+  "type": "PERSON"
+ },
+ "aruaa": {
+  "text": "Aruaa",
+  "type": "PERSON"
+ },
+ "khajimbaa": {
+  "text": "Khajimbaa",
+  "type": "LOCATION"
+ },
+ "aslan": {
+  "text": "Aslan",
+  "type": "PERSON"
+ },
+ "bzhania": {
+  "text": "Bzhania",
+  "type": "PERSON"
+ },
+ "51 tahun": {
+  "text": "51 tahun",
+  "type": "QUANTITY"
+ },
+ "juli 2014": {
+  "text": "Juli 2014",
+  "type": "TIME"
+ },
+ "uni soviet": {
+  "text": "Uni Soviet",
+  "type": "LOCATION"
+ },
+ "18 agustus": {
+  "text": "18 Agustus",
+  "type": "TIME"
+ },
+ "amtsakhara": {
+  "text": "Amtsakhara",
+  "type": "ORGANIZATION"
+ },
+ "ankvav": {
+  "text": "Ankvav",
+  "type": "PERSON"
+ },
+ "leonid lakerbaia": {
+  "text": "Leonid Lakerbaia",
+  "type": "PERSON"
+ },
+ "merab kishmaria": {
+  "text": "Merab Kishmaria",
+  "type": "PERSON"
+ },
+ "53 tahun": {
+  "text": "53 tahun",
+  "type": "QUANTITY"
+ },
+ "leonod dzapshba": {
+  "text": "Leonod Dzapshba",
+  "type": "PERSON"
+ },
+ "oktober 2011": {
+  "text": "Oktober 2011",
+  "type": "TIME"
+ },
+ "sumatera utara": {
+  "text": "Sumatera Utara",
+  "type": "LOCATION"
+ },
+ "bursa efek indonesia ( bei )": {
+  "text": "Bursa Efek Indonesia ( BEI )",
+  "type": "ORGANIZATION"
+ },
+ "sabtu ( 23/8 )": {
+  "text": "Sabtu ( 23/8 )",
+  "type": "TIME"
+ },
+ "gedung bei medan": {
+  "text": "Gedung BEI Medan",
+  "type": "LOCATION"
+ },
+ "bei": {
+  "text": "BEI",
+  "type": "ORGANIZATION"
+ },
+ "yoseph kaburuan": {
+  "text": "Yoseph Kaburuan",
+  "type": "PERSON"
+ },
+ "dua tahapan": {
+  "text": "dua tahapan",
+  "type": "QUANTITY"
+ },
+ "muhammad pintor": {
+  "text": "Muhammad Pintor",
+  "type": "PERSON"
+ },
+ "pintor": {
+  "text": "Pintor",
+  "type": "PERSON"
+ },
+ "kantor bei": {
+  "text": "Kantor BEI",
+  "type": "LOCATION"
+ },
+ "medanyang": {
+  "text": "Medanyang",
+  "type": "LOCATION"
+ },
+ "jalan asia no. 182 medan": {
+  "text": "Jalan Asia No. 182 Medan",
+  "type": "LOCATION"
+ },
+ "delapan orang": {
+  "text": "delapan orang",
+  "type": "ORGANIZATION"
+ },
+ "xinjiang": {
+  "text": "Xinjiang",
+  "type": "LOCATION"
+ },
+ "taman tiananmen": {
+  "text": "Taman Tiananmen",
+  "type": "LOCATION"
+ },
+ "beijing": {
+  "text": "Beijing",
+  "type": "LOCATION"
+ },
+ "uighur": {
+  "text": "Uighur",
+  "type": "LOCATION"
+ },
+ "oktober 2013": {
+  "text": "Oktober 2013",
+  "type": "TIME"
+ },
+ "tiongkok beijing": {
+  "text": "Tiongkok Beijing",
+  "type": "LOCATION"
+ },
+ "xinhua": {
+  "text": "Xinhua",
+  "type": "ORGANIZATION"
+ },
+ "lima orang tewas": {
+  "text": "Lima orang tewas",
+  "type": "QUANTITY"
+ },
+ "40 orang cedera": {
+  "text": "40 orang cedera",
+  "type": "QUANTITY"
+ },
+ "china central television": {
+  "text": "China Central Television",
+  "type": "ORGANIZATION"
+ },
+ "( cctv )": {
+  "text": "( CCTV )",
+  "type": "ORGANIZATION"
+ },
+ "tiananmen": {
+  "text": "Tiananmen",
+  "type": "LOCATION"
+ },
+ "satu mobil": {
+  "text": "satu mobil",
+  "type": "QUANTITY"
+ },
+ "prefektur aksu": {
+  "text": "prefektur Aksu",
+  "type": "LOCATION"
+ },
+ "kash\ufffd\ufffdgar": {
+  "text": "Kash\ufffd\ufffdgar",
+  "type": "LOCATION"
+ },
+ "hotan": {
+  "text": "Hotan",
+  "type": "LOCATION"
+ },
+ "13 orang": {
+  "text": "13 orang",
+  "type": "QUANTITY"
+ },
+ "ratusan orang tewas": {
+  "text": "Ratusan orang tewas",
+  "type": "QUANTITY"
+ },
+ "25 orang": {
+  "text": "25 orang",
+  "type": "QUANTITY"
+ },
+ "mei lalu": {
+  "text": "Mei lalu",
+  "type": "TIME"
+ },
+ "39 orang": {
+  "text": "39 orang",
+  "type": "QUANTITY"
+ },
+ "urumqi": {
+  "text": "Urumqi",
+  "type": "LOCATION"
+ },
+ "pengurus besar nahdlatul ulama ( pbnu )": {
+  "text": "Pengurus Besar Nahdlatul Ulama ( PBNU )",
+  "type": "ORGANIZATION"
+ },
+ "slamet effendy yusuf": {
+  "text": "Slamet Effendy Yusuf",
+  "type": "PERSON"
+ },
+ "arab saudi": {
+  "text": "Arab Saudi",
+  "type": "LOCATION"
+ },
+ "slamet": {
+  "text": "Slamet",
+  "type": "PERSON"
+ },
+ "jokowi-kalla": {
+  "text": "Jokowi-Kalla",
+  "type": "PERSON"
+ },
+ "nelson mandela": {
+  "text": "Nelson Mandela",
+  "type": "PERSON"
+ },
+ "1945": {
+  "text": "1945",
+  "type": "TIME"
+ },
+ "dua warga palestina tewas": {
+  "text": "Dua warga Palestina tewas",
+  "type": "QUANTITY"
+ },
+ "palestin": {
+  "text": "Palestin",
+  "type": "LOCATION"
+ },
+ "senin ( 25/8/2014 )": {
+  "text": "Senin ( 25/8/2014 )",
+  "type": "TIME"
+ },
+ "dua korban jiwa": {
+  "text": "dua korban jiwa",
+  "type": "QUANTITY"
+ },
+ "2.122 warga palestina": {
+  "text": "2.122 warga Palestina",
+  "type": "QUANTITY"
+ },
+ "7 pekan": {
+  "text": "7 pekan",
+  "type": "QUANTITY"
+ },
+ "beit hanun": {
+  "text": "Beit Hanun",
+  "type": "LOCATION"
+ },
+ "gaza city": {
+  "text": "Gaza City",
+  "type": "LOCATION"
+ },
+ "16 serangan": {
+  "text": "16 serangan",
+  "type": "QUANTITY"
+ },
+ "senin ( 25/8 )": {
+  "text": "Senin ( 25/8 )",
+  "type": "TIME"
+ },
+ "68 orang": {
+  "text": "68 orang",
+  "type": "QUANTITY"
+ },
+ "1 anak-anak": {
+  "text": "1 anak-anak",
+  "type": "QUANTITY"
+ },
+ "3 warga sipil": {
+  "text": "3 warga sipil",
+  "type": "QUANTITY"
+ },
+ "pt pertamina ( persero )": {
+  "text": "PT Pertamina ( Persero )",
+  "type": "ORGANIZATION"
+ },
+ "kawasan pantura": {
+  "text": "kawasan Pantura",
+  "type": "LOCATION"
+ },
+ "kuningan": {
+  "text": "Kuningan",
+  "type": "LOCATION"
+ },
+ "pertamina": {
+  "text": "Pertamina",
+  "type": "ORGANIZATION"
+ },
+ "hanung budya": {
+  "text": "Hanung Budya",
+  "type": "PERSON"
+ },
+ "48 juta kl": {
+  "text": "48 juta KL",
+  "type": "QUANTITY"
+ },
+ "46 juta kl": {
+  "text": "46 juta KL",
+  "type": "QUANTITY"
+ },
+ "pantura": {
+  "text": "Pantura",
+  "type": "LOCATION"
+ },
+ "10 liter": {
+  "text": "10 liter",
+  "type": "QUANTITY"
+ },
+ "hanung": {
+  "text": "Hanung",
+  "type": "PERSON"
+ },
+ "5 %": {
+  "text": "5 %",
+  "type": "QUANTITY"
+ },
+ "20.000 liter": {
+  "text": "20.000 liter",
+  "type": "QUANTITY"
+ },
+ "1.000 liter per hari": {
+  "text": "1.000 liter per hari",
+  "type": "QUANTITY"
+ },
+ "1000 liter bbm subsidi": {
+  "text": "1000 liter BBM subsidi",
+  "type": "QUANTITY"
+ },
+ "jero": {
+  "text": "Jero",
+  "type": "PERSON"
+ },
+ "gedung dpr/mpr": {
+  "text": "Gedung DPR/MPR",
+  "type": "LOCATION"
+ },
+ "rp 6.500 per liter": {
+  "text": "Rp 6.500 per liter",
+  "type": "QUANTITY"
+ },
+ "rp 5.500 per liter": {
+  "text": "Rp 5.500 per liter",
+  "type": "QUANTITY"
+ },
+ "rp 246,5 triliun": {
+  "text": "Rp 246,5 triliun",
+  "type": "QUANTITY"
+ },
+ "masjid sunda kelapa": {
+  "text": "Masjid Sunda Kelapa",
+  "type": "LOCATION"
+ },
+ "minggu ( 24/8/2014 )": {
+  "text": "Minggu ( 24/8/2014 )",
+  "type": "TIME"
+ },
+ "70 %": {
+  "text": "70 %",
+  "type": "QUANTITY"
+ },
+ "18 agustus 2014": {
+  "text": "18 Agustus 2014",
+  "type": "TIME"
+ },
+ "5%-15 %": {
+  "text": "5%-15 %",
+  "type": "QUANTITY"
+ },
+ "gedung dpr-ri": {
+  "text": "Gedung DPR-RI",
+  "type": "LOCATION"
+ },
+ "10%-15 %": {
+  "text": "10%-15 %",
+  "type": "QUANTITY"
+ },
+ "bph migas": {
+  "text": "BPH Migas",
+  "type": "ORGANIZATION"
+ },
+ "2 juta": {
+  "text": "2 juta",
+  "type": "QUANTITY"
+ },
+ "mohammed al-ghu": {
+  "text": "Mohammed al-Ghu",
+  "type": "PERSON"
+ },
+ "ghul": {
+  "text": "Ghul",
+  "type": "PERSON"
+ },
+ "mayor arye shalicar": {
+  "text": "Mayor Arye Shalicar",
+  "type": "PERSON"
+ },
+ "shalicar": {
+  "text": "Shalicar",
+  "type": "PERSON"
+ },
+ "tiga anggota senior": {
+  "text": "tiga anggota senior",
+  "type": "QUANTITY"
+ },
+ "brigade ezzedine al-qassam": {
+  "text": "Brigade Ezzedine al-Qassam",
+  "type": "PERSON"
+ },
+ "mohammed deif": {
+  "text": "Mohammed Deif",
+  "type": "PERSON"
+ },
+ "deif": {
+  "text": "Deif",
+  "type": "PERSON"
+ },
+ "14 orang": {
+  "text": "14 orang",
+  "type": "QUANTITY"
+ },
+ "6 anak-anak": {
+  "text": "6 anak-anak",
+  "type": "QUANTITY"
+ },
+ "2.100 nyawa warga": {
+  "text": "2.100 nyawa warga",
+  "type": "QUANTITY"
+ },
+ "500 anak-anak": {
+  "text": "500 anak-anak",
+  "type": "QUANTITY"
+ },
+ "gaza palestina": {
+  "text": "Gaza Palestina",
+  "type": "LOCATION"
+ },
+ "2 ribu orang": {
+  "text": "2 ribu orang",
+  "type": "QUANTITY"
+ },
+ "arab": {
+  "text": "Arab",
+  "type": "LOCATION"
+ },
+ "detikcom": {
+  "text": "detikcom",
+  "type": "ORGANIZATION"
+ },
+ "sabtu ( 23/8/2014 )": {
+  "text": "Sabtu ( 23/8/2014 )",
+  "type": "TIME"
+ },
+ "darul quran ( daqu )": {
+  "text": "Darul Quran ( Daqu )",
+  "type": "ORGANIZATION"
+ },
+ "abdillah onim": {
+  "text": "Abdillah Onim",
+  "type": "PERSON"
+ },
+ "radio suara palestina": {
+  "text": "Radio Suara Palestina",
+  "type": "ORGANIZATION"
+ },
+ "onim": {
+  "text": "Onim",
+  "type": "PERSON"
+ },
+ "2.102 orang": {
+  "text": "2.102 orang",
+  "type": "QUANTITY"
+ },
+ "10.630 orang": {
+  "text": "10.630 orang",
+  "type": "QUANTITY"
+ },
+ "pt pertamina": {
+  "text": "PT Pertamina",
+  "type": "ORGANIZATION"
+ },
+ "20 %": {
+  "text": "20 %",
+  "type": "QUANTITY"
+ },
+ "badan pengatur hilir minyak dan gas bumi ( bph migas )": {
+  "text": "Badan Pengatur Hilir Minyak dan Gas Bumi ( BPH Migas )",
+  "type": "ORGANIZATION"
+ },
+ "fanshurullah asa": {
+  "text": "Fanshurullah Asa",
+  "type": "PERSON"
+ },
+ "detikfinance": {
+  "text": "detikFinance",
+  "type": "ORGANIZATION"
+ },
+ "fanshurullah": {
+  "text": "Fanshurullah",
+  "type": "PERSON"
+ },
+ "rp 2.000 per liter": {
+  "text": "Rp 2.000 per liter",
+  "type": "QUANTITY"
+ },
+ "susilo bambang yudhoyono ( sby )": {
+  "text": "Susilo Bambang Yudhoyono ( SBY )",
+  "type": "PERSON"
+ },
+ "joko widodo ( jokowi )": {
+  "text": "Joko Widodo ( Jokowi )",
+  "type": "PERSON"
+ },
+ "46 juta kilo liter": {
+  "text": "46 juta kilo liter",
+  "type": "QUANTITY"
+ },
+ "desember": {
+  "text": "Desember",
+  "type": "TIME"
+ },
+ "46 juta": {
+  "text": "46 juta",
+  "type": "QUANTITY"
+ },
+ "rahmad dwi ardhiansyah": {
+  "text": "Rahmad Dwi Ardhiansyah",
+  "type": "PERSON"
+ },
+ "riefky pradipta baihaqie": {
+  "text": "Riefky Pradipta Baihaqie",
+  "type": "PERSON"
+ },
+ "muhammad nuri nuha naufal": {
+  "text": "Muhammad Nuri Nuha Naufal",
+  "type": "PERSON"
+ },
+ "muhammad atabika farma nanda": {
+  "text": "Muhammad Atabika Farma Nanda",
+  "type": "PERSON"
+ },
+ "aprilia maharani": {
+  "text": "Aprilia Maharani",
+  "type": "PERSON"
+ },
+ "rahmad": {
+  "text": "Rahmad",
+  "type": "PERSON"
+ },
+ "dwi ardhiansyah": {
+  "text": "Dwi Ardhiansyah",
+  "type": "PERSON"
+ },
+ "satu bulan": {
+  "text": "satu bulan",
+  "type": "QUANTITY"
+ },
+ "21 hari": {
+  "text": "21 hari",
+  "type": "QUANTITY"
+ },
+ "empat mahasiswa fkh ugm": {
+  "text": "empat mahasiswa FKH UGM",
+  "type": "QUANTITY"
+ },
+ "7 macam growth factor": {
+  "text": "7 macam growth factor",
+  "type": "QUANTITY"
+ },
+ "riefky": {
+  "text": "Riefky",
+  "type": "PERSON"
+ },
+ "rumah potong hewan ( rph ) giwangan yogyakarta": {
+  "text": "Rumah Potong Hewan ( RPH ) Giwangan Yogyakarta",
+  "type": "LOCATION"
+ },
+ "28 liter limbah darah": {
+  "text": "28 liter limbah darah",
+  "type": "QUANTITY"
+ },
+ "20 ekor": {
+  "text": "20 ekor",
+  "type": "QUANTITY"
+ },
+ "88 ribu liter limbah": {
+  "text": "88 ribu liter limbah",
+  "type": "QUANTITY"
+ },
+ "grace judio-kahl": {
+  "text": "Grace Judio-Kahl",
+  "type": "PERSON"
+ },
+ "grace": {
+  "text": "Grace",
+  "type": "PERSON"
+ },
+ "rabu ( 20/8 )": {
+  "text": "Rabu ( 20/8 )",
+  "type": "TIME"
+ },
+ "26 persen": {
+  "text": "26 persen",
+  "type": "QUANTITY"
+ },
+ "35 persen": {
+  "text": "35 persen",
+  "type": "QUANTITY"
+ },
+ "17 agustus 1945": {
+  "text": "17 Agustus 1945",
+  "type": "TIME"
+ },
+ "frans sumarto mendur": {
+  "text": "Frans Sumarto Mendur",
+  "type": "PERSON"
+ },
+ "harian asia raya": {
+  "text": "harian Asia Raya",
+  "type": "ORGANIZATION"
+ },
+ "soekarno": {
+  "text": "Soekarno",
+  "type": "PERSON"
+ },
+ "alexius impurung mendur": {
+  "text": "Alexius Impurung Mendur",
+  "type": "PERSON"
+ },
+ "domei": {
+  "text": "Domei",
+  "type": "ORGANIZATION"
+ },
+ "jalan pegangsaan timur nomor 56": {
+  "text": "Jalan Pegangsaan Timur Nomor 56",
+  "type": "LOCATION"
+ },
+ "cikini": {
+  "text": "Cikini",
+  "type": "LOCATION"
+ },
+ "5 pagi": {
+  "text": "5 pagi",
+  "type": "TIME"
+ },
+ "pukul 8": {
+  "text": "Pukul 8",
+  "type": "TIME"
+ },
+ "laksamana maeda": {
+  "text": "Laksamana Maeda",
+  "type": "PERSON"
+ },
+ "jalan imam bonjol nomor 1": {
+  "text": "Jalan Imam Bonjol Nomor 1",
+  "type": "LOCATION"
+ },
+ "pukul 9": {
+  "text": "pukul 9",
+  "type": "TIME"
+ },
+ "pukul 10": {
+  "text": "pukul 10",
+  "type": "TIME"
+ },
+ "mohammad hatta": {
+  "text": "Mohammad Hatta",
+  "type": "PERSON"
+ },
+ "frans": {
+  "text": "Frans",
+  "type": "PERSON"
+ },
+ "tiga foto": {
+  "text": "tiga foto",
+  "type": "QUANTITY"
+ },
+ "tiga frame film": {
+  "text": "tiga frame film",
+  "type": "QUANTITY"
+ },
+ "latief hendraningrat": {
+  "text": "Latief Hendraningrat",
+  "type": "PERSON"
+ },
+ "peta ( pembela tanah air )": {
+  "text": "PETA ( Pembela Tanah Air )",
+  "type": "ORGANIZATION"
+ },
+ "alex mendur": {
+  "text": "Alex Mendur",
+  "type": "PERSON"
+ },
+ "frans mendur": {
+  "text": "Frans Mendur",
+  "type": "PERSON"
+ },
+ "asia raya": {
+  "text": "Asia Raya",
+  "type": "ORGANIZATION"
+ },
+ "barisan pelopor": {
+  "text": "Barisan Pelopor",
+  "type": "ORGANIZATION"
+ },
+ "antara": {
+  "text": "Antara",
+  "type": "ORGANIZATION"
+ },
+ "18 agustus 1945": {
+  "text": "18 Agustus 1945",
+  "type": "TIME"
+ },
+ "september 1945": {
+  "text": "September 1945",
+  "type": "TIME"
+ },
+ "1 oktober 1945": {
+  "text": "1 Oktober 1945",
+  "type": "TIME"
+ },
+ "bm diah": {
+  "text": "BM Diah",
+  "type": "PERSON"
+ },
+ "de unie": {
+  "text": "De Unie",
+  "type": "ORGANIZATION"
+ },
+ "harian merdeka": {
+  "text": "Harian Merdeka",
+  "type": "ORGANIZATION"
+ },
+ "20 februari 1946": {
+  "text": "20 Februari 1946",
+  "type": "TIME"
+ },
+ "indonesia press photo service": {
+  "text": "Indonesia Press Photo Service",
+  "type": "ORGANIZATION"
+ },
+ "ipphos": {
+  "text": "IPPHOS",
+  "type": "ORGANIZATION"
+ },
+ "justus": {
+  "text": "Justus",
+  "type": "PERSON"
+ },
+ "frank": {
+  "text": "Frank",
+  "type": "PERSON"
+ },
+ "umbas": {
+  "text": "Umbas",
+  "type": "PERSON"
+ },
+ "alex mamusung": {
+  "text": "Alex Mamusung",
+  "type": "PERSON"
+ },
+ "oscar ganda": {
+  "text": "Oscar Ganda",
+  "type": "PERSON"
+ },
+ "jalan hayam wuruk nomor 30": {
+  "text": "Jalan Hayam Wuruk Nomor 30",
+  "type": "LOCATION"
+ },
+ "2 oktober 1946": {
+  "text": "2 Oktober 1946",
+  "type": "TIME"
+ },
+ "30 tahun kemudian": {
+  "text": "30 tahun kemudian",
+  "type": "QUANTITY"
+ },
+ "1945-1949": {
+  "text": "1945-1949",
+  "type": "TIME"
+ },
+ "22.700 bingkai foto": {
+  "text": "22.700 bingkai foto",
+  "type": "QUANTITY"
+ },
+ "1 persen": {
+  "text": "1 persen",
+  "type": "QUANTITY"
+ },
+ "kawangkoan": {
+  "text": "Kawangkoan",
+  "type": "LOCATION"
+ },
+ "minahasa": {
+  "text": "Minahasa",
+  "type": "LOCATION"
+ },
+ "1907": {
+  "text": "1907",
+  "type": "TIME"
+ },
+ "1913": {
+  "text": "1913",
+  "type": "TIME"
+ },
+ "alex": {
+  "text": "Alex",
+  "type": "PERSON"
+ },
+ "java bode": {
+  "text": "Java Bode",
+  "type": "ORGANIZATION"
+ },
+ "belanda": {
+  "text": "Belanda",
+  "type": "LOCATION"
+ },
+ "1935": {
+  "text": "1935",
+  "type": "TIME"
+ },
+ "bung tomo": {
+  "text": "Bung Tomo",
+  "type": "PERSON"
+ },
+ "mojokerto": {
+  "text": "Mojokerto",
+  "type": "LOCATION"
+ },
+ "hotel oranje": {
+  "text": "hotel Oranje",
+  "type": "LOCATION"
+ },
+ "soeharto": {
+  "text": "Soeharto",
+  "type": "PERSON"
+ },
+ "jendral soedirman": {
+  "text": "Jendral Soedirman",
+  "type": "PERSON"
+ },
+ "jogja": {
+  "text": "Jogja",
+  "type": "LOCATION"
+ },
+ "10 juli 1949": {
+  "text": "10 Juli 1949",
+  "type": "TIME"
+ },
+ "rs sumber waras jakarta": {
+  "text": "RS Sumber Waras Jakarta",
+  "type": "LOCATION"
+ },
+ "24 april 1971": {
+  "text": "24 April 1971",
+  "type": "TIME"
+ },
+ "1984": {
+  "text": "1984",
+  "type": "TIME"
+ },
+ "taman makan pahlawan kalibata": {
+  "text": "Taman Makan Pahlawan Kalibata",
+  "type": "LOCATION"
+ },
+ "9 november 2009": {
+  "text": "9 November 2009",
+  "type": "TIME"
+ },
+ "frans soemarto mendur": {
+  "text": "Frans Soemarto Mendur",
+  "type": "PERSON"
+ },
+ "kelurahan talikuran": {
+  "text": "Kelurahan Talikuran",
+  "type": "LOCATION"
+ },
+ "kecamatan kawangkoan utara": {
+  "text": "Kecamatan Kawangkoan Utara",
+  "type": "LOCATION"
+ },
+ "kabupaten minahasa": {
+  "text": "Kabupaten Minahasa",
+  "type": "LOCATION"
+ },
+ "113 foto karya mendur": {
+  "text": "113 foto karya Mendur",
+  "type": "QUANTITY"
+ },
+ "11 februari 2013": {
+  "text": "11 Februari 2013",
+  "type": "TIME"
+ },
+ "hawaii": {
+  "text": "Hawaii",
+  "type": "LOCATION"
+ },
+ "40 persen spesies": {
+  "text": "40 persen spesies",
+  "type": "QUANTITY"
+ },
+ "amerika": {
+  "text": "Amerika",
+  "type": "LOCATION"
+ },
+ "steve perlman": {
+  "text": "Steve Perlman",
+  "type": "PERSON"
+ },
+ "40 tahun": {
+  "text": "40 tahun",
+  "type": "QUANTITY"
+ },
+ "kauai": {
+  "text": "Kauai",
+  "type": "LOCATION"
+ },
+ "1.200 spesies tanaman asli": {
+  "text": "1.200 spesies tanaman asli",
+  "type": "QUANTITY"
+ },
+ "perlman": {
+  "text": "Perlman",
+  "type": "PERSON"
+ },
+ "1970-an": {
+  "text": "1970-an",
+  "type": "TIME"
+ },
+ "60-an tahun": {
+  "text": "60-an tahun",
+  "type": "QUANTITY"
+ },
+ "amazon": {
+  "text": "Amazon",
+  "type": "LOCATION"
+ },
+ "100 spesies": {
+  "text": "100 spesies",
+  "type": "QUANTITY"
+ },
+ "national tropical botanical garden": {
+  "text": "National Tropical Botanical Garden",
+  "type": "ORGANIZATION"
+ },
+ "pulau maui": {
+  "text": "pulau Maui",
+  "type": "LOCATION"
+ },
+ "pulau moloka`i": {
+  "text": "pulau Moloka`i",
+  "type": "LOCATION"
+ },
+ "charles darwin": {
+  "text": "Charles Darwin",
+  "type": "PERSON"
+ },
+ "\ufffd 256 ( rp5 juta )": {
+  "text": "\ufffd 256 ( Rp5 juta )",
+  "type": "QUANTITY"
+ },
+ "post office travel money ( potm )": {
+  "text": "Post Office Travel Money ( POTM )",
+  "type": "ORGANIZATION"
+ },
+ "12 kota besar": {
+  "text": "12 kota besar",
+  "type": "QUANTITY"
+ },
+ "paris": {
+  "text": "Paris",
+  "type": "LOCATION"
+ },
+ "potm": {
+  "text": "POTM",
+  "type": "ORGANIZATION"
+ },
+ "\ufffd 70": {
+  "text": "\ufffd 70",
+  "type": "QUANTITY"
+ },
+ "budapest": {
+  "text": "Budapest",
+  "type": "LOCATION"
+ },
+ "\ufffd 80": {
+  "text": "\ufffd 80",
+  "type": "QUANTITY"
+ },
+ "praha": {
+  "text": "Praha",
+  "type": "LOCATION"
+ },
+ "\ufffd 93": {
+  "text": "\ufffd 93",
+  "type": "QUANTITY"
+ },
+ "dublin": {
+  "text": "Dublin",
+  "type": "LOCATION"
+ },
+ "\ufffd 102": {
+  "text": "\ufffd 102",
+  "type": "QUANTITY"
+ },
+ "andrew brown": {
+  "text": "Andrew Brown",
+  "type": "PERSON"
+ },
+ "12 kota": {
+  "text": "12 kota",
+  "type": "QUANTITY"
+ },
+ "dua tiket": {
+  "text": "Dua tiket",
+  "type": "QUANTITY"
+ },
+ "\ufffd 91": {
+  "text": "\ufffd 91",
+  "type": "QUANTITY"
+ },
+ "dua tiket opera": {
+  "text": "dua tiket opera",
+  "type": "QUANTITY"
+ },
+ "\ufffd 117.50": {
+  "text": "\ufffd 117.50",
+  "type": "QUANTITY"
+ },
+ "\ufffd 15": {
+  "text": "\ufffd 15",
+  "type": "QUANTITY"
+ },
+ "warsawa": {
+  "text": "Warsawa",
+  "type": "LOCATION"
+ },
+ "\ufffd 20": {
+  "text": "\ufffd 20",
+  "type": "QUANTITY"
+ },
+ "21 %": {
+  "text": "21 %",
+  "type": "QUANTITY"
+ },
+ "roma": {
+  "text": "Roma",
+  "type": "LOCATION"
+ },
+ "wina": {
+  "text": "Wina",
+  "type": "LOCATION"
+ },
+ "36,1 %": {
+  "text": "36,1 %",
+  "type": "QUANTITY"
+ },
+ "27,3 %": {
+  "text": "27,3 %",
+  "type": "QUANTITY"
+ },
+ "amsterdam": {
+  "text": "Amsterdam",
+  "type": "LOCATION"
+ },
+ "37,3 %": {
+  "text": "37,3 %",
+  "type": "QUANTITY"
+ },
+ "nasa": {
+  "text": "NASA",
+  "type": "ORGANIZATION"
+ },
+ "jutaan gambar": {
+  "text": "jutaan gambar",
+  "type": "QUANTITY"
+ },
+ "1960-an": {
+  "text": "1960-an",
+  "type": "TIME"
+ },
+ "1,8 juta foto": {
+  "text": "1,8 juta foto",
+  "type": "QUANTITY"
+ },
+ "1,3 juta foto": {
+  "text": "1,3 juta foto",
+  "type": "QUANTITY"
+ },
+ "30 persen": {
+  "text": "30 persen",
+  "type": "QUANTITY"
+ },
+ "2003": {
+  "text": "2003",
+  "type": "TIME"
+ },
+ "17.500 meter per jam": {
+  "text": "17.500 meter per jam",
+  "type": "QUANTITY"
+ },
+ "don pettit": {
+  "text": "Don Pettit",
+  "type": "PERSON"
+ },
+ "pettit": {
+  "text": "Pettit",
+  "type": "PERSON"
+ },
+ "badan antariksa eropa": {
+  "text": "Badan Antariksa Eropa",
+  "type": "ORGANIZATION"
+ },
+ "madrid": {
+  "text": "Madrid",
+  "type": "LOCATION"
+ },
+ "tiga spesifikasi gambar": {
+  "text": "tiga spesifikasi gambar",
+  "type": "QUANTITY"
+ },
+ "alejandro sanchez": {
+  "text": "Alejandro Sanchez",
+  "type": "PERSON"
+ },
+ "complutense": {
+  "text": "Complutense",
+  "type": "LOCATION"
+ },
+ "sanchesz": {
+  "text": "Sanchesz",
+  "type": "PERSON"
+ },
+ "sanchez": {
+  "text": "Sanchez",
+  "type": "PERSON"
+ },
+ "310 mil": {
+  "text": "310 mil",
+  "type": "QUANTITY"
+ },
+ "300.000 lembar": {
+  "text": "300.000 lembar",
+  "type": "QUANTITY"
+ },
+ "20.000 foto": {
+  "text": "20.000 foto",
+  "type": "QUANTITY"
+ },
+ "korea utara": {
+  "text": "Korea Utara",
+  "type": "LOCATION"
+ },
+ "korea selatan": {
+  "text": "Korea Selatan",
+  "type": "LOCATION"
+ },
+ "berlin": {
+  "text": "Berlin",
+  "type": "LOCATION"
+ },
+ "spanyol": {
+  "text": "Spanyol",
+  "type": "LOCATION"
+ },
+ "kongo": {
+  "text": "Kongo",
+  "type": "LOCATION"
+ },
+ "felix numbi": {
+  "text": "Felix Numbi",
+  "type": "PERSON"
+ },
+ "bbc": {
+  "text": "BBC",
+  "type": "ORGANIZATION"
+ },
+ "provinsi equateur": {
+  "text": "provinsi Equateur",
+  "type": "LOCATION"
+ },
+ "tiga belas orang tewas": {
+  "text": "Tiga belas orang tewas",
+  "type": "QUANTITY"
+ },
+ "dr numbi": {
+  "text": "Dr Numbi",
+  "type": "PERSON"
+ },
+ "1.427 orang meninggal": {
+  "text": "1.427 orang meninggal",
+  "type": "QUANTITY"
+ },
+ "organisasi kesehatan dunia ( who )": {
+  "text": "Organisasi Kesehatan Dunia ( WHO )",
+  "type": "ORGANIZATION"
+ },
+ "2.615 orang": {
+  "text": "2.615 orang",
+  "type": "QUANTITY"
+ },
+ "inggris": {
+  "text": "Inggris",
+  "type": "LOCATION"
+ },
+ "badan kesehatan dunia ( who )": {
+  "text": "Badan Kesehatan Dunia ( WHO )",
+  "type": "ORGANIZATION"
+ },
+ "sabtu ( 9/8 )": {
+  "text": "Sabtu ( 9/8 )",
+  "type": "TIME"
+ },
+ "marie-paulie kieny": {
+  "text": "Marie-Paulie Kieny",
+  "type": "PERSON"
+ },
+ "kieny": {
+  "text": "Kieny",
+  "type": "PERSON"
+ },
+ "jean-marie okwo bele": {
+  "text": "Jean-Marie Okwo Bele",
+  "type": "PERSON"
+ },
+ "rfi": {
+  "text": "RFI",
+  "type": "ORGANIZATION"
+ },
+ "glaxosmithkline": {
+  "text": "GlaxoSmithKline",
+  "type": "ORGANIZATION"
+ },
+ "okwo bele": {
+  "text": "Okwo Bele",
+  "type": "PERSON"
+ },
+ "1.000 orang": {
+  "text": "1.000 orang",
+  "type": "QUANTITY"
+ },
+ "afrika": {
+  "text": "Afrika",
+  "type": "LOCATION"
+ },
+ "40 persen": {
+  "text": "40 persen",
+  "type": "QUANTITY"
+ },
+ "4 dari 10 pasien": {
+  "text": "4 dari 10 pasien",
+  "type": "QUANTITY"
+ },
+ "sierra leone afrika": {
+  "text": "Sierra Leone Afrika",
+  "type": "LOCATION"
+ },
+ "cdc": {
+  "text": "CDC",
+  "type": "ORGANIZATION"
+ },
+ "108.000 kali": {
+  "text": "108.000 kali",
+  "type": "QUANTITY"
+ },
+ "2 - 21 hari": {
+  "text": "2 - 21 hari",
+  "type": "QUANTITY"
+ },
+ "sangatta": {
+  "text": "Sangatta",
+  "type": "LOCATION"
+ },
+ "kutai timur": {
+  "text": "Kutai Timur",
+  "type": "LOCATION"
+ },
+ "kalimantan timur": {
+  "text": "Kalimantan Timur",
+  "type": "LOCATION"
+ },
+ "19 agustus": {
+  "text": "19 Agustus",
+  "type": "TIME"
+ },
+ "balai taman nasional kutai ( btnk )": {
+  "text": "Balai Taman Nasional Kutai ( BTNK )",
+  "type": "ORGANIZATION"
+ },
+ "erly sukrismanto": {
+  "text": "Erly Sukrismanto",
+  "type": "PERSON"
+ },
+ "teluk lingga": {
+  "text": "Teluk Lingga",
+  "type": "LOCATION"
+ },
+ "erly": {
+  "text": "Erly",
+  "type": "PERSON"
+ },
+ "cut meutia": {
+  "text": "Cut Meutia",
+  "type": "PERSON"
+ },
+ "kuba": {
+  "text": "Kuba",
+  "type": "LOCATION"
+ },
+ "25 cm": {
+  "text": "25 cm",
+  "type": "QUANTITY"
+ },
+ "diah ningrum": {
+  "text": "Diah Ningrum",
+  "type": "PERSON"
+ },
+ "diah": {
+  "text": "Diah",
+  "type": "PERSON"
+ },
+ "pt angkasa pura i": {
+  "text": "PT Angkasa Pura I",
+  "type": "ORGANIZATION"
+ },
+ "balikpapan": {
+  "text": "Balikpapan",
+  "type": "LOCATION"
+ },
+ "( 22/3 )": {
+  "text": "( 22/3 )",
+  "type": "TIME"
+ },
+ "110.000 m2": {
+  "text": "110.000 m2",
+  "type": "QUANTITY"
+ },
+ "10 juta penumpang per tahun": {
+  "text": "10 juta penumpang per tahun",
+  "type": "QUANTITY"
+ },
+ "32 bulan": {
+  "text": "32 bulan",
+  "type": "QUANTITY"
+ },
+ "agustus 2011": {
+  "text": "Agustus 2011",
+  "type": "TIME"
+ },
+ "maret 2014": {
+  "text": "Maret 2014",
+  "type": "TIME"
+ },
+ "rp 2 triliun": {
+  "text": "Rp 2 triliun",
+  "type": "QUANTITY"
+ },
+ "angkasa pura i": {
+  "text": "Angkasa Pura I",
+  "type": "ORGANIZATION"
+ },
+ "pt angkasa pura i ( persero )": {
+  "text": "PT Angkasa Pura I ( Persero )",
+  "type": "ORGANIZATION"
+ },
+ "yushan sayuti": {
+  "text": "Yushan Sayuti",
+  "type": "PERSON"
+ },
+ "sepinggan": {
+  "text": "Sepinggan",
+  "type": "LOCATION"
+ },
+ "1,7 juta penumpang per tahun": {
+  "text": "1,7 juta penumpang per tahun",
+  "type": "QUANTITY"
+ },
+ "7,1 juta penumpang": {
+  "text": "7,1 juta penumpang",
+  "type": "QUANTITY"
+ },
+ "16 %": {
+  "text": "16 %",
+  "type": "QUANTITY"
+ },
+ "6,4 juta penumpang": {
+  "text": "6,4 juta penumpang",
+  "type": "QUANTITY"
+ },
+ "11 unit garbarata": {
+  "text": "11 unit garbarata",
+  "type": "QUANTITY"
+ },
+ "74 konter check-in": {
+  "text": "74 konter check-in",
+  "type": "QUANTITY"
+ },
+ "8 unit conveyor": {
+  "text": "8 unit conveyor",
+  "type": "QUANTITY"
+ },
+ "140.900 m2": {
+  "text": "140.900 m2",
+  "type": "QUANTITY"
+ },
+ "2.300 unit kendaraan": {
+  "text": "2.300 unit kendaraan",
+  "type": "QUANTITY"
+ },
+ "ikatan ahli perencanaan indonesia ( iap )": {
+  "text": "Ikatan Ahli Perencanaan Indonesia ( IAP )",
+  "type": "ORGANIZATION"
+ },
+ "iap": {
+  "text": "IAP",
+  "type": "ORGANIZATION"
+ },
+ "tujuh kota": {
+  "text": "tujuh kota",
+  "type": "QUANTITY"
+ },
+ "ikatan ahli perencanaan indonesia": {
+  "text": "Ikatan Ahli Perencanaan Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "bernardus djonoputro": {
+  "text": "Bernardus Djonoputro",
+  "type": "PERSON"
+ },
+ "senin ( 11/8 )": {
+  "text": "Senin ( 11/8 )",
+  "type": "TIME"
+ },
+ "bernard": {
+  "text": "Bernard",
+  "type": "PERSON"
+ },
+ "27 indikator": {
+  "text": "27 indikator",
+  "type": "QUANTITY"
+ },
+ "2 persen": {
+  "text": "2 persen",
+  "type": "QUANTITY"
+ },
+ "hotel santika": {
+  "text": "Hotel Santika",
+  "type": "LOCATION"
+ },
+ "jalan ks tubun": {
+  "text": "jalan KS Tubun",
+  "type": "LOCATION"
+ },
+ "slipi": {
+  "text": "Slipi",
+  "type": "LOCATION"
+ },
+ "jakarta barat": {
+  "text": "Jakarta Barat",
+  "type": "LOCATION"
+ },
+ "plaza centris": {
+  "text": "Plaza Centris",
+  "type": "LOCATION"
+ },
+ "hr rasuna said": {
+  "text": "HR Rasuna Said",
+  "type": "LOCATION"
+ },
+ "gedung nusantara iv ( pusataka loka )": {
+  "text": "gedung Nusantara IV ( Pusataka Loka )",
+  "type": "LOCATION"
+ },
+ "2004": {
+  "text": "2004",
+  "type": "TIME"
+ },
+ "jalan merdeka barat no 7": {
+  "text": "Jalan Merdeka Barat No 7",
+  "type": "LOCATION"
+ },
+ "17 juni 2005": {
+  "text": "17 Juni 2005",
+  "type": "TIME"
+ },
+ "jalan merdeka barat no 6": {
+  "text": "Jalan Merdeka Barat No 6",
+  "type": "LOCATION"
+ },
+ "2 tahun": {
+  "text": "2 tahun",
+  "type": "QUANTITY"
+ },
+ "rp200 miliar": {
+  "text": "Rp200 miliar",
+  "type": "QUANTITY"
+ },
+ "ir. soprijanto": {
+  "text": "Ir. Soprijanto",
+  "type": "PERSON"
+ },
+ "4 lantai": {
+  "text": "4 lantai",
+  "type": "QUANTITY"
+ },
+ "16 lantai": {
+  "text": "16 lantai",
+  "type": "QUANTITY"
+ },
+ "jimly asshiddiqie": {
+  "text": "Jimly Asshiddiqie",
+  "type": "PERSON"
+ },
+ "pt pembangunan perumahan ( perseto ) tbk": {
+  "text": "PT Pembangunan Perumahan ( Perseto ) Tbk",
+  "type": "ORGANIZATION"
+ },
+ "mongolia": {
+  "text": "Mongolia",
+  "type": "LOCATION"
+ },
+ "soegeng rahardjo": {
+  "text": "Soegeng Rahardjo",
+  "type": "PERSON"
+ },
+ "3 juta orang turis": {
+  "text": "3 juta orang turis",
+  "type": "QUANTITY"
+ },
+ "2016": {
+  "text": "2016",
+  "type": "TIME"
+ },
+ "soegeng": {
+  "text": "Soegeng",
+  "type": "PERSON"
+ },
+ "garuda indonesia": {
+  "text": "Garuda Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "100 juta orang": {
+  "text": "100 juta orang",
+  "type": "QUANTITY"
+ },
+ "750.000 orang": {
+  "text": "750.000 orang",
+  "type": "QUANTITY"
+ },
+ "asean": {
+  "text": "ASEAN",
+  "type": "LOCATION"
+ },
+ "citilink": {
+  "text": "Citilink",
+  "type": "ORGANIZATION"
+ },
+ "sriwijaya air": {
+  "text": "Sriwijaya Air",
+  "type": "ORGANIZATION"
+ },
+ "jackie chan": {
+  "text": "Jackie Chan",
+  "type": "PERSON"
+ },
+ "asean tiongkok center": {
+  "text": "ASEAN Tiongkok Center",
+  "type": "ORGANIZATION"
+ },
+ "ma mingqiang": {
+  "text": "Ma Mingqiang",
+  "type": "PERSON"
+ },
+ "ma": {
+  "text": "Ma",
+  "type": "PERSON"
+ },
+ "thailand": {
+  "text": "Thailand",
+  "type": "LOCATION"
+ },
+ "vietnam": {
+  "text": "Vietnam",
+  "type": "LOCATION"
+ },
+ "kamboja": {
+  "text": "Kamboja",
+  "type": "LOCATION"
+ },
+ "4 juta orang": {
+  "text": "4 juta orang",
+  "type": "QUANTITY"
+ },
+ "wayan subagja": {
+  "text": "Wayan Subagja",
+  "type": "PERSON"
+ },
+ "rani": {
+  "text": "Rani",
+  "type": "PERSON"
+ },
+ "nia": {
+  "text": "Nia",
+  "type": "PERSON"
+ },
+ "pulau bangka": {
+  "text": "pulau Bangka",
+  "type": "LOCATION"
+ },
+ "husein": {
+  "text": "Husein",
+  "type": "PERSON"
+ },
+ "anton": {
+  "text": "Anton",
+  "type": "PERSON"
+ },
+ "56.9 miliar francs": {
+  "text": "56.9 miliar francs",
+  "type": "QUANTITY"
+ },
+ "qvc network inc.": {
+  "text": "QVC Network Inc.",
+  "type": "ORGANIZATION"
+ },
+ "$ 423 juta": {
+  "text": "$ 423 juta",
+  "type": "QUANTITY"
+ },
+ "qvc": {
+  "text": "QVC",
+  "type": "ORGANIZATION"
+ },
+ "$ 19": {
+  "text": "$ 19",
+  "type": "QUANTITY"
+ },
+ "seperdelapan saham qvc": {
+  "text": "seperdelapan saham QVC",
+  "type": "QUANTITY"
+ },
+ "20 juta saham": {
+  "text": "20 juta saham",
+  "type": "QUANTITY"
+ },
+ "cvn": {
+  "text": "CVN",
+  "type": "ORGANIZATION"
+ },
+ "home shopping network inc.": {
+  "text": "Home Shopping Network Inc.",
+  "type": "ORGANIZATION"
+ },
+ "home shopping": {
+  "text": "Home Shopping",
+  "type": "ORGANIZATION"
+ },
+ "$ 1.4 miliar": {
+  "text": "$ 1.4 miliar",
+  "type": "QUANTITY"
+ },
+ "coast savings financial inc.": {
+  "text": "Coast Savings Financial Inc.",
+  "type": "ORGANIZATION"
+ },
+ "los angeles": {
+  "text": "Los Angeles",
+  "type": "LOCATION"
+ },
+ "$ 92.2 juta": {
+  "text": "$ 92.2 juta",
+  "type": "QUANTITY"
+ },
+ "$ 6.98 per lembar saham": {
+  "text": "$ 6.98 per lembar saham",
+  "type": "QUANTITY"
+ },
+ "30 september": {
+  "text": "30 September",
+  "type": "TIME"
+ },
+ "coast": {
+  "text": "Coast",
+  "type": "ORGANIZATION"
+ },
+ "$ 10.2 juta": {
+  "text": "$ 10.2 juta",
+  "type": "QUANTITY"
+ },
+ "67 cent per lembar saham": {
+  "text": "67 cent per lembar saham",
+  "type": "QUANTITY"
+ },
+ "$ 242 juta": {
+  "text": "$ 242 juta",
+  "type": "QUANTITY"
+ },
+ "$ 150 juta": {
+  "text": "$ 150 juta",
+  "type": "QUANTITY"
+ },
+ "$ 52 juta": {
+  "text": "$ 52 juta",
+  "type": "QUANTITY"
+ },
+ "rp.5 miliar": {
+  "text": "Rp.5 miliar",
+  "type": "QUANTITY"
+ },
+ "selat sunda": {
+  "text": "Selat Sunda",
+  "type": "LOCATION"
+ },
+ "tiga puluh tawon": {
+  "text": "Tiga puluh tawon",
+  "type": "QUANTITY"
+ },
+ "30000 lebah": {
+  "text": "30000 lebah",
+  "type": "QUANTITY"
+ },
+ "3 jam": {
+  "text": "3 jam",
+  "type": "TIME"
+ },
+ "20 pejuang": {
+  "text": "20 pejuang",
+  "type": "QUANTITY"
+ },
+ "tahun 580-480 sebelum masehi": {
+  "text": "tahun 580-480 sebelum Masehi",
+  "type": "TIME"
+ },
+ "dua fosil dinosaurus": {
+  "text": "Dua fosil dinosaurus",
+  "type": "QUANTITY"
+ },
+ "24 persen manajer": {
+  "text": "24 persen manajer",
+  "type": "QUANTITY"
+ },
+ "tutankhamun": {
+  "text": "Tutankhamun",
+  "type": "PERSON"
+ },
+ "tumiran": {
+  "text": "Tumiran",
+  "type": "PERSON"
+ },
+ "selasa sore": {
+  "text": "Selasa sore",
+  "type": "TIME"
+ },
+ "tubagus daniel azhari": {
+  "text": "Tubagus Daniel Azhari",
+  "type": "PERSON"
+ },
+ "triodos": {
+  "text": "Triodos",
+  "type": "ORGANIZATION"
+ },
+ "40 jenis lumba-lumba": {
+  "text": "40 jenis lumba-lumba",
+  "type": "QUANTITY"
+ },
+ "50 kilogram": {
+  "text": "50 kilogram",
+  "type": "QUANTITY"
+ },
+ "24 volt": {
+  "text": "24 volt",
+  "type": "QUANTITY"
+ },
+ "13 ribu terminal": {
+  "text": "13 ribu terminal",
+  "type": "QUANTITY"
+ },
+ "20 juta": {
+  "text": "20 juta",
+  "type": "QUANTITY"
+ },
+ "470 terminal atm": {
+  "text": "470 terminal ATM",
+  "type": "QUANTITY"
+ },
+ "tomash": {
+  "text": "Tomash",
+  "type": "PERSON"
+ },
+ "charles babbage": {
+  "text": "Charles Babbage",
+  "type": "ORGANIZATION"
+ },
+ "1978": {
+  "text": "1978",
+  "type": "TIME"
+ },
+ "tokyo": {
+  "text": "Tokyo",
+  "type": "LOCATION"
+ },
+ "bridge alliance": {
+  "text": "Bridge Alliance",
+  "type": "ORGANIZATION"
+ },
+ "bppt": {
+  "text": "BPPT",
+  "type": "ORGANIZATION"
+ },
+ "$ 500": {
+  "text": "$ 500",
+  "type": "QUANTITY"
+ },
+ "bulan": {
+  "text": "Bulan",
+  "type": "LOCATION"
+ },
+ "tahun ini": {
+  "text": "tahun ini",
+  "type": "TIME"
+ },
+ "lmd": {
+  "text": "LMD",
+  "type": "ORGANIZATION"
+ },
+ "mozilla": {
+  "text": "Mozilla",
+  "type": "ORGANIZATION"
+ },
+ "parjo": {
+  "text": "Parjo",
+  "type": "PERSON"
+ },
+ "universitas harvard": {
+  "text": "Universitas Harvard",
+  "type": "LOCATION"
+ },
+ "xl": {
+  "text": "XL",
+  "type": "ORGANIZATION"
+ },
+ "europa": {
+  "text": "Europa",
+  "type": "LOCATION"
+ },
+ "5 tahun penjara": {
+  "text": "5 tahun penjara",
+  "type": "QUANTITY"
+ },
+ "$ 250.000": {
+  "text": "$ 250.000",
+  "type": "QUANTITY"
+ },
+ "negara-negara berkembang": {
+  "text": "negara-negara berkembang",
+  "type": "LOCATION"
+ },
+ "ke-21": {
+  "text": "ke-21",
+  "type": "TIME"
+ },
+ "google": {
+  "text": "Google",
+  "type": "ORGANIZATION"
+ },
+ "$ 10 juta": {
+  "text": "$ 10 juta",
+  "type": "QUANTITY"
+ },
+ "zaman sekarang": {
+  "text": "Zaman sekarang",
+  "type": "TIME"
+ },
+ "hugo de vries": {
+  "text": "Hugo de Vries",
+  "type": "PERSON"
+ },
+ "ke-20": {
+  "text": "ke-20",
+  "type": "TIME"
+ },
+ "lembaga amil zakat": {
+  "text": "Lembaga Amil Zakat",
+  "type": "ORGANIZATION"
+ },
+ "darwin": {
+  "text": "Darwin",
+  "type": "PERSON"
+ },
+ "kutub utara": {
+  "text": "Kutub Utara",
+  "type": "LOCATION"
+ },
+ "akhir musim panas 2007": {
+  "text": "akhir musim panas 2007",
+  "type": "TIME"
+ },
+ "1,3 meter": {
+  "text": "1,3 meter",
+  "type": "QUANTITY"
+ },
+ "43 makam": {
+  "text": "43 makam",
+  "type": "QUANTITY"
+ },
+ "650 - 279 sebelum masehi": {
+  "text": "650 - 279 sebelum Masehi",
+  "type": "TIME"
+ },
+ "30 - 45 mil": {
+  "text": "30 - 45 mil",
+  "type": "QUANTITY"
+ },
+ "50 - 70 kilometer": {
+  "text": "50 - 70 kilometer",
+  "type": "QUANTITY"
+ },
+ "delapan ratus meter": {
+  "text": "delapan ratus meter",
+  "type": "QUANTITY"
+ },
+ "formasi tambach": {
+  "text": "Formasi Tambach",
+  "type": "LOCATION"
+ },
+ "30 tahun": {
+  "text": "30 tahun",
+  "type": "QUANTITY"
+ },
+ "lebanon": {
+  "text": "Lebanon",
+  "type": "LOCATION"
+ },
+ "damaskus": {
+  "text": "Damaskus",
+  "type": "LOCATION"
+ },
+ "november lalu": {
+  "text": "november lalu",
+  "type": "TIME"
+ },
+ "faruq el-shara": {
+  "text": "Faruq El-Shara",
+  "type": "PERSON"
+ },
+ "eu": {
+  "text": "EU",
+  "type": "ORGANIZATION"
+ },
+ "solana": {
+  "text": "Solana",
+  "type": "PERSON"
+ },
+ "hariri": {
+  "text": "Hariri",
+  "type": "PERSON"
+ },
+ "jaques chirac": {
+  "text": "Jaques Chirac",
+  "type": "PERSON"
+ },
+ "al-thawra": {
+  "text": "Al-Thawra",
+  "type": "ORGANIZATION"
+ },
+ "washington": {
+  "text": "Washington",
+  "type": "LOCATION"
+ },
+ "dua tahun lalu": {
+  "text": "dua tahun lalu",
+  "type": "TIME"
+ },
+ "irak": {
+  "text": "Irak",
+  "type": "LOCATION"
+ },
+ "ellen sauerbrey": {
+  "text": "Ellen Sauerbrey",
+  "type": "PERSON"
+ },
+ "dua juta orang": {
+  "text": "dua juta orang",
+  "type": "QUANTITY"
+ },
+ "600 ribu hingga dua juta": {
+  "text": "600 ribu hingga dua juta",
+  "type": "QUANTITY"
+ },
+ "sauerbrey": {
+  "text": "Sauerbrey",
+  "type": "PERSON"
+ },
+ "rwanda": {
+  "text": "Rwanda",
+  "type": "LOCATION"
+ },
+ "darfur": {
+  "text": "Darfur",
+  "type": "LOCATION"
+ },
+ "sudan": {
+  "text": "Sudan",
+  "type": "LOCATION"
+ },
+ "paul kagame": {
+  "text": "Paul Kagame",
+  "type": "PERSON"
+ },
+ "rabu": {
+  "text": "Rabu",
+  "type": "TIME"
+ },
+ "kagame": {
+  "text": "Kagame",
+  "type": "PERSON"
+ },
+ "2.000 tentara": {
+  "text": "2.000 tentara",
+  "type": "QUANTITY"
+ },
+ "7.000 tentara": {
+  "text": "7.000 tentara",
+  "type": "QUANTITY"
+ },
+ "februari": {
+  "text": "Februari",
+  "type": "TIME"
+ },
+ "janjaweed": {
+  "text": "Janjaweed",
+  "type": "ORGANIZATION"
+ },
+ "perserikatan bangsa-bangsa": {
+  "text": "Perserikatan Bangsa-Bangsa",
+  "type": "ORGANIZATION"
+ },
+ "200.000 orang": {
+  "text": "200.000 orang",
+  "type": "QUANTITY"
+ },
+ "2.5 juta orang": {
+  "text": "2.5 juta orang",
+  "type": "QUANTITY"
+ },
+ "omar beshir": {
+  "text": "Omar Beshir",
+  "type": "PERSON"
+ },
+ "beshir": {
+  "text": "Beshir",
+  "type": "PERSON"
+ },
+ "afrika bersatu": {
+  "text": "Afrika Bersatu",
+  "type": "ORGANIZATION"
+ },
+ "tony blair": {
+  "text": "Tony Blair",
+  "type": "PERSON"
+ },
+ "15 personel angkatan laut kerajaan inggris": {
+  "text": "15 personel Angkatan Laut Kerajaan Inggris",
+  "type": "QUANTITY"
+ },
+ "uni eropa ( eu )": {
+  "text": "Uni Eropa ( EU )",
+  "type": "ORGANIZATION"
+ },
+ "selat shat al-arab": {
+  "text": "Selat Shat al-Arab",
+  "type": "LOCATION"
+ },
+ "zalmay khalilzad": {
+  "text": "Zalmay Khalilzad",
+  "type": "PERSON"
+ },
+ "irak sunni": {
+  "text": "Irak Sunni",
+  "type": "ORGANIZATION"
+ },
+ "the new york times": {
+  "text": "The New York Times",
+  "type": "ORGANIZATION"
+ },
+ "ahad": {
+  "text": "Ahad",
+  "type": "TIME"
+ },
+ "khalilzad": {
+  "text": "Khalilzad",
+  "type": "PERSON"
+ },
+ "the times": {
+  "text": "The Times",
+  "type": "ORGANIZATION"
+ },
+ "awal 2006": {
+  "text": "awal 2006",
+  "type": "TIME"
+ },
+ "baghdad": {
+  "text": "Baghdad",
+  "type": "LOCATION"
+ },
+ "arab sunni": {
+  "text": "Arab Sunni",
+  "type": "ORGANIZATION"
+ },
+ "jordan": {
+  "text": "Jordan",
+  "type": "LOCATION"
+ },
+ "militer islam irak": {
+  "text": "Militer Islam Irak",
+  "type": "ORGANIZATION"
+ },
+ "robert gates": {
+  "text": "Robert Gates",
+  "type": "PERSON"
+ },
+ "jordania": {
+  "text": "Jordania",
+  "type": "LOCATION"
+ },
+ "abdullah ii": {
+  "text": "Abdullah II",
+  "type": "PERSON"
+ },
+ "abdullah": {
+  "text": "Abdullah",
+  "type": "PERSON"
+ },
+ "amman": {
+  "text": "Amman",
+  "type": "LOCATION"
+ },
+ "jerusalem": {
+  "text": "Jerusalem",
+  "type": "LOCATION"
+ },
+ "ehud olmert": {
+  "text": "Ehud Olmert",
+  "type": "PERSON"
+ },
+ "gates": {
+  "text": "Gates",
+  "type": "PERSON"
+ },
+ "khalid al-sarayreh": {
+  "text": "Khalid al-Sarayreh",
+  "type": "PERSON"
+ },
+ "nuri al-maliki": {
+  "text": "Nuri al-Maliki",
+  "type": "PERSON"
+ },
+ "f lofaso": {
+  "text": "F Lofaso",
+  "type": "PERSON"
+ },
+ "raymond poincare": {
+  "text": "Raymond Poincare",
+  "type": "PERSON"
+ },
+ "garches": {
+  "text": "Garches",
+  "type": "LOCATION"
+ },
+ "lofaso": {
+  "text": "Lofaso",
+  "type": "PERSON"
+ },
+ "60 hari": {
+  "text": "60 hari",
+  "type": "QUANTITY"
+ },
+ "new mexico as": {
+  "text": "New Mexico AS",
+  "type": "LOCATION"
+ },
+ "bill richardson": {
+  "text": "Bill Richardson",
+  "type": "PERSON"
+ },
+ "empat hari": {
+  "text": "empat hari",
+  "type": "QUANTITY"
+ },
+ "omar al-beshir": {
+  "text": "Omar al-Beshir",
+  "type": "PERSON"
+ },
+ "wilayah barat sudan": {
+  "text": "wilayah barat Sudan",
+  "type": "LOCATION"
+ },
+ "abuja": {
+  "text": "Abuja",
+  "type": "LOCATION"
+ },
+ "5 mei": {
+  "text": "5 Mei",
+  "type": "TIME"
+ },
+ "richardson": {
+  "text": "Richardson",
+  "type": "PERSON"
+ },
+ "khartoum": {
+  "text": "Khartoum",
+  "type": "PERSON"
+ },
+ "lam akol": {
+  "text": "Lam Akol",
+  "type": "PERSON"
+ },
+ "marriot": {
+  "text": "Marriot",
+  "type": "ORGANIZATION"
+ },
+ "badan statistik pusat bps": {
+  "text": "Badan Statistik Pusat BPS",
+  "type": "ORGANIZATION"
+ },
+ "qtel": {
+  "text": "Qtel",
+  "type": "ORGANIZATION"
+ },
+ "rahmat gobel": {
+  "text": "Rahmat Gobel",
+  "type": "PERSON"
+ },
+ "49 persen": {
+  "text": "49 persen",
+  "type": "QUANTITY"
+ },
+ "indosat": {
+  "text": "Indosat",
+  "type": "ORGANIZATION"
+ },
+ "fuad": {
+  "text": "Fuad",
+  "type": "PERSON"
+ },
+ "fppp": {
+  "text": "FPPP",
+  "type": "ORGANIZATION"
+ },
+ "syumli": {
+  "text": "Syumli",
+  "type": "PERSON"
+ },
+ "syadli": {
+  "text": "Syadli",
+  "type": "PERSON"
+ },
+ "pioneer electronic": {
+  "text": "Pioneer Electronic",
+  "type": "ORGANIZATION"
+ },
+ "sony": {
+  "text": "Sony",
+  "type": "ORGANIZATION"
+ },
+ "30 juni": {
+  "text": "30 Juni",
+  "type": "TIME"
+ },
+ "toledo": {
+  "text": "Toledo",
+  "type": "LOCATION"
+ },
+ "tucson": {
+  "text": "Tucson",
+  "type": "LOCATION"
+ },
+ "topeka": {
+  "text": "Topeka",
+  "type": "LOCATION"
+ },
+ "guy l": {
+  "text": "Guy L",
+  "type": "PERSON"
+ },
+ "smith": {
+  "text": "Smith",
+  "type": "PERSON"
+ },
+ "philip morris": {
+  "text": "Philip Morris",
+  "type": "PERSON"
+ },
+ "mr. smith": {
+  "text": "Mr. Smith",
+  "type": "PERSON"
+ },
+ "4.7 %": {
+  "text": "4.7 %",
+  "type": "QUANTITY"
+ },
+ "12 bulan": {
+  "text": "12 bulan",
+  "type": "QUANTITY"
+ },
+ "september": {
+  "text": "september",
+  "type": "TIME"
+ },
+ "4.5 %": {
+  "text": "4.5 %",
+  "type": "QUANTITY"
+ },
+ "1988": {
+  "text": "1988",
+  "type": "TIME"
+ },
+ "pbb": {
+  "text": "PBB",
+  "type": "ORGANIZATION"
+ },
+ "uni": {
+  "text": "Uni",
+  "type": "ORGANIZATION"
+ },
+ "miran shah": {
+  "text": "Miran Shah",
+  "type": "PERSON"
+ },
+ "shaukat sultan": {
+  "text": "Shaukat Sultan",
+  "type": "PERSON"
+ },
+ "dpa": {
+  "text": "DPA",
+  "type": "ORGANIZATION"
+ },
+ "semtamu": {
+  "text": "Semtamu",
+  "type": "PERSON"
+ },
+ "uganda": {
+  "text": "Uganda",
+  "type": "LOCATION"
+ },
+ "gereja inggris": {
+  "text": "Gereja Inggris",
+  "type": "LOCATION"
+ },
+ "canterbury": {
+  "text": "Canterbury",
+  "type": "LOCATION"
+ },
+ "rowan williams": {
+  "text": "Rowan Williams",
+  "type": "PERSON"
+ },
+ "hong kong": {
+  "text": "Hong Kong",
+  "type": "LOCATION"
+ },
+ "financial times": {
+  "text": "Financial Times",
+  "type": "ORGANIZATION"
+ },
+ "afrika selatan": {
+  "text": "Afrika selatan",
+  "type": "LOCATION"
+ },
+ "korea": {
+  "text": "Korea",
+  "type": "LOCATION"
+ },
+ "selatan": {
+  "text": "Selatan",
+  "type": "LOCATION"
+ },
+ "hong": {
+  "text": "Hong",
+  "type": "LOCATION"
+ },
+ "11.400 ton unggas": {
+  "text": "11.400 ton unggas",
+  "type": "QUANTITY"
+ },
+ "10 bulan": {
+  "text": "10 bulan",
+  "type": "TIME"
+ },
+ "senin malam": {
+  "text": "Senin malam",
+  "type": "TIME"
+ },
+ "160.000 kalkun": {
+  "text": "160.000 kalkun",
+  "type": "QUANTITY"
+ },
+ "senin lalu": {
+  "text": "Senin lalu",
+  "type": "TIME"
+ },
+ "inggris timur": {
+  "text": "Inggris timur",
+  "type": "LOCATION"
+ },
+ "bernard matthews": {
+  "text": "Bernard Matthews",
+  "type": "PERSON"
+ },
+ "mauritania": {
+  "text": "Mauritania",
+  "type": "LOCATION"
+ },
+ "32 tahun": {
+  "text": "32 tahun",
+  "type": "QUANTITY"
+ },
+ "las": {
+  "text": "Las",
+  "type": "LOCATION"
+ },
+ "palmas": {
+  "text": "Palmas",
+  "type": "LOCATION"
+ },
+ "kepulauan canary": {
+  "text": "Kepulauan Canary",
+  "type": "LOCATION"
+ },
+ "dua pistol": {
+  "text": "dua pistol",
+  "type": "QUANTITY"
+ },
+ "air mauritania": {
+  "text": "Air Mauritania",
+  "type": "ORGANIZATION"
+ },
+ "las palmas": {
+  "text": "Las Palmas",
+  "type": "LOCATION"
+ },
+ "nouakchott": {
+  "text": "Nouakchott",
+  "type": "LOCATION"
+ },
+ "nouadhibou": {
+  "text": "Nouadhibou",
+  "type": "LOCATION"
+ },
+ "hugh grant": {
+  "text": "Hugh Grant",
+  "type": "PERSON"
+ },
+ "jemima khan": {
+  "text": "Jemima Khan",
+  "type": "PERSON"
+ },
+ "hugh": {
+  "text": "Hugh",
+  "type": "PERSON"
+ },
+ "jemima": {
+  "text": "jemima",
+  "type": "PERSON"
+ },
+ "robert garlock": {
+  "text": "Robert Garlock",
+  "type": "PERSON"
+ },
+ "grant": {
+  "text": "Grant",
+  "type": "PERSON"
+ },
+ "hurley": {
+  "text": "Hurley",
+  "type": "PERSON"
+ },
+ "2000": {
+  "text": "2000",
+  "type": "TIME"
+ },
+ "46": {
+  "text": "46",
+  "type": "QUANTITY"
+ },
+ "khan": {
+  "text": "Khan",
+  "type": "PERSON"
+ },
+ "33": {
+  "text": "33",
+  "type": "QUANTITY"
+ },
+ "imran kham": {
+  "text": "Imran Kham",
+  "type": "PERSON"
+ },
+ "sir james goldsmith": {
+  "text": "Sir James Goldsmith",
+  "type": "PERSON"
+ },
+ "bulan lalu": {
+  "text": "bulan lalu",
+  "type": "TIME"
+ },
+ "mdc": {
+  "text": "MDC",
+  "type": "ORGANIZATION"
+ },
+ "machipisa": {
+  "text": "Machipisa",
+  "type": "LOCATION"
+ },
+ "highfield": {
+  "text": "Highfield",
+  "type": "LOCATION"
+ },
+ "lapangan zimbabwe": {
+  "text": "Lapangan Zimbabwe",
+  "type": "LOCATION"
+ },
+ "morgan tsangirai": {
+  "text": "Morgan Tsangirai",
+  "type": "PERSON"
+ },
+ "wayne bvudzijena": {
+  "text": "Wayne Bvudzijena",
+  "type": "PERSON"
+ },
+ "bvudzijena": {
+  "text": "Bvudzijena",
+  "type": "PERSON"
+ },
+ "tsvangirai": {
+  "text": "Tsvangirai",
+  "type": "PERSON"
+ },
+ "zimbabwe": {
+  "text": "Zimbabwe",
+  "type": "PERSON"
+ },
+ "robert mugabe": {
+  "text": "Robert Mugabe",
+  "type": "PERSON"
+ },
+ "chamisa": {
+  "text": "Chamisa",
+  "type": "PERSON"
+ },
+ "mugabe": {
+  "text": "Mugabe",
+  "type": "PERSON"
+ },
+ "180.000 pegawai": {
+  "text": "180.000 pegawai",
+  "type": "QUANTITY"
+ },
+ "empat rumah sakit utama": {
+  "text": "Empat rumah sakit utama",
+  "type": "QUANTITY"
+ },
+ "bulawayo": {
+  "text": "Bulawayo",
+  "type": "LOCATION"
+ },
+ "dua polisi": {
+  "text": "dua polisi",
+  "type": "QUANTITY"
+ },
+ "empat orang": {
+  "text": "empat orang",
+  "type": "QUANTITY"
+ },
+ "selasa larut malam": {
+  "text": "Selasa larut malam",
+  "type": "TIME"
+ },
+ "pakistan": {
+  "text": "Pakistan",
+  "type": "LOCATION"
+ },
+ "sistan-baluchestan": {
+  "text": "Sistan-Baluchestan",
+  "type": "LOCATION"
+ },
+ "tujuh polisi": {
+  "text": "Tujuh polisi",
+  "type": "QUANTITY"
+ },
+ "selasa malam": {
+  "text": "Selasa malam",
+  "type": "TIME"
+ },
+ "kantor berita irna": {
+  "text": "Kantor Berita IRNA",
+  "type": "ORGANIZATION"
+ },
+ "esmael ahmadi-mogadam": {
+  "text": "Esmael Ahmadi-Mogadam",
+  "type": "PERSON"
+ },
+ "shahid": {
+  "text": "Shahid",
+  "type": "PERSON"
+ },
+ "quetta": {
+  "text": "Quetta",
+  "type": "LOCATION"
+ },
+ "sistan": {
+  "text": "Sistan",
+  "type": "LOCATION"
+ },
+ "baluchestan": {
+  "text": "Baluchestan",
+  "type": "LOCATION"
+ },
+ "13 prajurit garda revolusi": {
+  "text": "13 prajurit Garda Revolusi",
+  "type": "QUANTITY"
+ },
+ "zahedan": {
+  "text": "Zahedan",
+  "type": "LOCATION"
+ },
+ "kurdi": {
+  "text": "Kurdi",
+  "type": "LOCATION"
+ },
+ "azerbaijan barat": {
+  "text": "Azerbaijan Barat",
+  "type": "LOCATION"
+ },
+ "yahya rahim": {
+  "text": "Yahya Rahim",
+  "type": "PERSON"
+ },
+ "30 pemberontak tewas": {
+  "text": "30 pemberontak tewas",
+  "type": "QUANTITY"
+ },
+ "qantas": {
+  "text": "Qantas",
+  "type": "ORGANIZATION"
+ },
+ "rodney lyle petersen": {
+  "text": "Rodney Lyle Petersen",
+  "type": "PERSON"
+ },
+ "30": {
+  "text": "30",
+  "type": "QUANTITY"
+ },
+ "50 pencurian": {
+  "text": "50 pencurian",
+  "type": "QUANTITY"
+ },
+ "aap": {
+  "text": "AAP",
+  "type": "ORGANIZATION"
+ },
+ "petersen": {
+  "text": "Petersen",
+  "type": "PERSON"
+ },
+ "emily d parker": {
+  "text": "Emily D Parker",
+  "type": "PERSON"
+ },
+ "universitas minnesota": {
+  "text": "Universitas Minnesota",
+  "type": "ORGANIZATION"
+ },
+ "minneapolis": {
+  "text": "Minneapolis",
+  "type": "LOCATION"
+ },
+ "11 persen": {
+  "text": "11 persen",
+  "type": "QUANTITY"
+ },
+ "300 unit latihan": {
+  "text": "300 unit latihan",
+  "type": "QUANTITY"
+ },
+ "lima sesi olahraga": {
+  "text": "lima sesi olahraga",
+  "type": "QUANTITY"
+ },
+ "300 kalori setiap sesinya": {
+  "text": "300 kalori setiap sesinya",
+  "type": "QUANTITY"
+ },
+ "17 persen": {
+  "text": "17 persen",
+  "type": "QUANTITY"
+ },
+ "parker": {
+  "text": "Parker",
+  "type": "PERSON"
+ },
+ "gerakan untuk perubahan demokratik ( mdc )": {
+  "text": "Gerakan untuk Perubahan Demokratik ( MDC )",
+  "type": "ORGANIZATION"
+ },
+ "sikhanyiso ndlovu": {
+  "text": "Sikhanyiso Ndlovu",
+  "type": "PERSON"
+ },
+ "harare": {
+  "text": "Harare",
+  "type": "PERSON"
+ },
+ "morgan tsvangirai": {
+  "text": "Morgan Tsvangirai",
+  "type": "PERSON"
+ },
+ "cnn": {
+  "text": "CNN",
+  "type": "ORGANIZATION"
+ },
+ "condoleezza rice": {
+  "text": "Condoleezza Rice",
+  "type": "PERSON"
+ },
+ "ternhill": {
+  "text": "Ternhill",
+  "type": "LOCATION"
+ },
+ "pasar drayton": {
+  "text": "Pasar Drayton",
+  "type": "LOCATION"
+ },
+ "shropshire": {
+  "text": "Shropshire",
+  "type": "LOCATION"
+ },
+ "raf": {
+  "text": "RAF",
+  "type": "ORGANIZATION"
+ },
+ "amanda vanstone": {
+  "text": "Amanda Vanstone",
+  "type": "PERSON"
+ },
+ "john howard": {
+  "text": "John Howard",
+  "type": "PERSON"
+ },
+ "howard": {
+  "text": "Howard",
+  "type": "PERSON"
+ },
+ "vanstone": {
+  "text": "Vanstone",
+  "type": "PERSON"
+ },
+ "kevin andrews": {
+  "text": "Kevin Andrews",
+  "type": "PERSON"
+ },
+ "joe hockey": {
+  "text": "Joe Hockey",
+  "type": "PERSON"
+ },
+ "malcolm turnbull": {
+  "text": "Malcolm Turnbull",
+  "type": "PERSON"
+ },
+ "ian campbell": {
+  "text": "Ian Campbell",
+  "type": "PERSON"
+ },
+ "al-qaeda": {
+  "text": "Al-Qaeda",
+  "type": "ORGANIZATION"
+ },
+ "somalia": {
+  "text": "Somalia",
+  "type": "LOCATION"
+ },
+ "ethiopia": {
+  "text": "Ethiopia",
+  "type": "LOCATION"
+ },
+ "meles zenawi": {
+  "text": "Meles Zenawi",
+  "type": "PERSON"
+ },
+ "the financial times": {
+  "text": "the Financial Times",
+  "type": "ORGANIZATION"
+ },
+ "senin": {
+  "text": "Senin",
+  "type": "TIME"
+ },
+ "meles": {
+  "text": "Meles",
+  "type": "PERSON"
+ },
+ "aden hashi ayro": {
+  "text": "Aden Hashi Ayro",
+  "type": "PERSON"
+ },
+ "afrika timur": {
+  "text": "Afrika timur",
+  "type": "LOCATION"
+ },
+ "kenya": {
+  "text": "Kenya",
+  "type": "LOCATION"
+ },
+ "tanzania": {
+  "text": "Tanzania",
+  "type": "LOCATION"
+ },
+ "1998": {
+  "text": "1998",
+  "type": "TIME"
+ },
+ "sheikh hassan dahir aweys": {
+  "text": "Sheikh Hassan Dahir Aweys",
+  "type": "PERSON"
+ },
+ "hassan turki": {
+  "text": "Hassan Turki",
+  "type": "PERSON"
+ },
+ "dua pemimpin": {
+  "text": "dua pemimpin",
+  "type": "QUANTITY"
+ },
+ "serikat pengadilan islam": {
+  "text": "Serikat Pengadilan Islam",
+  "type": "ORGANIZATION"
+ },
+ "icu": {
+  "text": "ICU",
+  "type": "ORGANIZATION"
+ },
+ "ft ethiopia": {
+  "text": "FT Ethiopia",
+  "type": "ORGANIZATION"
+ },
+ "desember lalu": {
+  "text": "Desember lalu",
+  "type": "TIME"
+ },
+ "new york": {
+  "text": "New York",
+  "type": "LOCATION"
+ },
+ "joel simon": {
+  "text": "Joel Simon",
+  "type": "PERSON"
+ },
+ "300 halaman": {
+  "text": "300 halaman",
+  "type": "QUANTITY"
+ },
+ "bps": {
+  "text": "BPS",
+  "type": "ORGANIZATION"
+ },
+ "45 kota": {
+  "text": "45 kota",
+  "type": "QUANTITY"
+ },
+ "31 kota": {
+  "text": "31 kota",
+  "type": "QUANTITY"
+ },
+ "14 kota": {
+  "text": "14 kota",
+  "type": "QUANTITY"
+ },
+ "jayapura": {
+  "text": "Jayapura",
+  "type": "LOCATION"
+ },
+ "1,76 persen": {
+  "text": "1,76 persen",
+  "type": "QUANTITY"
+ },
+ "lhokseumawe": {
+  "text": "Lhokseumawe",
+  "type": "LOCATION"
+ },
+ "sibolga": {
+  "text": "Sibolga",
+  "type": "LOCATION"
+ },
+ "0,01 persen": {
+  "text": "0,01 persen",
+  "type": "QUANTITY"
+ },
+ "2007": {
+  "text": "2007",
+  "type": "TIME"
+ },
+ "pt bank mandiri": {
+  "text": "PT Bank Mandiri",
+  "type": "ORGANIZATION"
+ },
+ "130 bank": {
+  "text": "130 bank",
+  "type": "QUANTITY"
+ },
+ "harian bisnis indonesia": {
+  "text": "Harian Bisnis Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "rofikoh rokhim": {
+  "text": "Rofikoh Rokhim",
+  "type": "PERSON"
+ },
+ "bank mandiri": {
+  "text": "Bank Mandiri",
+  "type": "ORGANIZATION"
+ },
+ "rata-rata nilai 0,85863": {
+  "text": "rata-rata nilai 0,85863",
+  "type": "QUANTITY"
+ },
+ "rofikoh": {
+  "text": "Rofikoh",
+  "type": "PERSON"
+ },
+ "2006": {
+  "text": "2006",
+  "type": "TIME"
+ },
+ "3 kategori": {
+  "text": "3 kategori",
+  "type": "QUANTITY"
+ },
+ "bpd riau": {
+  "text": "BPD Riau",
+  "type": "ORGANIZATION"
+ },
+ "skor 0,768": {
+  "text": "skor 0,768",
+  "type": "QUANTITY"
+ },
+ "pt medco energi internasional tbk medc": {
+  "text": "PT Medco Energi Internasional Tbk MEDC",
+  "type": "ORGANIZATION"
+ },
+ "kuartal pertama 2008": {
+  "text": "kuartal pertama 2008",
+  "type": "TIME"
+ },
+ "medco": {
+  "text": "Medco",
+  "type": "ORGANIZATION"
+ },
+ "medco global": {
+  "text": "Medco Global",
+  "type": "ORGANIZATION"
+ },
+ "d cyril noerhadi": {
+  "text": "D Cyril Noerhadi",
+  "type": "PERSON"
+ },
+ "6.6 %": {
+  "text": "6.6 %",
+  "type": "QUANTITY"
+ },
+ "4.4 %": {
+  "text": "4.4 %",
+  "type": "QUANTITY"
+ },
+ "1.2 %": {
+  "text": "1.2 %",
+  "type": "QUANTITY"
+ },
+ "1 %": {
+  "text": "1 %",
+  "type": "QUANTITY"
+ },
+ "0.9 %": {
+  "text": "0.9 %",
+  "type": "QUANTITY"
+ },
+ "1.6 %": {
+  "text": "1.6 %",
+  "type": "QUANTITY"
+ },
+ "1.3 %": {
+  "text": "1.3 %",
+  "type": "QUANTITY"
+ },
+ "1.1 %": {
+  "text": "1.1 %",
+  "type": "QUANTITY"
+ },
+ "5.1 %": {
+  "text": "5.1 %",
+  "type": "QUANTITY"
+ },
+ "mohammad hossein": {
+  "text": "Mohammad Hossein",
+  "type": "PERSON"
+ },
+ "100 juta": {
+  "text": "100 juta",
+  "type": "QUANTITY"
+ },
+ "60 persen": {
+  "text": "60 persen",
+  "type": "QUANTITY"
+ },
+ "mars": {
+  "text": "Mars",
+  "type": "LOCATION"
+ },
+ "tahun 2009": {
+  "text": "tahun 2009",
+  "type": "TIME"
+ },
+ "pt pos indonesia": {
+  "text": "PT Pos Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "sekitar 350 km": {
+  "text": "sekitar 350 km",
+  "type": "QUANTITY"
+ },
+ "40 usd": {
+  "text": "40 USD",
+  "type": "QUANTITY"
+ },
+ "miller": {
+  "text": "Miller",
+  "type": "PERSON"
+ },
+ "1 desember 2007": {
+  "text": "1 Desember 2007",
+  "type": "TIME"
+ },
+ "35 juta tahun": {
+  "text": "35 juta tahun",
+  "type": "QUANTITY"
+ },
+ "aquamarine fukushima": {
+  "text": "Aquamarine Fukushima",
+  "type": "LOCATION"
+ },
+ "lembaga ilmu pengetahuan indonesia": {
+  "text": "Lembaga Ilmu Pengetahuan Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "30 km": {
+  "text": "30 km",
+  "type": "QUANTITY"
+ },
+ "sudirman": {
+  "text": "Sudirman",
+  "type": "LOCATION"
+ },
+ "50 hingga 100 persen": {
+  "text": "50 hingga 100 persen",
+  "type": "QUANTITY"
+ },
+ "nitin jain": {
+  "text": "Nitin Jain",
+  "type": "PERSON"
+ },
+ "delhi": {
+  "text": "Delhi",
+  "type": "LOCATION"
+ },
+ "89 siswa partisipan": {
+  "text": "89 siswa partisipan",
+  "type": "QUANTITY"
+ },
+ "pt gunung tua mandiri": {
+  "text": "PT Gunung Tua Mandiri",
+  "type": "ORGANIZATION"
+ },
+ "1,5 juta ton andesit": {
+  "text": "1,5 juta ton andesit",
+  "type": "QUANTITY"
+ },
+ "30 juta ton andesit": {
+  "text": "30 juta ton andesit",
+  "type": "QUANTITY"
+ },
+ "bulan september 2007": {
+  "text": "bulan September 2007",
+  "type": "TIME"
+ },
+ "bank sentral malaysia": {
+  "text": "Bank Sentral Malaysia",
+  "type": "ORGANIZATION"
+ },
+ "zeti akhtar aziz": {
+  "text": "Zeti Akhtar Aziz",
+  "type": "PERSON"
+ },
+ "bernama": {
+  "text": "Bernama",
+  "type": "LOCATION"
+ },
+ "new york mercantile exchange": {
+  "text": "New York Mercantile Exchange",
+  "type": "ORGANIZATION"
+ },
+ "78,77 dolar as": {
+  "text": "78,77 dolar AS",
+  "type": "QUANTITY"
+ },
+ "1,54 persen": {
+  "text": "1,54 persen",
+  "type": "QUANTITY"
+ },
+ "rp.58,285 triliun": {
+  "text": "Rp.58,285 triliun",
+  "type": "QUANTITY"
+ },
+ "rp.3,734 triliun": {
+  "text": "Rp.3,734 triliun",
+  "type": "QUANTITY"
+ },
+ "rp.58,546 triliun": {
+  "text": "Rp.58,546 triliun",
+  "type": "QUANTITY"
+ },
+ "6,3 persen": {
+  "text": "6,3 persen",
+  "type": "QUANTITY"
+ },
+ "6 persen": {
+  "text": "6 persen",
+  "type": "QUANTITY"
+ },
+ "rp.9.050 per dolar as": {
+  "text": "Rp.9.050 per dolar AS",
+  "type": "QUANTITY"
+ },
+ "3 bulan 8 persen": {
+  "text": "3 bulan 8 persen",
+  "type": "QUANTITY"
+ },
+ "60 dolar as": {
+  "text": "60 dolar AS",
+  "type": "QUANTITY"
+ },
+ "950 ribu barel per hari": {
+  "text": "950 ribu barel per hari",
+  "type": "QUANTITY"
+ },
+ "rp3.761,412 triliun": {
+  "text": "Rp3.761,412 triliun",
+  "type": "QUANTITY"
+ },
+ "rp3.804,154 triliun": {
+  "text": "Rp3.804,154 triliun",
+  "type": "QUANTITY"
+ },
+ "rp9.100 per dolar as": {
+  "text": "Rp9.100 per dolar AS",
+  "type": "QUANTITY"
+ },
+ "rp9.050": {
+  "text": "Rp9.050",
+  "type": "QUANTITY"
+ },
+ "bi budi mulia": {
+  "text": "BI Budi Mulia",
+  "type": "ORGANIZATION"
+ },
+ "bulan juli 2007": {
+  "text": "bulan Juli 2007",
+  "type": "TIME"
+ },
+ "8,25 persen": {
+  "text": "8,25 persen",
+  "type": "QUANTITY"
+ },
+ "moody's investors service": {
+  "text": "Moody's Investors Service",
+  "type": "ORGANIZATION"
+ },
+ "11 bank indonesia": {
+  "text": "11 bank Indonesia",
+  "type": "QUANTITY"
+ },
+ "semester 1 tahun 2007": {
+  "text": "semester 1 tahun 2007",
+  "type": "TIME"
+ },
+ "94 persen": {
+  "text": "94 persen",
+  "type": "QUANTITY"
+ },
+ "rp100 juta": {
+  "text": "Rp100 juta",
+  "type": "QUANTITY"
+ },
+ "asosiasi asuransi jiwa indonesia": {
+  "text": "Asosiasi Asuransi Jiwa Indonesia",
+  "type": "ORGANIZATION"
+ },
+ "evelina fadil pietruschka": {
+  "text": "Evelina Fadil Pietruschka",
+  "type": "PERSON"
+ },
+ "evelina": {
+  "text": "Evelina",
+  "type": "PERSON"
+ },
+ "aaji": {
+  "text": "AAJI",
+  "type": "ORGANIZATION"
+ },
+ "6 juta jiwa": {
+  "text": "6 juta jiwa",
+  "type": "QUANTITY"
+ },
+ "25 juta jiwa": {
+  "text": "25 juta jiwa",
+  "type": "QUANTITY"
+ },
+ "rp80 triliun": {
+  "text": "Rp80 triliun",
+  "type": "QUANTITY"
+ },
+ "220 juta jiwa": {
+  "text": "220 juta jiwa",
+  "type": "QUANTITY"
+ },
+ "rp100 triliun": {
+  "text": "Rp100 triliun",
+  "type": "QUANTITY"
+ },
+ "gedung utama departemen keuangan jakarta": {
+  "text": "Gedung Utama Departemen Keuangan Jakarta",
+  "type": "LOCATION"
+ },
+ "serikat": {
+  "text": "Serikat",
+  "type": "LOCATION"
+ },
+ "pt global mediacom": {
+  "text": "PT Global Mediacom",
+  "type": "ORGANIZATION"
+ },
+ "tbk": {
+  "text": "Tbk",
+  "type": "ORGANIZATION"
+ },
+ "pt mobile 8 telecom": {
+  "text": "PT Mobile 8 Telecom",
+  "type": "ORGANIZATION"
+ },
+ "157.392.500 saham": {
+  "text": "157.392.500 saham",
+  "type": "QUANTITY"
+ },
+ "rp290,9 per saham": {
+  "text": "Rp290,9 per saham",
+  "type": "QUANTITY"
+ },
+ "rp45,78 miliar": {
+  "text": "Rp45,78 miliar",
+  "type": "QUANTITY"
+ },
+ "30 juli 2007": {
+  "text": "30 Juli 2007",
+  "type": "TIME"
+ },
+ "mobile 8": {
+  "text": "Mobile 8",
+  "type": "ORGANIZATION"
+ },
+ "global mediacom": {
+  "text": "Global Mediacom",
+  "type": "ORGANIZATION"
+ },
+ "39,71 persen": {
+  "text": "39,71 persen",
+  "type": "QUANTITY"
+ },
+ "asia link bv": {
+  "text": "Asia Link BV",
+  "type": "ORGANIZATION"
+ },
+ "6,02 persen": {
+  "text": "6,02 persen",
+  "type": "QUANTITY"
+ },
+ "qualcomm inc": {
+  "text": "Qualcomm Inc",
+  "type": "ORGANIZATION"
+ },
+ "5,16 persen": {
+  "text": "5,16 persen",
+  "type": "ORGANIZATION"
+ },
+ "sekitar 13 juta ton batubara": {
+  "text": "sekitar 13 juta ton batubara",
+  "type": "QUANTITY"
+ },
+ "ptba": {
+  "text": "PTBA",
+  "type": "ORGANIZATION"
+ },
+ "eko": {
+  "text": "Eko",
+  "type": "PERSON"
+ },
+ "awal 2008": {
+  "text": "awal 2008",
+  "type": "TIME"
+ },
+ "september 2007": {
+  "text": "September 2007",
+  "type": "TIME"
+ },
+ "ptba tanjung enim": {
+  "text": "PTBA Tanjung Enim",
+  "type": "ORGANIZATION"
+ },
+ "1997": {
+  "text": "1997",
+  "type": "TIME"
+ },
+ "sekitar 10 ribu ton per tahun": {
+  "text": "sekitar 10 ribu ton per tahun",
+  "type": "QUANTITY"
+ },
+ "6.300 ton": {
+  "text": "6.300 ton",
+  "type": "QUANTITY"
+ },
+ "wilayah sumatera selatan": {
+  "text": "wilayah Sumatera selatan",
+  "type": "LOCATION"
+ },
+ "70 persen": {
+  "text": "70 persen",
+  "type": "QUANTITY"
+ },
+ "wilayah jabotabek": {
+  "text": "wilayah Jabotabek",
+  "type": "LOCATION"
+ },
+ "pt indonesia tansport tbk": {
+  "text": "PT Indonesia Tansport Tbk",
+  "type": "ORGANIZATION"
+ },
+ "3 unit helikopter": {
+  "text": "3 unit helikopter",
+  "type": "QUANTITY"
+ },
+ "conocophilips indonesia inc": {
+  "text": "Conocophilips Indonesia Inc",
+  "type": "ORGANIZATION"
+ },
+ "desoto inc .": {
+  "text": "DeSoto Inc .",
+  "type": "ORGANIZATION"
+ },
+ "200 karyawan": {
+  "text": "200 karyawan",
+  "type": "QUANTITY"
+ },
+ "sebesar $ 10 juta": {
+  "text": "sebesar $ 10 juta",
+  "type": "QUANTITY"
+ },
+ "desoto": {
+  "text": "DeSoto",
+  "type": "ORGANIZATION"
+ },
+ "the des plaines , ill .": {
+  "text": "The Des Plaines , Ill .",
+  "type": "ORGANIZATION"
+ },
+ "sekitar 2,000 pekerja": {
+  "text": "sekitar 2,000 pekerja",
+  "type": "QUANTITY"
+ },
+ "chicago heights": {
+  "text": "Chicago Heights",
+  "type": "ORGANIZATION"
+ },
+ "stateswest airlines": {
+  "text": "StatesWest Airlines",
+  "type": "ORGANIZATION"
+ },
+ "phoenix": {
+  "text": "Phoenix",
+  "type": "ORGANIZATION"
+ },
+ "ariz": {
+  "text": "Ariz",
+  "type": "ORGANIZATION"
+ },
+ "mesa airlines": {
+  "text": "Mesa Airlines",
+  "type": "ORGANIZATION"
+ },
+ "farmington , n.m .": {
+  "text": "Farmington , N.M .",
+  "type": "ORGANIZATION"
+ },
+ "stateswest": {
+  "text": "StatesWest",
+  "type": "ORGANIZATION"
+ },
+ "mesa": {
+  "text": "Mesa",
+  "type": "ORGANIZATION"
+ },
+ "$ 7 per lembar saham": {
+  "text": "$ 7 per lembar saham",
+  "type": "QUANTITY"
+ },
+ "$ 3 per lembar saham": {
+  "text": "$ 3 per lembar saham",
+  "type": "QUANTITY"
+ },
+ "42 kota": {
+  "text": "42 kota",
+  "type": "QUANTITY"
+ },
+ "new mexico": {
+  "text": "New Mexico",
+  "type": "LOCATION"
+ },
+ "arizona": {
+  "text": "Arizona",
+  "type": "LOCATION"
+ },
+ "wyoming": {
+  "text": "Wyoming",
+  "type": "LOCATION"
+ },
+ "colorado": {
+  "text": "Colorado",
+  "type": "LOCATION"
+ },
+ "texas": {
+  "text": "Texas",
+  "type": "LOCATION"
+ },
+ "georgia-pacific": {
+  "text": "Georgia-Pacific",
+  "type": "ORGANIZATION"
+ },
+ "$ 3.18 miliar": {
+  "text": "$ 3.18 miliar",
+  "type": "QUANTITY"
+ },
+ "great northern nekoosa": {
+  "text": "Great Northern Nekoosa",
+  "type": "ORGANIZATION"
+ },
+ "dow jones industrial": {
+  "text": "Dow Jones Industrial",
+  "type": "ORGANIZATION"
+ },
+ "41.60 poin": {
+  "text": "41.60 poin",
+  "type": "QUANTITY"
+ },
+ "ual corp": {
+  "text": "UAL Corp",
+  "type": "ORGANIZATION"
+ },
+ "$ 20.125 per lembar saham": {
+  "text": "$ 20.125 per lembar saham",
+  "type": "QUANTITY"
+ },
+ "$ 62.875": {
+  "text": "$ 62.875",
+  "type": "QUANTITY"
+ },
+ "$ 58 per saham": {
+  "text": "$ 58 per saham",
+  "type": "QUANTITY"
+ },
+ "$ 2.50 per lembar saham": {
+  "text": "$ 2.50 per lembar saham",
+  "type": "QUANTITY"
+ },
+ "$ 50.875": {
+  "text": "$ 50.875",
+  "type": "QUANTITY"
+ },
+ "sebesar 0.2 %": {
+  "text": "sebesar 0.2 %",
+  "type": "QUANTITY"
+ },
+ "oktober": {
+  "text": "Oktober",
+  "type": "TIME"
+ },
+ "november": {
+  "text": "november",
+  "type": "TIME"
+ },
+ "november 79": {
+  "text": "november 79",
+  "type": "TIME"
+ },
+ "176.1 juta lembar saham": {
+  "text": "176.1 juta lembar saham",
+  "type": "QUANTITY"
+ },
+ "kurang dari $ 2.50": {
+  "text": "kurang dari $ 2.50",
+  "type": "QUANTITY"
+ },
+ "$ 1,000": {
+  "text": "$ 1,000",
+  "type": "QUANTITY"
+ },
+ "1.8415 marks": {
+  "text": "1.8415 marks",
+  "type": "QUANTITY"
+ },
+ "142.85 yen": {
+  "text": "142.85 yen",
+  "type": "QUANTITY"
+ },
+ "1.8340 marks": {
+  "text": "1.8340 marks",
+  "type": "QUANTITY"
+ },
+ "141.90 yen": {
+  "text": "141.90 yen",
+  "type": "QUANTITY"
+ },
+ "monday": {
+  "text": "Monday",
+  "type": "TIME"
+ },
+ "bouygues s.a .": {
+  "text": "Bouygues S.A .",
+  "type": "ORGANIZATION"
+ },
+ "1989": {
+  "text": "1989",
+  "type": "TIME"
+ },
+ "188 juta francs": {
+  "text": "188 juta francs",
+  "type": "QUANTITY"
+ },
+ "$ 30.2 juta": {
+  "text": "$ 30.2 juta",
+  "type": "QUANTITY"
+ },
+ "65 juta francs": {
+  "text": "65 juta francs",
+  "type": "QUANTITY"
+ },
+ "22.61 miliar francs": {
+  "text": "22.61 miliar francs",
+  "type": "QUANTITY"
+ },
+ "18.69 miliar francs": {
+  "text": "18.69 miliar francs",
+  "type": "QUANTITY"
+ },
+ "bouygues": {
+  "text": "Bouygues",
+  "type": "ORGANIZATION"
+ },
+ "519 juta francs": {
+  "text": "519 juta francs",
+  "type": "QUANTITY"
+ },
+ "50 miliar francs": {
+  "text": "50 miliar francs",
+  "type": "QUANTITY"
+ }
 }
