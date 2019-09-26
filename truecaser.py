@@ -34,15 +34,42 @@ def capitalize_named_entities(text):
     entity_capitalizations = json.loads(open(os.path.join(current_dir_path, "entity_capitalizations.json")).read())
 
     tagged_text = tag(text)
-    result = []
-    for token in tagged_text:
-        if (token[0].lower() in entity_capitalizations):
-            result.append(entity_capitalizations[token[0].lower()]["text"])
-        else:
-            result.append(token[0])
+    result = text
 
-    detokenizer = MosesDetokenizer(lang="id")
-    return detokenizer.detokenize(result)
+    tagged_entities = []
+    
+    container = ""
+    is_combining = False
+    
+    for i, token in enumerate(tagged_text):
+        token_text = token[0].lower()
+        token_code = token[1][0]
+        
+        if (not is_combining and token_code == "B"):
+            is_combining = True
+            container = token_text
+        elif (not is_combining and token_code == "I"):
+            raise Exception()
+        elif (is_combining and token_code == "B"):
+            tagged_entities.append(container)
+            container = token_text
+        elif (is_combining and token_code == "I"):
+            container += (" " + token_text)
+
+        if (i == (len(tagged_text) - 1)):
+            tagged_entities.append(container)
+
+    print(tagged_entities)
+
+    for entity in tagged_entities:
+        lowercased_entity = entity.lower()
+        if (lowercased_entity in entity_capitalizations):
+            result = result.replace(
+                lowercased_entity,
+                entity_capitalizations[lowercased_entity]["text"]
+            )
+
+    return result
 
 def capitalize_quotation_beginning(text):
     # 06: Mengkapitalisasikan setiap huruf pada awal kalimat dalam tanda kutip
