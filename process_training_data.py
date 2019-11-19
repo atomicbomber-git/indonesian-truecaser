@@ -6,7 +6,6 @@ import json
 from html.parser import HTMLParser
 from nltk.tokenize import word_tokenize
 
-tags = ["ORGANIZATION", "PERSON"]
 conversion_table_filename = "entity_capitalizations.json"
 raw_training_filename = "data_train.txt"
 training_filename = "training.tsv"
@@ -39,8 +38,12 @@ class CustomHTMLParser(HTMLParser):
             }
 
             for i, token in enumerate(tokens):
-                if self.tag in tags:
-                    prefix = "I"
+                # Sebelumnya disini hanya tag PERSON dan ORGANIZATION yang dianggap sebagai tag yang sah.
+                # Sekarang semua tag, termasuk LOCATION, QUANTITY, TIME, dsb. juga dianggap sebagai tag yg sah,
+                # sehingga format IOB yang terdapat pada training.tsv menjadi benar.
+                
+                prefix = "I"
+                
                 if i == 0:
                     prefix = "B"
 
