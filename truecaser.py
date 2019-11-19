@@ -5,6 +5,7 @@ from tagger import tag
 from sacremoses import MosesDetokenizer
 import json
 import os
+import string
 
 # Memroses teks input
 def process(text):
@@ -33,7 +34,7 @@ def capitalize_named_entities(text):
     entity_capitalizations = json.loads(open(os.path.join(current_dir_path, "entity_capitalizations.json")).read())
 
     tagged_text = tag(text)
-    result = text
+    result = text.lower()
 
     tagged_entities = []
     
@@ -53,13 +54,16 @@ def capitalize_named_entities(text):
             tagged_entities.append(container)
             container = token_text
         elif (is_combining and token_code == "I"):
-            container += (" " + token_text)
+            if (token_text in string.punctuation):
+                container += token_text
+            else:
+                container += (" " + token_text)
 
         if (i == (len(tagged_text) - 1)):
             tagged_entities.append(container)
 
+    print("Hasil deteksi entitas bernama: ")
     print(tagged_text, end="\n\n")
-    print(tagged_entities)
 
     for entity in tagged_entities:
         lowercased_entity = entity.lower()
@@ -87,13 +91,18 @@ def file_to_text(file):
 
 if __name__ == "__main__":
 
-    parser = argparse.ArgumentParser(description='''
-     Menerima input berupa file teks dan menghasilkan output berupa teks serupa, 
+    parser = argparse.ArgumentParser(
+        description='''Menerima input berupa file teks dan menghasilkan output berupa teks serupa, 
      dengan penggunaan huruf kapital yang 
      benar sesuai dengan aturan PUBI.
     ''')
-    parser.add_argument('file', metavar='file', nargs=1,
-                        type=argparse.FileType('r'), help='file teks input')
+    parser.add_argument(
+        'file',
+        metavar='file',
+        nargs=1,
+        type=argparse.FileType('r'),
+        help='file teks input'
+    )
 
     args = parser.parse_args()
     file = args.file[0]

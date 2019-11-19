@@ -12,7 +12,11 @@
   "type": "LOCATION"
  },
  "jalan situbondo nomor 10, menteng, jakarta pusat": {
-  "text": "Jalan Situbondo nomor 10, Menteng, Jakarta Pusat",
+  "text": "Jalan Situbondo n`omor 10, Menteng, Jakarta Pusat",
+  "type": "LOCATION"
+ },
+ "rumah sakit pusat pertamina , jakarta pusat": {
+  "text": "Rumah Sakit Pusat Pertamina, Jakarta Pusat",
   "type": "LOCATION"
  },
  "kamis (25/9/2014)": {
